@@ -1,0 +1,199 @@
+{{Short description|Dengue fever epidemic in 2019–2020}}
+{{Use dmy dates|date=January 2021|cs1-dates=y}}
+[[File:2019-2020 dengue fever epidemic_(1).png|thumb|300px|Number of confirmed cases by country:
+{{legend|#280b0b|1,000,000+ cases}}
+{{legend|#782121|100,000–999,999 cases}}
+{{legend|#c83737|10,000–99,999 cases}}
+{{legend|#e9afaf|1,000–9,999 cases}}
+{{legend|#fff6d5|1–999 cases}}
+{{legend|#c0c0c0|No cases reported/no sufficient data}}]]
+The '''2019–2020 dengue fever epidemic''' was an [[epidemic]] of the infectious disease [[dengue fever]] in several countries of [[Southeast Asia]], including the [[Philippines]], [[Malaysia]], [[Vietnam]], and [[Bangladesh]],<ref name= "Guardian">{{cite news|url= https://www.theguardian.com/world/2019/aug/07/philippines-declares-epidemic-after-dengue-fever-kills-more-than-600|title=Philippines declares epidemic after dengue fever kills more than 600| work =[[The Guardian]]|date=7 August 2019}}</ref> [[Pakistan]],<ref name="Dawn">{{cite news |title=Dengue cases surpass all-time record in the country |url= https://www.dawn.com/news/1510896 |work= Dawn |date=15 October 2019}}</ref> [[India]], [[Thailand]], [[Singapore]], and [[Laos]].<ref name="Laos">{{Cite web|url= http://www.xinhuanet.com/english/2019-07/09/c_138211770.htm |title=Lao gov't issues nationwide dengue warning |website= Xinhua|date=9 July 2019}}</ref> The spread of the disease was exacerbated by falling vaccination levels in certain areas, and by a growing population of [[mosquito]]es, which are the primary carriers of the disease, and which are able to reproduce in larger numbers where humans have littered the environment with plastic containers, which provide an ideal breeding ground for mosquitoes. Affected countries have sought to control the epidemic through increased vaccination efforts, and through efforts to control the mosquito population.
+
+==Course in specific countries==
+===Bangladesh===
+{{main|2019 dengue outbreak in Bangladesh}}
+In [[Bangladesh]], the Communicable Disease Control (CDC) unit of the [[Directorate General of Health Services]] (DGHS) carried out a survey in [[Dhaka]] city in January 2019, where they found both [[larva]] and adult [[Aedes]] mosquitoes in different parts of the city. Based on the outcome of the survey, in March 2019, warned of a potential outbreak DGHS alerted both city corporations about a possible outbreak in upcoming months. According to CDC director Sanya Tahmina, they also started training the doctors and nurses from February considering the possibility of a future outbreak.<ref name= "Ittefaq 2019-07-30">{{cite news |last=Khayer |first=Abul |url= https://www.ittefaq.com.bd/national/75899 |title=ডেঙ্গু নিয়ে আগাম বার্তা আমলে নেয়নি কর্তৃপক্ষ |language=Bangla |work=[[The Daily Ittefaq]] |location=Dhaka |date=30 July 2019 |url-status=live |archive-url=https://web.archive.org/web/20190802125335/https://www.ittefaq.com.bd/national/75899 |archive-date=2 August 2019 |accessdate=2 August 2019 }}</ref> [[2019 dengue outbreak in Bangladesh|The 2019 outbreak in Bangladesh]] began primarily in April 2019. According to [[Directorate General of Health Services]] (DGHS), 14 people had died and 19,513 people had been affected by August 2019,<ref name="bdnews24 2019-08-01-1">{{cite news |url=https://bangla.bdnews24.com/bangladesh/article1650032.bdnews |title=ডেঙ্গু: নতুন আক্রান্ত ১৭১২ জন |language=Bangla |work=[[Bdnews24.com]] |location=Dhaka |date=1 August 2019 |accessdate=1 August 2019 }}</ref> a majority of whom were children,<ref name="CNN 2019-07-30-1">{{cite news |last1=Dayaram |first1=Sareena |last2=Pokharel |first2= Sugam |url= https://edition.cnn.com/2019/07/30/asia/bangladesh-dengue-outbreak-hnk-intl/ |title=Bangladesh hit by worst dengue outbreak on record |work=[[CNN]] |date= 30 July 2019 |accessdate=30 July 2019 }}</ref> with other sources reporting that the death toll had already passed 50.<ref name= "bdnews24 2019-08-01-1"/> DGHS confirmed the outbreak affecting all [[Districts of Bangladesh|districts of the country]],<ref name="Banglanews24 2019-08-01">{{cite news |last=Azeem |first=Masud |url= https://www.banglanews24.com/health/news/bd/731493.details |title=৬৪ জেলায়ই ডেঙ্গু, ঘণ্টায় ভর্তি ৭১ জন |language= bn |work= [[Banglanews24.com]] |location=Dhaka |date=1 August 2019 |accessdate=1 August 2019}}</ref> with [[Dhaka]] being the worst-hit city in the country and districts in [[Dhaka Division]] among the most affected regions.<ref name="CNN 2019-07-30-1" /> The [[Institute of Epidemiology, Disease Control and Research]] (IEDCR) expected the outbreak to continue until September 2019.<ref name="Banglanews24 2019-07-31">{{cite news |url= https://www.banglanews24.com/health/news/bd/731251.details |title=সেপ্টেম্বর পর্যন্ত বাড়তে পারে ডেঙ্গুর প্রকোপ |language= bn |work= [[Banglanews24.com]] |location=Dhaka |date=31 July 2019 |accessdate= 31 July 2019}}</ref> In August 2019, the Bangladesh government withdrew all tariffs on dengue test kits imports.<ref>{{Cite web|url= https://en.barta24.com/details/National/48447/govt-withdraws-all-tariffs-on-dengue-test-kit-imports|title=Govt withdraws all tariffs on dengue test kits imports |date= 5 August 2019 |website= Barta24 |access-date=19 August 2019}}</ref>
+
+===Malaysia===
+The [[Ministry of Health (Malaysia)|Malaysian Ministry of Health]] reported that by 3 August 2019, the number of cases in Malaysia had reached a record 80,000 on the year, with 113 deaths reported. The highest incidences were in the states of [[Selangor]], the [[Johor]], [[Kelantan]], [[Sabah]], [[Penang]], [[Sarawak]], [[Negeri Sembilan]] and [[Pahang]], as well as the [[Federal territories (Malaysia)|Federal territories]].<ref name="Straits">{{cite web|url=https://www.straitstimes.com/asia/se-asia/dengue-cases-in-malaysia-climb-to-nearly-80000|title=Dengue cases in Malaysia climb to nearly 80,000|publisher=[[The Straits Times]]|date=11 August 2019}}</ref> The Malaysian government sought to counter the epidemic by releasing mosquitoes of the genus ''[[Aedes]]'' infected with the ''[[Wolbachia]]'' [[bacteria]], which was expected to reduce the mosquito population.<ref name="Straits"/>
+
+===Pakistan===
+In Pakistan, in the summer of 2019, more than 47 people died and more than 30,000 were infected by dengue fever, the worst outbreak of the disease in the history of the country.<ref name="Dawn"/><ref>{{cite news |title=Official says deadly dengue outbreak in Pakistan is among worst ever |url=https://www.japantimes.co.jp/news/2019/10/04/asia-pacific/science-health-asia-pacific/official-says-deadly-dengue-outbreak-pakistan-among-worst-ever/ |work=The Japan Times |date=4 October 2019}}</ref> In October 2019, Prime Minister [[Imran Khan]] took notice of the outbreak and sought a report from the Special Assistant to Prime Minister on National Health Services Zafar Mirza.<ref>{{cite news |title=PM Imran takes strict notice of dengue outbreak |url=https://dunyanews.tv/en/Pakistan/512014 |work=Dunya News |date=1 October 2019}}</ref> On 10 October 2019, a [[Peshawar High Court]] bench sent summons to the [[Khyber Pakhtunkhwa]]'s provincial health secretary to explain the situation related to dengue outbreak in parts of the province.<ref>{{cite news |title=PHC summons health secy over dengue outbreak |url=https://www.dawn.com/news/1510167 |work=Dawn |date=11 October 2019}}</ref>
+
+===Philippines===
+In August 2019, the [[Philippines]] declared an epidemic after more than 622 people had died of the disease in that country.<ref name="Guardian"/><ref name="CNN">{{Cite web|url=https://www.cnn.com/2019/08/07/health/philippines-dengue-epidemic-intl-hnk/index.html|title=Philippines declares a national dengue epidemic after 622 deaths|first1=Jessie|last1=Yeung|first2=Sarah|last2=Faidell|website=CNN|date=7 August 2019}}</ref>
+
+The [[Philippines Department of Health]] reported that there were over 146,000 dengue fever cases from the beginning of 2019 to 20 July, which was "a 98% increase from the same time period last year".<ref name="CNN"/> The epidemic occurred in the regions of [[Calabarzon]], [[Mimaropa]], [[Bicol Region|Bicol]], [[Western Visayas]], [[Eastern Visayas]], [[Zamboanga Peninsula]], and [[Northern Mindanao]].<ref name="CNN"/> The epidemic was largely blamed on falling vaccination rates, following a series of issues with the [[Dengvaxia]] vaccine manufactured by [[Sanofi Pasteur]]. In 2017, Sanofi warned of possible adverse effects,<ref>{{cite web|url=https://www.nytimes.com/2017/12/01/world/asia/philippines-dengue-vaccine.html|title=Philippines Suspends Dengue Shots After Drug Firm's Warning|first=Felipe|last=Villamor|work=[[New York Times]]|date=1 December 2017}}</ref> and in 2018 the vaccine was blamed for the deaths of children during a national vaccination program.<ref name="Guardian"/>
+
+===Vietnam===
+In Vietnam, dengue fever cases tripled from the previous year, to 88,000 by mid-July, with six deaths.<ref name="Vietnam">{{Cite web|url=http://www.xinhuanet.com/english/2019-07/12/c_138221506.htm|title=Dengue fever infections treble in Vietnam since January - Xinhua &#124; English.news.cn|website=www.xinhuanet.com|date=12 July 2019}}</ref> By 19 November, Vietnam had recorded 250,000 cases with 50 deaths. The epidemic is most prevalent in the southern region of the country, where locals store rainwater in containers for use in farming, providing a breeding ground for mosquitoes.<ref name="Vietnam"/> In neighboring Laos, dengue fever cases exceeded 11,000 by mid-year, with 27 deaths, prompting the [[Lao Ministry of Health]] to recommend that likely mosquito breeding sites should be drained.<ref name="Laos"/>
+
+===Latin America===
+In Latin America, 2019 was a record-setting dengue fever outbreak, with more than 2.7 million cases and 1206 deaths during the first 10 months of 2019.<ref name="Latin America">{{Cite web|url=https://www.who.int/news-room/detail/21-11-2019-who-region-of-the-americas-records-highest-number-of-dengue-cases-in-history-cases-spike-in-other-regions|title=WHO Region of the Americas records highest number of dengue cases in history- cases spike in other regions|date=21 November 2019}}</ref><ref name="Central America">{{Cite web|url=https://www.npr.org/sections/goatsandsoda/2019/12/17/788965365/why-dengue-fever-cases-are-hitting-record-highs-in-latin-america|title=Why Dengue Fever Cases Are Hitting Record Highs In Latin America|date=19 December 2019}}</ref>
+
+===Other places===
+In the summer of 2019 an outbreak was confirmed in Oceania. 276 cases and one death were reported in the [[Marshall Islands]], resulting in the government halting travel between the urban centers of [[Ebeye]] and [[Majuro]] to the outer islands.<ref>{{cite web|title=Marshalls confirms first dengue death|url=https://www.rnz.co.nz/international/pacific-news/398139/marshalls-confirms-first-dengue-death|first=Giff|last=Johnson|date=4 September 2019|accessdate=4 September 2019|publisher=[[Radio New Zealand]]}}</ref> Outbreakers were also reported in [[Palau]], [[Federated States of Micronesia]], the [[Cook Islands]], [[Tuvalu]], and the [[Philippines]].<ref>{{cite web|title=WHO says 2019 'worse than usual' for dengue in Pacific|url=https://www.rnz.co.nz/international/pacific-news/397502/who-says-2019-worse-than-usual-for-dengue-in-pacific|date=26 August 2019|accessdate=4 September 2019|publisher=[[Radio New Zealand]]}}</ref>
+
+The [[European Centre for Disease Prevention and Control]] reported that the epidemic had affected the French island of [[Réunion]], off the coast of Africa, with "over 15,000 autochthonous confirmed cases" being reported as of mid-2019, including nine deaths.<ref>{{cite web|url=https://ecdc.europa.eu/en/publications-data/rapid-risk-assessment-dengue-outbreak-reunion-france-and-associated-risk|publisher=European Centre for Disease Prevention and Control|title=Rapid risk assessment: Dengue outbreak in Réunion, France, and associated risk of autochthonous outbreak in the EU/EEA|date=18 June 2019}}</ref> The ECDC expressed concern that Réunion's European tourism industry could provide a vector for the transmission of the virus to Europe. A systematic review that was done by Ahmed et al. revealed the appearance of autochthonous dengue in Europe along with the increase in imported dengue and dengue severity. Therefore, health authorities pay more attention and update the protocols in order to catch dengue infection among travelers coming from and to Europe.<ref>{{cite journal |last1=Ahmed |first1=Ali Mahmoud |last2=Mohammed |first2=Abdelrahman Tarek |last3=Vu |first3=Thao T. |last4=Khattab |first4=Mohammed |last5=Doheim |first5=Mohamed Fahmy |last6=Ashraf Mohamed |first6=Ahmed |last7=Abdelhamed |first7=Mai Mahmoud |last8=Shamandy |first8=Bahaa Eldin |last9=Dawod |first9=Mahmoud Tamer |last10=Alesaei |first10=Wafaa Ali |last11=Kassem |first11=Mahmoud Attia |last12=Mattar |first12=Omar Mohamed |last13=Smith |first13=Chris |last14=Hirayama |first14=Kenji |last15=Huy |first15=Nguyen Tien |title=Prevalence and burden of dengue infection in Europe: A systematic review and meta‐analysis |journal=Reviews in Medical Virology |date=13 December 2019 |volume=30 |issue=2 |pages=e2093 |doi=10.1002/rmv.2093|pmid=31833169 |s2cid=209343267 |url=https://researchonline.lshtm.ac.uk/id/eprint/4655688/2/62%20revised%20manuscript%203.docx }}</ref>
+
+In November 2019, the epidemic struck [[Yemen]], with nearly 8,000 cases in [[Taiz Governorate]] before the end of the month.<ref>{{cite web|url=https://apnews.com/033d294dd3664b24954c3d90128c154e|title=Red Cross reports new outbreak of dengue fever in Yemen|first=Edith M.|last=Lederer|publisher=[[Associated Press]]|date=25 November 2019}}</ref>
+
+== Statistics ==
+{| class="wikitable sortable mw-collapsible" style="text-align:center;"
+|+Cases until 15 May 2020
+!rowspan=2 |Country and territories
+!colspan=2 |2019<br /><ref name="paho1"/><ref name="paho2"/><ref>{{Cite book |url=https://iris.wpro.who.int/bitstream/handle/10665.1/14329/Dengue-20191219.pdf|title=Update on the Dengue situation in the Western Pacific Region|number=584|publisher=WPR/[[Organización Mundial de la Salud|OMS]]|date=19 December 2019}}</ref><ref>{{Cite book|url= https://iris.wpro.who.int/bitstream/handle/10665.1/14461/Dengue-20200102.pdf|title=Update on the Dengue situation in the Western Pacific Region|number=585|publisher=WPR/[[Organización Mundial de la Salud|OMS]]|date=2 January 2020}}</ref>
+!colspan=2 |2020<br /><ref name= "paho1">{{cite web|url= https://www.paho.org/data/index.php/es/temas/indicadores-dengue/dengue-nacional/9-dengue-pais-ano.html|title=Casos de dengue|publisher=[[Organización Panamericana de la Salud|OPS]]/[[Organización Mundial de la Salud|OMS]]|access-date=26 March 2020}}</ref><ref name= "paho2">{{Cite web|url= https://www.paho.org/data/index.php/es/temas/indicadores-dengue/dengue-nacional/237-dengue-casos-muertes-pais-ano.html |title=Casos y muertes dengue grave|date=11 March 2015|accessdate=18 March 2020|publisher=OPS/OMS}}</ref><ref>{{Cite book|url= https://www.who.int/docs/default-source/wpro---documents/emergency/surveillance/dengue/dengue-20200326.pdf?sfvrsn=5160e027_24|title=Update on the Dengue situation in the Western Pacific Region|number=591|publisher=WPR/[[Organización Mundial de la Salud|OMS]]|access-date=30 March 2020}}</ref><ref>{{cite web|url= https://www.ecdc.europa.eu/en/dengue-monthly |title=Dengue worldwide overview|publisher=ECDC|access-date=26 March 2020}}</ref>
+!colspan=2 | Total
+!rowspan=2 | Ref
+|-
+!Cases
+!Deaths
+!Cases
+!Deaths
+!Cases
+!Deaths
+|-
+|align="left"|{{BRA}} || 2,225,461 || 789 || 794,565 || 221 || 3,020,026 || 1,010 ||
+|-
+|align="left"|{{PHL}} || 420,453 || 1,565 || 60,819 || 236 || 481,272 || 1,801 ||
+|-
+|align="left"|{{VIE}} || 320,702 || 54 || 60,525 || 7 || 381,227 || 61 ||
+|-
+|align="left"|{{MEX}} || 268,458 || 191 || 29,941 || 11 || 298,399 || 202 ||
+|-
+|align="left"|{{NIC}} || 186,173 || 30 || 22,951 || 0 || 209,124 || 30 ||
+|-
+|align="left"|{{COL}} || 127,553 || 87 || 49,561 || 19 || 177,114 || 106 ||
+|-
+|align="left"|{{MYS}} || 127,407 || 176 || 72,952 || 118 || 200,359 || 294 ||
+|-
+|align="left"|{{BOL}} || 80,460 || 23 || 68,570 || 19 || 149,030 || 42 ||
+|-
+|align="left"|{{IND}} || 157,315 || 166 || 12,078 || 8 || 169,393 || 174 || <ref>{{cite book|url= https://nvbdcp.gov.in/index4.php?lang=1&level=0&linkid=431&lid=3715|title=Dengue/DHF Situation in India|publisher=Programa Nacional de Control de Enfermedades transmitidas por Vectores|accessdate=27 March 2020}}</ref><ref>{{cite news|title= Dengue cases on the rise|url= https://www.newindianexpress.com/cities/kochi/2020/feb/04/dengue-cases-on-the-rise-2098498.html|work=[[The New Indian Express]]|date=4 February 2020|accessdate=27 March 2020}}</ref>
+|-
+|align="left"|{{HON}} || 112,708 || 180 ||19,037 || 9 || 131,745 || 189 ||
+|-
+|align="left"|{{SRI}} || 105,049 || 90 || 18,279 || 0 || 123,328 || 90 || <ref name="srilanka">{{cite web|url=http://www.epid.gov.lk/web/index.php?option=com_casesanddeaths&Itemid=448&lang=en|title=Dengue Cases reported|work= Weekly Epidemiological Monitor|publisher= [[Ministry of Health, Nutrition and Indigenous Medicine]]|accessdate=26 March 2020|date=20 March 2020}}</ref><ref>{{cite news|url= https://www.thestar.com.my/news/regional/2020/01/01/90-dead-over-99000-affected-by-dengue-in-sri-lanka-in-2019|title=90 dead, over 99,000 affected by dengue in Sri Lanka in 2019|work=The Star|date=1 January 2020|accessdate=27 March 2020}}</ref>
+|-
+|align="left"|{{THA}} || 98,741 || 106 || 8,147 || 4 || 106,888 || 110 || <ref>{{cite book|url= https://ddc.moph.go.th/uploads/files_en/28120191219084236.pdf|title=Dengue|work=Weekly Disease Forecast|publisher= Departamento de Control de Enfermedades|accessdate=26 March 2020|date=19 October 2019|number=231}}</ref><ref>{{cite book|url=http://www.boe.moph.go.th/boedb/surdata/506wk/y63/d66_0563.pdf|title=Dengue fever|publisher=Departamento de Control de Enfermedades|accessdate=26 March 2020|date=12 February 2020|language=th|archive-date=2020-03-27 |archive-url=https://web.archive.org/web/20200327014757/http://www.boe.moph.go.th/boedb/surdata/506wk/y63/d66_0563.pdf|url-status=dead}}</ref>
+|-
+|align="left"|{{BAN}} || 101,354 || 129 || 271 || 0 || 101,625 || 129 || <ref>{{cite journal|first1= Mohammed A|last1=Mamun|first2= Jannatul Mawa|last2=Misti|first3=Mark D |last3=Griffiths|first4=David|last4=Gozal |url=https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(19)32524-3/fulltext|title=The dengue epidemic in Bangladesh: risk factors and actionable items|journal=[[The Lancet]]|accessdate=26 March 2020|date=14 December 2019|volume=394|number=10215 |pages=2149–2150|doi=10.1016/S0140-6736(19)32524-3|pmid=31839186|s2cid=209333186|doi-access=free}}</ref><ref>{{cite news|url= https://www.newagebd.net/article/103003/2-new-dengue-patients-detected-in-24hrs-dghs|title=2 new dengue patients detected in 24hrs: DGHS|work=[[New Age (Bangladés)|New Age]]|date=23 March 2020|accessdate=26 March 2020}}</ref>
+|-
+| align="left" |{{PAR}} || 11,811 || 9 || 61,971 || 73 || 73,782 || 82 || <ref>{{cite news|url=https://www.mspbs.gov.py/portal/20658/fin-de-la-epidemia-de-dengue-mas-grande-de-las-ultimas-dos-decadas.html|title=Fin de la epidemia de Dengue más grande de las últimas dos décadas|publisher=[[Ministerio de Salud Pública y Bienestar Social]]|date=27 March 2020|accessdate=28 March 2020}}</ref><ref>{{Cite web|title=WEB D.G.V.S.|url=http://vigisalud.gov.py/page/#vista_boletines_dpto.html|access-date=10 December 2020|website=vigisalud.gov.py}}</ref>
+|-
+|align="left"|{{CAM}} || 65,000 || 24 || 7,823 || 9 || 72,823 || 33 ||
+|-
+|align="left"|{{PAK}} || 54,386 || 95 || 416 || 0 || 54,802 || 95 || <ref>{{cite book|url= http://applications.emro.who.int/docs/epi/2020/22244220-2020-13-03.pdf?ua=1|title=Dengue situation in Pakistan|work=Weekly Epidemiological Monitor|publisher=ROEM/[[Organización Mundial de la Salud|OMS]]|accessdate=26 March 2020|date=19 January 2020|issue=3|volume=13|issn=2224-4220}}</ref><ref>{{cite book|url= https://www.nih.org.pk/wp-content/uploads/2020/02/05-FELTP-Pakistan-Weekly-Epidemiological-Report-Jan-27-Feb-02-2020-1.pdf|title=Weekly Field Epidemiological Report|work=Weekly Epidemiological Monitor|publisher=[[Ministry of National Health Services, Regulation and Coordination]]|accessdate=26 March 2020|date=12 February 2020|issue=2|volume=2}}</ref>
+|-
+|align="left"|{{GUA}} || 50,432 || 66 || 3,384 || 4 || 53,816 || 70 ||
+|-
+|align="left"|{{SIN}} || 15,998 || 20 || 34,690 || 28 || 50,688 || 48 || <ref>{{cite web|url= https://www.nea.gov.sg/dengue-zika/dengue/dengue-cases|title=Dengue Cases|publisher=[[National Environment Agency]]|accessdate=21 December 2020}}</ref>
+|-
+|align="left"|{{LAO}} || 38,753 || 70 || 7,031 || 12 || 45,784 || 82 ||
+|-
+|align="left"|{{PER}} || 17,143 || 37 || 23,128 || 32 || 40,271 || 69 ||
+|-
+|align="left"|{{SLV}} || 27,470 || 14 || 2,696|| 0 || 30,166 || 14 ||
+|-
+|align="left"|{{ARG}} || 3,220 || 0 || 25,764 || 22 || 28,984 || 22 || <ref>{{cite web|url= https://www.argentina.gob.ar/sites/default/files/biv_491_se12.pdf|title=Boletín Integrado de Vigilancia| work =Dirección Nacional de Epidemiología y Análisis de la Información|publisher=[[Ministry of Health (Argentina)|Ministry of Health]]|accessdate=5 April 2020|date=2 April 2020|number=491|volume=12}}</ref>
+|-
+|align="left"|{{BIR}} || 23,203 || 123 || 296 || || 23,499 || 123 || <ref>{{cite news|url= http://www.xinhuanet.com/english/2019-12/02/c_138599598.htm|title=Dengue fever death toll surges to 123 across Myanmar|agency=[[Xinhua]]|date=2 December 2019|accessdate=28 March 2020}}</ref>
+|-
+|align="left"|{{DOM}}|| 20,183 || 53 || 2,875 || 0 || 23,058 || 53 ||
+|-
+|align="left"|{{CHN}} || 22,211 ||  || 104 || 0 || 22,315 || 0 ||
+|-
+|align="left"|{{REU}} || 18,188 || 14 || 1,248 || 0 || 19,436 || 14 || <ref>{{cite book|title=Point sur la dengue à La Réunion|url=https://www.lareunion.ars.sante.fr/system/files/2019-12/2019-12-31_CP_Dengue-Reunion_0.pdf|publisher=Préfecture de La Réunion/ARS|location=[[Saint-Denis, Réunion|Saint-Denis]]|date=31 December 2019|accessdate=28 March 2020|language=fr}}</ref><ref>{{cite book |title=Dengue à la Réunion - Reprise de la circulation épidémique|url= https://www.santepubliquefrance.fr/regions/ocean-indien/documents/bulletin-regional/2020/surveillance-de-la-dengue-a-la-reunion.-point-au-17-mars-2020|publisher=Santé publique France|date=17 March 2020|accessdate=28 March 2020|language=fr}}</ref>
+|-
+|align="left"|{{VEN}} || 14,701 || 22 || 2,885 || 6 || 17,586 || 28 ||
+|-
+|align="left"|{{ECU}} || 8,446 || 2 || 7,388 || 6 || 15,834 || 8 ||
+|-
+|align="left"|{{NEP}} || 14,662 || 6 || 36 || 0 || 14,698 || 6 || <ref>{{cite journal|first1=Niran|last1=Adhikari|first2=Dinesh|last2=Subedi|url= |title=The alarming outbreaks of dengue in Nepal|number=5|volume=48|journal=Tropical Medicine and Health|date=7 February 2020|page=5|doi=10.1186/s41182-020-0194-1|pmid=32055230|pmc=7007638|language=en}}</ref><ref>{{cite news|first=Sabitri|last=Dhakal|title=Dengue cases reported across country|url=https://thehimalayantimes.com/nepal/dengue-cases-reported-across-country-2/|work=[[The Himalayan Times]]|date=15 March 2020|accessdate=27 March 2020|language=en}}</ref>
+|-
+|align="left"|{{PAN}} || 9,225 || 5 || 3,029 || 2 || 12,254 || 7 ||
+|-
+|align="left"|{{CRI}} || 9,400 || 0 || 1,568 || 0 || 10,968 || 0 ||
+|-
+|align="left"| {{BLZ}} || 8,302 || 0 || 473 || 0 || 8,775 || 0 ||
+|-
+|align="left"|{{JAM}} || 7,555 || 24 || 558 || 1 || 8,113 || 25 ||
+|-
+|align="left"|{{GLP}} || 3,230 || 0 || 4,605 || 0 || 7,835 || 0 ||
+|-
+|align="left"|{{MDV}} || 4,984 || 0 || 1,912 || 0 || 6,896 || 0 || <ref>{{cite tweet|user=HPA_MV|title=ޑެންގީ އާއި އިންފްލުއެންޒާ އަދި ބޭރަށް ހިންގުމުގެ ހަފްތާ ރިޕޯޓު - 31 ޑިސެމްބަރ 2019|number= 1211931703410708480|date=31 December 2019|access-date=27 March 2020|language=dv}}</ref><ref>{{cite tweet|user=HPA_MV|title= Weekly report: Dengue and Chikungunya|number=1125798932414517248|access-date=27 March 2020|language=dv}}</ref>
+|-
+|align="left"|{{NCL}} || 3,916 || 2 || 34 || 0 || 3,950 || 2 ||
+|-
+|align="left"|{{SUD}} || 3,823 || 11 ||  ||   || 3,823 || 11 || <ref name="ecdc2019"/>
+|-
+|align="left"|{{MYT}} || 153 || 0 || 3,533 || 16 || 3,686 || 16 || <ref name= "ecdc2019">{{cite book|url= https://www.ecdc.europa.eu/sites/default/files/documents/communicable-disease-threats-report-21-dec-2019-PUBLIC.pdf|title=Communicable Disease Threats Report, 15-21 December 2019, week 51|publisher=ECDC|date=20 December 2019|accessdate=28 March 2020|language=fr}}</ref>
+|-
+|align="left"|{{PYF}} || 3,196 || 0 || 431 || 0 || 3,627 || 0 ||
+|-
+|align="left"|{{CUB}} || 3,259 || 0 ||   ||   || 3,259 || 0 ||
+|-
+|align="left"|{{MHL}}|| 1,483 || 1 || 1,659 || 2 || 3,142 || 3 || <ref name="ecdc2019"/>
+|-
+|align="left"|{{MTQ}}|| 1,530 || 0 || 802 || 0 || 2,332 || 0 ||
+|-
+|align="left"|{{AUS}} || 1,419 || 0 || 174 || 0 || 1,593 || 0 ||
+|-
+|align="left"|{{ATG}} || 1,223 || 0 || 341 || 0 || 1,564 || 0 ||
+|-
+|align="left"|{{MAF}} || 260 || 0 || 1,250 || 1 || 1,510 || 1 ||
+|-
+|align="left"|{{USA}} || 1,158 || 0 || 107 || 0 || 1,265 || 0 ||
+|-
+|align="left"|{{DMA}} || 1,066 || 1 || 37 || 0 || 1,103 || 1 ||
+|-
+|align="left"|{{GUF}} || 250 || 0 || 719 || 0 || 969 || 0 ||
+|-
+|align="left"|{{TTO}} || 416 || 0 || 20 || 0 || 436 || 0 ||
+|-
+|align="left"|{{SUR}} || 86 || 0 || 157 || 0 || 243 || 0 ||
+|-
+|align="left"|{{GUY}} || 230 || 0 || 10 || 0 || 240 || 0 ||
+|-
+|align="left"|{{PRI}} || 30 || 0 || 112 || 0 || 142 || 0 ||
+|-
+|align="left"|{{ARU}} || 106 || 0 || 0 || 0 || 106 || 0 ||
+|-
+|align="left"|{{HAI}} || 93 || 0 || 9 || 0 || 102 || 0 ||
+|-
+|align="left"|{{CHI}} || 38 || 0 || 7 || 0 || 45 || 0 || <ref>{{cite web|title=Dengue – Chile|url= https://www.who.int/csr/don/22-february-2020-dengue-chile/es/|archive-url= https://web.archive.org/web/20200421021801/https://www.who.int/csr/don/22-february-2020-dengue-chile/es/|url-status= dead|archive-date= 21 April 2020|publisher=OMS|date=22 February 2020|accessdate=27 March 2020}}</ref>
+|-
+|align="left"|{{BAR}} || 44 || 0 || 0 || 0 || 44 || 0 ||
+|-
+|align="left"|{{BAH}} || 27 || 0 || 0 || 0 || 27 || 0 ||
+|-
+|align="left"|{{URU}} || 0 || 0 || 14 || 0 || 14 || 0 ||
+|-
+|align="left"|{{ANG}} || 6 || 0 || 6 || 0 || 12 || 0 ||
+|-
+|align="left"|{{BER}} || 2 || 0 || 0 || 0 || 2 || 0 ||
+|-
+!Total
+!4,700,522
+!3,244
+!1,461,872
+!686
+!6,162,394
+!3,930
+!  
+|-
+|}
+
+==See also==
+* [[2019 dengue outbreak in Bangladesh]]
+* [[2019 dengue outbreak in Pakistan]]
+
+==References==
+{{reflist}}
+
+[[Category:2019 health disasters|Dengue]]
+[[Category:2020 health disasters|Dengue]]
+[[Category:2010s disease outbreaks|Dengue]]
+[[Category:2020s disease outbreaks|Dengue]]
+[[Category:Dengue fever outbreaks|2020]]

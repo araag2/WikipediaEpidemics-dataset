@@ -1,0 +1,51 @@
+{{Short description|East Africa fever outbreak}}
+{{infobox epidemic
+| name            = 2006-2007 East African Rift Valley fever outbreak
+| disease         = 
+| pathogen_strain = Rift Valley fever
+| location        = Kenya, Somalia, Tanzania
+| dates           = 
+| origin          = 
+| confirmed_cases = 1064
+| recovery_cases  = 670
+| deaths          = 394
+}}
+[[File:Boran cattle in Kenya.jpg|right|thumb|230x230px|[[Boran cattle]] in Kapiti, Kenya. Butchering livestock transmitted the virus.<ref name=":5" />]]
+East Africa had a regional outbreak of [[Rift Valley fever]] in late 2006 that affected [[Kenya]], [[Somalia]], and [[Tanzania]]. During outbreak, 1062 people were infected with Rift Valley fever and 394 people died between December 2006 and December 2007.<ref name=":8">{{Cite web|url=https://www.who.int/news-room/fact-sheets/detail/rift-valley-fever|title=Rift Valley fever|website=www.who.int|language=en|access-date=2020-03-25}}</ref> Rift Valley fever (RVF) is caused by a [[phlebovirus]] in the ''[[Bunyavirales]]'' order which is transmitted by [[mosquito bite]] and contact with infected animal blood;<ref name=":1">{{Cite web|url=https://www.cdc.gov/vhf/rvf/RVF-FactSheet.pdf|title=Rift Valley Fever (RVF)|website=www.CDC.gov|access-date=20 June 2019}}</ref> it mainly infects livestock that come into infectious contact with a [[viral reservoir]] but human beings can also be infected.<ref name=":2">{{Cite journal|last=Munyua|first=Peninah|last2=Murithi|first2=Rees|last3=Wainwright|first3=Sherrilyn|last4=Githinji|first4=Jane|last5=Hightower|first5=Allen|last6=Mutonga|first6=David|last7=Macharia|first7=Joseph|last8=Ithondeka|first8=Peter|last9=Breiman|first9=Rober|date=5 August 2010|title=Rift Valley Fever Outbreak in Livestock in Kenya, 2006–2007|url=http://www.ajtmh.org/docserver/fulltext/14761645/83/2_Suppl/58.pdf?expires=1561264186&id=id&accname=guest&checksum=59846C02CFB91516FB70F0D5FD94EF90|journal=The American Society of Tropical Medicine and Hygiene|volume=83|pages=58-64|doi=10.4269/ajtmh.2010.09-0292|pmc=2913503}}</ref> The outbreak began after a heavy El Niño rain season across East Africa left greater than usual breeding ground for ''[[Aedes aegypti]]'' mosquitos,<ref name=":0">{{Cite web|url=https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5604a3.htm|title=Rift Valley Fever Outbreak --- Kenya, November 2006--January 2007|date=31 January 2007|website=www.cdc.gov|access-date=2019-06-23}}</ref><ref name=":3">{{Cite journal|last=Breiman|first=Robert|last2=Njenga|first2=Kariuki|last3=Cleaveland|first3=Sarah|last4=Sharif|first4=SK|last5=Murithi|first5=Mbabu|last6=King|first6=Lonnie|date=2008|title=Lessons from the 2006–2007 Rift Valley fever outbreak in East Africa: implications for prevention of emerging infectious diseases|url=https://www.researchgate.net/publication/29817168_Lessons_from_the_2006-2007_Rift_Valley_Fever_Outbreak_in_East_Africa_implications_for_prevention_of_emerging_infectious_diseases|journal=Future Virology|volume=8|pages=411-417|via=Research Gate}}</ref> with particularly heavy rainfall over eastern Kenya, central Tanzania, and southern Somalia.<ref name=":5">{{Cite web|url=http://www.fao.org/docs/eims/upload/236966/EW_africa_dec07_rvf.pdf|title=Rift Valley Fever could spread with movement of animals from East Africa|date=December 2007|website=FAO.org}}</ref> While most people infected with the virus experience a relatively mild, flu-like illness without hospitalization, around 8% will develop a severe illness that can include [[eye disease]], [[encephalitis]], [[Viral hemorrhagic fever|hemorrhagic fever]] and death.<ref name=":1" /> During this outbreak, of the 1,062 hospitalized, laboratory-confirmed RVF cases (via anti-RVF [[immunoglobin|ImG]]) assays, 37% died.
+
+== Epidemic ==
+[[File:LakeBaringo.jpg|thumb|Marshlands west of Lake Baringo were flooded, contributing to populations of mosquitos that could spread RVF.<ref name=":7">{{Cite journal|last=Sang|first=Rosemary|date=2010|title=Rift Valley Fever Virus Epidemic in Kenya, 2006/2007: The Entomologic Investigations|url=http://www.ajtmh.org/docserver/fulltext/14761645/83/2_Suppl/28.pdf?expires=1561267873&id=id&accname=guest&checksum=6C1653A769722643CF553731D148E84F|journal=The American Society of Tropical Medicine and Hygiene|volume=83|pages=29|via=The American Society of Tropical Medicine and Hygiene}}</ref>]]
+
+=== Kenya ===
+Unusually heavy rains in Kenya's eastern and coastal regions caused widespread flooding in October 2006 and provided extensive breeding grounds for mosquitos capable of transmitting Rift Valley fever. On 30 November 2006 a man identified as the RVF index case began to show symptoms in Kenya's [[Garissa County]], and he checked into a hospital the next day.<ref name=":0" /> By mid-December, the Ministry of Health had received reports of deaths from an illness featuring fever and generalized bleeding.<ref name=":0" /> Mild cases had likely gone undetected for weeks before the region's mosquito populations climbed after one of the area's heaviest recorded rain seasons.<ref>{{Cite web|url=https://earthobservatory.nasa.gov/images/7341/floods-raise-water-levels-on-lake-victoria|title=Floods Raise Water Levels on Lake Victoria|date=2007-01-24|website=earthobservatory.nasa.gov|language=en|access-date=2019-06-23}}</ref> 11 deaths from RVF were reported in Garissa by December 20.<ref name=":0" /> Cases of began to cluster in Garissa and Baringo counties areas that had been having high livestock mortality and morbidity rates,<ref name=":2" /> which attracted the Kenya Ministry of Health's attention.
+
+The WHO alerted the Global Outbreak and Response Network (GOARN) on December 22 and, in response to a January 2 request for help, sent an 11-member team from GOARNS partners to assist the Ministry of Health in addition regional, provincial governments.<ref name=":6" />
+
+The outbreak peaked on December 27, when Garissa's authorities issued a ban on slaughtering livestock. Other county's began to follow suit with their own bans on the slaughtering of animals, wary of transmission from slaughtered animals.<ref name=":0" /> The Baringo district experienced a total of 169 cases of RVF. A ban on the slaughtering of animals was imposed by the Kenyan Ministry of Health.<ref name=":1" />
+
+=== Somalia ===
+Heavy rainstorms over southern Somalia in December brought about and influx of mosquitos that quickly spread the disease among domestic herds.<ref name=":5" /> By late December, 3 cases had been confirmed in [[Lower Juba]] and dozens of other cases were suspected across Somalia's southern regions.<ref name=":6">{{Cite journal|date=18 May 2007|title=Weekly Epidemiological Record, No. 20: Outbreaks of Rift Valley fever in Kenya, Somalia and United Republic of Tanzania, December 2006–April 2007|url=https://www.who.int/wer/2007/wer8220.pdf?ua=1|journal=Weekly Epidemiological Record|volume=82|pages=168-180|via=World Health Organization}}</ref> On 20 February 2007, 51 deaths were reported in Somalia.<ref name=":8" />
+
+=== Tanzania ===
+Cases of RVF were first reported in livestock on 18 January 2007, with the first human case being confirmed in the [[Arusha]] region in mid-February. <ref name=":4">{{Cite web|url=https://www.who.int/csr/don/2007_03_23/en/|archive-url=https://web.archive.org/web/20141021172245/http://www.who.int/csr/don/2007_03_23/en/|url-status=dead|archive-date=October 21, 2014|title=WHO {{!}} Rift Valley Fever in the United Republic of Tanzania|website=WHO|access-date=2020-03-25}}</ref> By mid-March, new clusters of the disease were detected in the [[Dodoma District|Dodoma]] and Morogoro regions.<ref name=":4" /> By 3 May 2007, 264 cases and 109 deaths had been confirmed by authorities.<ref name=":8" />
+
+== International response and research ==
+In Kenya the CDC Atlanta-Special Pathogens Branch began training staff for the Ministry of Livestock and Fisheries Development in Polymerase Chain Reaction ([[Polymerase chain reaction|PCR]]) testing, sending them a PCR testing machine and reagents for detecting RVF in samples.<ref name=":3" /> The United Nations Emergency Coordination group send funding and equipment to Tanzania, while the WHO sent teams to train Tanzania's clinicians in patient care and diagnostic testing.<ref name=":4" />
+
+Virologists collected over 296,000 mosquitos and tested over 72,000 for Rift Valley Fever via [[reverse transcription polymerase chain reaction]], with positive results from mosquitos in the ''Aedes'', ''Anopheles'', ''Culex'', and ''Masonia'' species. The virus was also observed for the first time to be infecting ''Ae. pembaensis'', ''Cx. univitattus'', and ''Cx. bitaeniorhynchus'' mosquitos.<ref name=":7" /> Most human cases were the result of viraemic exposure to animal tissue.<ref name=":6" />
+
+== Aftermath ==
+The last case of RVF was confirmed in the [[Rift Valley Province]] and died in the Baringo District on 9 March 2007.<ref name=":6" /> At least 394 hospital confirmed cases of RVF were ultimately fatal. The outbreak highlighted the necessity of monitoring livestock for RVF before disease can become widespread enough in herds to significantly spread to humans. Even though animals in [[Baringo County]] had shown signs of disease since December 2006, the first human case was not reported until 25 January 2007.<ref name=":2" /> The CDC in partnership with the [[University of Edinburgh]] began establishing surveillance teams to monitor emerging pneumonias, diarrheal disease, and febrile illnesses West Kenya's domestic animal herds, with the goal of such increased surveillance being to detect future outbreaks in animals before they reach humans.<ref name=":3" />
+
+== References ==
+{{reflist}}
+
+{{DEFAULTSORT:2006-2007 East Africa Rift Valley fever outbreak}}
+[[Category:Disease outbreaks in Kenya]]
+[[Category:Disease outbreaks in Somalia]]
+[[Category:2006 in Kenya]]
+[[Category:Disease outbreaks in Tanzania]]
+[[Category:2006 in Somalia]]
+[[Category:2007 in Kenya]]
+[[Category:2007 in Somalia]]
+[[Category:2007 in Tanzania]]

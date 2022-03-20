@@ -1,0 +1,22 @@
+{{update|date=July 2017}}
+The '''2006 dengue outbreak in Pakistan''' was at the time the worst on record.<ref>{{Cite journal|last=Ghani|first=MH|date=May–August 2008|title=Dengue virus outbreak in the year 2006 at a tertiary care centre in Sindh|url=https://www.lumhs.edu.pk/jlumhs/Vol07No02/pdfs/v7n2oa03.pdf|journal=Journal of the Liaquat University of Medical & Health Sciences|volume=7 |issue=2 |pages=71–74|doi=10.22442/jlumhs.08720147|doi-access=free}}</ref>   There were 1931 lab-confirmed cases, and 41 confirmed deaths, according to the [[World Health Organization]] Regional Office for the Eastern Mediterranean.<ref>{{Cite journal|last=World Health Organization Regional Office for the Eastern Mediterranean|date=15 September 2013|title=Dengue fever in Pakistan|url=http://applications.emro.who.int/dsaf/epi/2013/Epi_Monitor_2013_6_37.pdf|journal=Weekly Epidemiological Record|volume=6|issue=37|pages=1}}</ref>  Other sources report a death toll of 52.<ref>{{Cite journal|last=Rasheed|first=SB|date=January 2013|title=A review of dengue as an emerging disease in Pakistan|journal=Public Health|volume=127|issue=1|pages=11–17|pmid=23219263|doi=10.1016/j.puhe.2012.09.006}}</ref>
+
+Since 2006, studies indicate that [[dengue fever]] is on the rise in Pakistan.<ref>{{Cite journal|last=Khan|first=Jehangir|date=2018|title=Epidemiological trends and risk factors associated with dengue disease in Pakistan (1980–2014): a systematic literature search and analysis|journal=BMC Public Health|volume=18|issue=1|pages=745|doi=10.1186/s12889-018-5676-2|pmid=29907109|pmc=6003098}}</ref>  It is noted throughout the year, peaking at post-monsoon season.<ref>{{Cite journal|last=Khan|first=E|title=Demographic and Clinical Features of Dengue Fever in Pakistan from 2003–2007: A Retrospective Cross-Sectional Study.|journal=PLOS ONE|volume=5|issue=9|pages=12505|doi=10.1371/journal.pone.0012505|pmid=20856935|pmc=2938342|year=2010|bibcode=2010PLoSO...512505K|doi-access=free}}</ref> Many factors have been cited, including a surge in the principal mosquito vectors [[Aedes aegypti]]. and [[Aedes albopictus]]<ref name=":0">{{Cite journal|last=Riaz|first=MM|date=June 2009|title=Outbreak of dengue fever in Karachi 2006: a clinical perspective|url=http://jpma.org.pk/full_article_text.php?article_id=1710|journal=Journal of the Pakistan Medical Association|volume=59|issue=6|pages=339–44|pmid=19534364}}</ref><ref>{{Cite journal|last=Mukhtar|first=Muhammad|date=2011|title=Entomological investigations of dengue vectors in epidemic-prone districts of Pakistan during 2006–2010.|url=http://apps.who.int/iris/handle/10665/171002|journal=Dengue Bulletin|volume=35|pages=99–115|hdl=10665/171002|via=WHO IRIS}}</ref>  However, in 2006, an additional factor may have been the lack of patient management standards, since dengue was a relatively new public health challenge for the country.<ref name=":0" />
+
+==See also==
+* [[2006 dengue outbreak in India]]
+* [[2011 dengue outbreak in Pakistan]]
+* [[Mosquito#Control|Mosquito control]]
+
+==References==
+{{reflist}}
+
+{{Epidemics}}
+
+{{DEFAULTSORT:2006 Dengue Outbreak In Pakistan}}
+[[Category:Disease outbreaks in Pakistan]]
+[[Category:2006 in Pakistan|Dengue Outbreak In Pakistan, 2006]]
+[[Category:2000s disease outbreaks]]
+[[Category:2006 health disasters]]
+[[Category:Government of Shaukat Aziz]]
+[[Category:Dengue fever outbreaks|Pakistan]]

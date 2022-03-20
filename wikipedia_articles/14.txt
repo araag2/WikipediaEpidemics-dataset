@@ -1,0 +1,84 @@
+{{Use dmy dates|date=January 2014}}
+In the '''2006 dengue outbreak in India''', cases of [[dengue fever]] were reported first from [[New Delhi]] in early September and by the end of September other states also started to report deaths. At least 3613 confirmed cases of dengue fever were reported and over 50 people died in the outbreak.<ref name="NDTV">[http://www.ndtv.com/template/template.asp?category=National&template=Health&slug=More+dengue%2C+chikungunya+cases+reported&id=94502&callid=1 More dengue, chikungunya cases reported], [[NDTV]] Web Version, Accessed 9 October 2006</ref>
+
+==Outbreak==
+[[Image:Mosquito larva.jpg|thumb|right|A mosquito larva]]
+* [[New Delhi]]: By early October more than 590 cases of dengue fever were reported from Delhi and over 367 from neighbouring states who had come to New Delhi for treatment.<ref name="NDTV"/>
+* [[Rajasthan]]: By 12 September, more than 35 patients were treated for dengue fever.<ref name="HT">[https://web.archive.org/web/20070930023602/http://www.hindustantimes.com/news/181_1794556,000900010008.htm Dengue cases on the rise in Rajasthan], [[Hindustan Times]]. Accessed 9 October 2006</ref>
+* [[Chandigarh]]: 159 cases of dengue fever were reported. These were reported from the Post-graduate Institute of Medical Education and Research, the government run multi-specialty hospital. However out of 159 only 29 were from Chandigarh and the remaining were from [[Punjab (India)|Punjab]], [[Haryana]] and [[Uttar Pradesh]] who had come to Chandigarh for treatment.<ref name="DI">[http://www.dailyindia.com/show/67774.php/Chandigarh_reports_159_suspected_dengue_cases Chandigarh reports 159 suspected dengue cases] {{Webarchive|url=https://web.archive.org/web/20070312032327/http://www.dailyindia.com/show/67774.php/Chandigarh_reports_159_suspected_dengue_cases |date=12 March 2007 }}, [[Daily India]], Accessed 9 October 2006</ref>
+* [[Uttar Pradesh]]: Over 214 suspected cases of the diseases were reported.<ref name="NDTV"/>
+* [[Andhra Pradesh]]: One person succumbed to the disease and at least five were treated.<ref name="NDTV"/>
+* [[West Bengal]]: Over 30 people were treated for dengue fever in [[Calcutta|Kolkata]].<ref name="NDTV"/>
+
+By 9 October 2006 more than fifty deaths were reported to dengue fever and more than 3613 patients were treated for this disease.<ref name="NDTV"/>
+
+==Statistical data==
+The Government of India's Health Department released the statistical data related to dengue fever in a press statement on 8 October 2006.<ref>{{cite news|title=Nationwide data on outbreak, The Hindu. Accessed: 9 October 2006 |url=http://www.hindu.com/2006/10/09/stories/2006100913340100.htm |archiveurl=https://www.webcitation.org/5gpOfsMEN?url=http://www.hindu.com/2006/10/09/stories/2006100913340100.htm |archivedate=17 May 2009 |url-status=dead |access-date=2009-03-08 |location=Chennai, India |date=9 October 2006 |work=[[The Hindu]] |df=dmy }}</ref>
+
+[[Image:Dengue india outbreak chart.jpg|thumb|right|400px|A chart showing the number of dengue cases reported in various states]]
+Nationwide data on the dengue outbreak, released by the Ministry of Health
+{| class="wikitable" <hiddentext>generated with [[:de:Wikipedia:Helferlein/VBA-Macro for EXCEL tableconversion]] V14<\hiddentext>
+|- style=  valign="bottom"
+| width="120" Height="15" | '''State'''
+| width="125" | '''Cases reported'''
+|-   valign="bottom"
+| Height="15" | [[New Delhi]]
+ | 886
+|-   valign="bottom"
+| Height="15" | [[Kerala]]
+ | 713
+|-   valign="bottom"
+| Height="15" | [[Gujarat]]
+ | 424
+|-   valign="bottom"
+| Height="15" | [[Rajasthan]]
+ | 326
+|-   valign="bottom"
+| Height="15" | [[West Bengal]]
+ | 314
+|-   valign="bottom"
+| Height="15" | [[Tamil Nadu]]
+ | 306
+|-   valign="bottom"
+| Height="15" | [[Maharashtra]]
+ | 226
+|-   valign="bottom"
+| Height="15" | [[Uttar Pradesh]]
+ | 79
+|-   valign="bottom"
+| Height="15" | [[Haryana]]
+ | 65
+|-   valign="bottom"
+| Height="15" | [[Karnataka]]
+ | 59
+|-   valign="bottom"
+| Height="15" | [[Andhra Pradesh]]
+ | 9
+|}
+
+On 13 October 2006, six persons died due to dengue fever in Delhi. It was the highest number of deaths reported from Delhi in a day due to this disease.<ref>[https://web.archive.org/web/20070930035549/http://www.hindustantimes.com/news/181_1820969,000600010001.htm Highest no of dengue deaths in Delhi today, Hindustan Times.] Accessed: October 13</ref>
+
+==High profile dengue cases==
+* The magnitude of the issue was highlighted when a practising [[Physician|doctor]] and a [[student]], Tom Anthony Richardson Wright studying at the [[All India Institute of Medical Sciences]] died due to dengue fever. As of 30 September 2006 at least 12 medics and 5 employees of AIIMS tested positive with dengue fever.<ref name="DNA">[http://www.dnaindia.com/report.asp?NewsID=1055986 AIIMS student dies of dengue in Delhi], Daily News and Analysis. Accessed 9 October 2006</ref>
+* Two grandsons (Rohan and Madhav) and son-in-law (Vijay Tankha) of Prime Minister [[Manmohan Singh]] were admitted to the private ward of AIIMS for suspected dengue fever.<ref name="ToI">[http://timesofindia.indiatimes.com/articleshow/2125907.cms Delhi govt to review dengue situation], The Times of India. Accessed 9 October 2006</ref>
+
+==Prevention==
+* To prevent the outbreak, the Ministry of Health set up a control room at the Directorate of National Vector Borne Disease Control Programme in New Delhi to monitor the situation and to provide technical guidance and logistic support to the affected states and union territories.<ref name="Hindu">{{cite news|url=http://www.hindu.com/2006/10/09/stories/2006100913340100.htm |title=Nationwide data on outbreak, The Hindu. |access-date=2006-10-09 |archiveurl=https://www.webcitation.org/5gpOfsMEN?url=http://www.hindu.com/2006/10/09/stories/2006100913340100.htm |archivedate=17 May 2009 |url-status=dead |location=Chennai, India |date=9 October 2006 |work=[[The Hindu]] |df=dmy }}</ref>
+* To prevent the situation from worsening, heath workers in New Delhi sprayed pesticides to eradicate the menace.<ref name="IHT">[http://www.iht.com/articles/ap/2006/10/09/asia/AS_GEN_India_Fevers.php Indian health workers spray pesticides as dengue fever death toll rises to 55], International Herald Tribune. Accessed 9 October 2006</ref>
+
+==See also==
+* [[2006 dengue outbreak in Pakistan]]
+* [[Dengue fever]]
+
+==Reference and notes==
+{{Reflist}}
+
+{{Epidemics}}
+
+{{DEFAULTSORT:2006 Dengue Outbreak In India}}
+[[Category:2006 disasters in India|Dengue]]
+[[Category:2000s disease outbreaks]]
+[[Category:2006 health disasters]]
+[[Category:Manmohan Singh administration]]
+[[Category:Dengue fever outbreaks|India]]
+[[Category:Disease outbreaks in India]]

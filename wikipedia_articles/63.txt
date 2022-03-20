@@ -1,0 +1,111 @@
+{{Infobox epidemic
+| name = 2019 Philippines measles outbreak
+| map1 = 2019_Philippine_measles_outbreak_map.png
+| legend1 = <center>Regions officially experiencing a measles outbreak in red.</center>
+| map2 =
+| legend2 =
+| map3 =
+| legend3 =
+| disease = [[Measles]]
+| first_case = Indeterminate, Outbreak first declared in [[Metro Manila]]
+| virus_strain = <!-- or | bacteria_strain = -->
+                 <!-- or | parasite_strain = -->
+                 <!-- or | pathogen_strain = -->
+| deaths =415 {{small|(April 13)}}{{refn|Nationwide statistics by the Department of Health – Health Emergency Management Bureau. Includes figures from regions where an outbreak has not been officially declared.|group="note"|name="cases"}}
+| confirmed_cases =31,056 {{small|(April 13)}}<ref group="note" name="cases"/>
+| suspected_cases =
+| total_ili =
+| website =
+|below =
+}}
+The '''2019 Philippines measles outbreak''' began in early 2019. An [[outbreak]] of [[measles]] was officially declared in February 2019 in select administrative regions in Luzon and Visayas including Metro Manila by the Philippine government. The outbreak is attributed to lowered vaccination rates, from a high of 88% 10 to 15 years previous to 74% at the time of the outbreak, allegedly caused by the [[Dengvaxia controversy]].
+
+==Epidemiology==
+The [[Department of Health (Philippines)|Department of Health]] (DOH) of the Philippines declared a measles outbreak in [[Metro Manila]] due to a 550% increase of the number of patients from January 1 to February 6, 2019, compared to figures of the equivalent period from 2018.<ref name=unicef>{{cite news |last1=Aguilar |first1=Krissy |title=Failure of health system leads to measles outbreak – UNICEF |url=https://newsinfo.inquirer.net/1082867/failure-of-health-system-leads-to-measles-outbreak-unicef |access-date=9 February 2019 |work=Philippine Daily Inquirer |date=7 February 2019}}</ref> Outbreaks were also officially declared in Central Luzon, Calabarzon, Western Visayas, Central Visayas.<ref>{{cite news |title=DOH Expands Measles Outbreak Declarations to Other Regions |url=https://www.doh.gov.ph/node/16647 |access-date=11 February 2019 |work=Department of Health}}</ref><ref>{{cite web |title=Questions and answers on the measles outbreak in the Philippines |url=https://www.who.int/philippines/news/feature-stories/detail/questions-and-answers-on-the-measles-outbreak-in-the-philippines |publisher=World Health Organization |access-date=20 February 2019 |date=12 February 2019}}</ref> and Northern Mindanao.<ref name="ndrrmcsitrepno5">{{cite web |title=NDRRMC Update Sitrep No. 07 re Measles Outbreak, 01 March 2019, 5:00 PM |url=https://reliefweb.int/report/philippines/ndrrmc-update-sitrep-no-07-re-measles-outbreak-01-march-2019-500-pm |access-date=29 March 2021 |website=reliefweb |publisher=National Disaster Risk Reduction and Management Council |date=1 March 2019 }}</ref> A joint report by the [[United Nations Children's Fund]] (UNICEF) and [[World Health Organization]] has stated in the report that the outbreak started much earlier in late-2017 in [[Mindanao]].<ref name=unicefwho11>{{cite web |title=Philippines Situation Report 11 Measles Outbreak |url=https://reliefweb.int/sites/reliefweb.int/files/resources/UNICEF%20WHO%20PHL%20SitRep11_Measles%20Outbreak_27May2019.pdf |publisher=UNICEF, World Health Organization |access-date=1 June 2019}}</ref>
+
+Metro Manila and Calabarzon being the most affected regions with at least a thousand cases each.<ref>{{cite news |last1=Cruz |first1=Sofia Toma |title=At least 70 deaths due to measles – DOH |url=https://www.rappler.com/nation/223208-doh-report-deaths-due-to-measles-february-2019 |access-date=11 February 2019 |work=Rappler |date=11 February 2019}}</ref><ref>{{cite news |title=Number of measles cases climbs to more than 4,300 — DOH |url=http://cnnphilippines.com/news/2019/02/11/doh-measles-cases-update.html |access-date=11 February 2019 |work=CNN Philippines |date=11 February 2019}}</ref>
+
+The DOH has recorded at 8,443 cases from January 1 to February 18, 2019, with 135 of these cases resulting to deaths.<ref>{{cite news |title=Measles cases breach 8,000 mark but may dwindle in April – DOH |url=http://cnnphilippines.com/news/2019/02/19/Measles-cases-Department-of-Health-April.html |access-date=20 February 2019 |work=CNN Philippines |date=19 February 2019}}</ref> On March 1, 2019, it was reported that there are at least 13,723 cases and 215 deaths recorded nationwide.<ref name="ndrrmcsitrepno5"/>
+
+By April 30, the DOH declared that the measles outbreak is already under control but remained hesitant in officially lifting the outbreak declaration. There are 31,056 cases and 415 deaths recorded from January 1 to April 13.<ref>{{cite news |title=Measles outbreak 'almost over': DOH |url=https://www.pna.gov.ph/articles/1068596 |access-date=6 June 2020 |agency=Philippine News Agency |date=30 April 2020}}</ref>
+
+==Cases==
+In connection with the measles outbreak, the Philippine government has been maintaining a tally of confirmed cases and deaths from measles nationwide, including in regions not officially experiencing a measles outbreak.<ref name="ndrrmcsitrepno13">{{cite news |title=NDRRMC Update Sitrep No. 13 re Measles Outbreak, 26 March 2019, 5:00 PM |url=https://reliefweb.int/sites/reliefweb.int/files/resources/SitRep_No_13_re_Measles_Outbreak_as_of_26MAR2019_1700H.pdf|access-date=3 April 2019 |work=National Disaster Risk Reduction and Management Council |publisher=National Disaster Risk Reduction and Management Council |date=26 March 2019}}</ref>
+{| class="wikitable sortable"
+|+ Confirmed cases by region (26 March 2019)<br />(Source: Department of Health – Health Emergency Management Bureau<ref name="ndrrmcsitrepno13"/>)
+! Region
+! Confirmed<br /> cases
+! Confirmed<br /> deaths
+! Official outbreak declaration
+|-
+| [[Ilocos Region]] (Region I) || 1,035 || 12 || {{CNone|No outbreak}}
+|-
+| [[Cagayan Valley]] (Region II) || 349 || 2 || {{CNone|No outbreak}}
+|-
+| [[Central Luzon]] (Region III) || 3,761 || 57 || {{No|Outbreak declared}}
+|-
+| [[Calabarzon]] || 4,838 || 98 || {{No|Outbreak declared}}
+|-
+| [[Mimaropa]] || 987 || 8 || {{CNone|No outbreak}}
+|-
+| [[Bicol Region]] (Region V) || 694 || 6 || {{CNone|No outbreak}}
+|-
+| [[Western Visayas]] (Region VI) || 1,371 || 5 || {{No|Outbreak declared}}
+|-
+| [[Central Visayas]] (Region VII) || 1,115 || 10 || {{No|Outbreak declared}}
+|-
+| [[Eastern Visayas]] (Region VIII) || 1,023 || 24 || {{CNone|No outbreak}}
+|-
+| [[Zamboanga Peninsula]] (Region IX) || 302 || 1 || {{CNone|No outbreak}}
+|-
+| [[Northern Mindanao]] (Region X) || 1,159 || 10 || {{No|Outbreak declared}}
+|-
+| [[Davao Region]] (Region XI) || 489 || 7 || {{CNone|No outbreak}}
+|-
+| [[Socsksargen]] (Region XII) || 576 || 4 || {{CNone|No outbreak}}
+|-
+| [[Caraga Region|Caraga]] (Region XIII) || 576 || 2 || {{CNone|No outbreak}}
+|-
+| [[Bangsamoro]] (BARMM) || 451 || 4 || {{CNone|No outbreak}}
+|-
+| [[Cordillera Administrative Region]] (CAR) || 367 || 1 || {{CNone|No outbreak}}
+|-
+| [[Metro Manila]] (National Capital Region; NCR) || 4,568 || 87 || {{No|Outbreak declared}}
+|-
+! Total (Nationwide) ||align=left| 23,563 ||align=left| 338 !! Outbreak in 6 out 17 regions
+|}
+
+==Cause==
+Vaccination against measles is available for free in government hospitals and health centers but there is a lowered trust in vaccination in the country. According to an opinion poll conducted by the [[London School of Hygiene and Tropical Medicine]] in 2018, 32 percent of the surveyed 1,500 Filipinos trusted vaccines. In the 2015 iteration of the poll, 93 percent of the respondents said they trusted vaccines. Health Secretary [[Francisco Duque III]] attributes the lowered trust on the government's immunization drive due to the [[Dengvaxia controversy]].<ref name=declares3>{{cite news |title=Measles outbreak declared in 3 more regions |url=https://news.abs-cbn.com/news/02/07/19/measles-outbreaks-declared-in-more-luzon-visayas-areas |access-date=9 February 2019 |work=ABS-CBN News |date=7 February 2019}}</ref>
+
+The [[UNICEF|United Nations International Children's Emergency Fund]] (UNICEF) said that the outbreak is caused by "failure of the health system" saying that the distribution of vaccines down to the barangay level has not worked properly. They cited that immunization rates in the country have been declining in the past 10 to 15 years with about 74% immunized at the time of the outbreak compared to a high of 88%; 10 or 15 years ago.<ref name=unicef/> UNICEF and the WHO has also attributed increase vaccine hesitancy in 2018 due to the Dengue vaccine controversy as a factor contributing to the outbreak.<ref name="unicefwho11"/> Statistical data from UNICEF, however, shows that decline in Measles vaccination began as early as 2014, four years before the Dengvaxia controversy happened.<ref>[https://data.unicef.org//wp-content/uploads/country_profiles/Philippines/Immunization-coverage-estimates-2018_phl.pdf Philippines: WHO and UNICEF estimates of immunization coverage: 2018 revision] ''data.unicef.org'' accessed 15 May 2020</ref>
+
+As of March 1, 2019, 62 percent of all cases recorded at that time involved individuals who were not vaccinated against measles.<ref name="ndrrmcsitrepno5"/>
+
+==Response==
+The Department of Health released an informercial featuring boxer [[Manny Pacquiao]] in order encourage parents and guardians to get their children vaccinated against measles in response to the outbreak.<ref>{{cite news |last1=Crisostomo |first1=Sheila |title=Measles outbreak death toll hits 136 |url=https://www.philstar.com/headlines/2019/02/19/1894950/measles-outbreak-death-toll-hits-136 |access-date=20 February 2019 |work=The Philippine Star |date=19 February 2019}}</ref>
+
+Neighbouring Malaysia's state of [[Sabah]] through the Health and People Wellbeing Ministry working towards getting all children, especially [[statelessness|stateless people]] to be vaccinated following the outbreak in their neighbour the Philippines.<ref>{{cite web|url=https://www.thestar.com.my/news/nation/2019/02/14/sabah-moves-to-control-measles-after-philippines-outbreak/|title=Sabah moves to control measles after Philippines outbreak|author=Stephanie Lee|work=The Star|date=14 February 2019|access-date=27 August 2019}}</ref>
+
+==See also==
+{{Portal|Viruses}}
+* [[2019 Samoa measles outbreak]]
+* [[2019 Tonga measles outbreak]]
+* [[2019 New Zealand measles outbreak]]
+* [[Measles resurgence in the United States]]
+* [[Vaccination]]
+* [[Vaccine hesitancy]]
+
+==Notes==
+{{Reflist|group=note}}
+
+==References==
+{{reflist}}
+
+{{2019 measles outbreaks}}
+{{Rodrigo Duterte}}
+{{Epidemics}}
+
+[[Category:Disease outbreaks in the Philippines]]
+[[Category:2019 disasters in the Philippines|measles outbreak]]
+[[Category:2019 measles outbreaks|Philippines]]

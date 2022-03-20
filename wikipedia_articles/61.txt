@@ -1,0 +1,52 @@
+{{short description|Measles epidemic in  the DRC in 2019}}
+{{Infobox outbreak
+| name            = 2019-2020 measles outbreak in the Democratic Republic of the Congo
+| map1            = File:Democratic Republic of the Congo - Location Map (2013) - COD - UNOCHA.svg
+| legend1         = 
+| dates           = Early 2019 – August 24, 2020<ref name=bbc/>
+| disease         = [[Measles]]
+| virus_strain    = <!-- or | bacteria_strain = -->
+                 <!-- or | parasite_strain = -->
+                 <!-- or | pathogen_strain = -->| index_case      = 
+| arrival_date    = 
+| source          = 
+| deaths          = >7,018
+| confirmed_cases = 380,766
+| suspected_cases = 
+| total_ili       = 
+| website         = 
+}}
+
+[[File:Child with measles.jpg|thumb|upright=1.3|African child with measles]]
+In 2019, a [[measles]] epidemic broke out in the [[Democratic Republic of the Congo]] (DRC). The epidemic started in early 2019 in the southeast corner of the DRC and then spread to all provinces.<ref name=bbc>{{cite web |url=https://www.bbc.co.uk/news/world-africa-50506743 |title=DR Congo measles: Nearly 5,000 dead in major outbreak |work=[[BBC]] |language=en |access-date=2019-11-22 |date=2019-11-21 |archive-url=https://web.archive.org/web/20200211233423/https://www.bbc.co.uk/news/world-africa-50506743 |archive-date=2020-02-11 |quote=Close to a quarter of a million people have been infected this year alone. The World Health Organization (WHO) says this is the world's largest and fastest-moving epidemic.}}</ref><ref name=holmes>{{cite news| url=http://theconversation.com/outbreaks-of-measles-compounding-challenges-in-the-drc-124660|  author=Catesby Holmes | title= Outbreaks of measles: compounding challenges in the DRC | publisher=The Conversation |date=2019-10-19| access-date=2019-11-22}}</ref> By June 2019 the epidemic was reported to have exceeded the death toll of the [[2018–19 Kivu Ebola epidemic|concurrent Ebola epidemic]].<ref name=reuters>{{cite news |url=https://www.reuters.com/article/us-health-measles-congo/congo-declares-measles-epidemic-after-it-kills-more-than-ebola-idUSKCN1TC2FV| title=Congo declares measles epidemic after it kills more than Ebola |newspaper=[[Reuters]]|access-date=2019-11-22| date=2019-06-20 }}</ref> By April 2020, it had infected more than 341,000 people and claimed about 6,400 fatalities.<ref name="AJ-2020-04">{{cite news |last=Murray |first=Lisa |date=7 April 2020  |title=Measles: In Ebola's shadow, a quiet killer is on a rampage in DRC - Al Jazeera |url=https://www.aljazeera.com/news/2020/04/measles-ebola-shadow-quiet-killer-rampage-drc-200406164502568.html |url-status=live |archive-url=https://web.archive.org/web/20200510215022/https://www.aljazeera.com/news/2020/04/measles-ebola-shadow-quiet-killer-rampage-drc-200406164502568.html
+ |archive-date=10 May 2020 |access-date=15 May 2020 |quote=Since the start of 2019, measles epidemic has infected more than 341,000 people and killed some 6,400 in the DRC.}}</ref> This has primarily affected children under the age of five,<ref name=holmes/> representing 74% of infections and nearly 90% of deaths.<ref name=unicef>{{cite web| url=https://www.unicef.org/press-releases/measles-deaths-democratic-republic-congo-top-4000-unicef-rushes-medical-kits-health| title=As measles deaths in the Democratic Republic of the Congo top 4,000, UNICEF rushes medical kits to health centers and vaccinates thousands more children |publisher=[[UNICEF]]| date=2019-10-09 |access-date=2019-11-22}}</ref>
+
+In response, a vaccination program had been set up by the [[Ministry of Public Health (Democratic Republic of the Congo)|Ministry of Public Health]] with the aim to vaccinate more than 20 million children under the age of five.<ref name=holmes/><ref name=reuters/> In 2018, the measles vaccination rate was 57%.<ref name=unicef/> The effort is supported by the [[Measles & Rubella Initiative]], the [[World Health Organization]], [[UNICEF]], and [[GAVI]], a vaccine alliance.<ref name=holmes/><ref name=unicef/> Also, [[Médecins Sans Frontières]] started conducting vaccination campaigns. Vaccination programs have been hampered by access to health resources, lack of resources, security issues, and mistrust.<ref name=sol>{{cite web|url=https://www.aljazeera.com/news/2019/10/drc-struggles-measles-outbreak-191030080217386.html |title= DRC struggles to contain measles outbreak |publisher=[[AlJazeera]]|date=2019-10-30 |access-date=2019-11-22}}</ref><ref name=holmes/>
+
+The measles outbreak in the DRC has been the largest and most fatal measles outbreak across the world in 2019.<ref name=holmes/>
+
+In April 2020, it was reported that due to the outbreak of the [[COVID-19 pandemic]], the vaccination program for measles was suspended.<ref>{{cite web |url=https://www.spiegel.de/wissenschaft/medizin/unicef-warnt-vor-corona-folgen-117-millionen-kindern-droht-ansteckung-mit-masern-a-31b61755-8e57-4b87-b16d-39360efc3c30 |title=117 Millionen Kindern droht Ansteckung mit Masern |publisher=[[Der Spiegel]]|access-date=April 14, 2020}}</ref>
+
+On 24 August 2020, the outbreak was declared over with final results of over 380,766 cases and 7,018 deaths.<ref>{{Cite web|url=http://outbreaknewstoday.com/drc-more-ebola-and-plague-cases-reported-end-of-measles-epidemic-declared-74655/|title = DRC: More Ebola and plague cases reported, End of measles epidemic declared|date = 29 August 2020}}</ref>
+
+==See also==
+* [[List of epidemics]]
+* [[2019 Samoa measles outbreak]]
+* [[2019 Tonga measles outbreak]]
+* [[2019 New Zealand measles outbreak]]
+* [[2019 Philippines measles outbreak]]
+* [[Measles resurgence in the United States]]
+* [[Vaccination]]
+* [[Vaccine hesitancy]]
+
+==References==
+{{reflist}}
+
+{{2019 measles outbreaks}}
+{{Epidemics}}
+{{DEFAULTSORT:2019-2020 measles outbreak in the Democratic Republic of the Congo}}
+[[Category:Disease outbreaks in the Democratic Republic of the Congo]]
+[[Category:2019 measles outbreaks|Democratic Republic of the Congo]]
+[[Category:2020 measles outbreaks|Democratic Republic of the Congo]]
+[[Category:2019 in the Democratic Republic of the Congo|Measles]]
+[[Category:2020 in the Democratic Republic of the Congo|Measles]]

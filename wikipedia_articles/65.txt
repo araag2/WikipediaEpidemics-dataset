@@ -1,0 +1,273 @@
+{{short description|Measles epidemic in Samoa in late 2019}}
+{{Use British English|date=December 2019}}
+{{Use dmy dates|date=December 2020}}
+{{Infobox pandemic
+| name = 2019 Samoa measles outbreak
+| map1 = Samoa - Location Map (2013) - WSM - UNOCHA.svg
+| legend1 =
+| dates = 30 September 2019 –<br />ongoing<ref name="rw"/>
+| disease = [[Measles]]
+| virus_strain = D8 strain (genotype) of measles virus {{R|strain}}
+| first_case = 30 September 2019
+| arrival_date =
+| origin =
+| deaths = 83<ref name="now 83"/>
+| confirmed_cases = 5,707{{R|Jan25}}
+| suspected_cases =
+| total_ili =
+| website = http://www.samoagovt.ws/
+}}
+
+The '''2019 Samoa measles outbreak''' began in September 2019.<ref name=ministry/>  As of 6 January 2020, there were over 5,700 cases of [[measles]] and 83 deaths, out of a Samoan population of 200,874.<ref name="now 83"/><ref name="SBS_DEM"/> Over three percent of the population were infected.<ref name="NEOC_R36"/> The cause of the outbreak was attributed to decreased vaccination rates, from 74% in 2017 to 31–34% in 2018, even though nearby islands had rates near 99%.
+
+A [[state of emergency]] was declared on 17 November, ordering the closure of all schools, keeping children under 17 away from public events, and vaccination became mandatory. On 2 December 2019, the government imposed a curfew and cancelled all Christmas celebrations and public gatherings. Families seeking [[MMR vaccine|MMR]] vaccination were asked by the government to display an item of red cloth in front of their homes so as to alert mobile medical teams traveling the island during the lockdown.<ref name="telegraph"></ref> Some added messages like "Help!" or "I want to live!".<ref name= "nyt"/> On 5 and 6 December, the government shut down everything to bring civil servants over to the vaccination campaign. This curfew was lifted on 7 December when the government estimated that the vaccination program had reached 90% of the population. On 14 December, the state of emergency was extended to 29 December.<ref name= "extended"/> Samoan anti-vaccination activist Edwin Tamasese was arrested and charged with "incitement against a government order". Finally, as of 22 December 2019, an estimated 94% of the eligible population had been vaccinated.<ref name= "NEOC_R36"/>
+
+==Background==
+[[File:Measles timeline exposure to illness.gif|left|thumb|Hypothetical measles timeline from exposure to illness]]
+
+[[Measles]] first arrived in [[Samoa]] in 1893, carried by a steamer from New Zealand. By the end of 1893, over 1,000 people (of a total population of 34,500 at that time) had died from the disease.<ref name=old/>
+
+In the early part of 2019, measles has been spreading throughout the Pacific region, with outbreaks in [[Tonga]], [[Fiji]], the [[Philippines]] and New Zealand.<ref name=" New sci"/>
+
+In March 2019, the WHO and UN children's agency UNICEF warned the Pacific to take proactive measures and improve immunisation rates.<ref name="warning"/>
+
+==2019 outbreak==
+In August 2019, an infected passenger on one of the more than 8,000 annual flights between New Zealand and Samoa probably brought the disease from [[Auckland]] to [[Upolu]].<ref name="telegraph"/>  A full outbreak began in October 2019 and continued for the next four months. As of 22 December, there were 79 deaths (0.4 per 1,000, based on a population of 200,874,<ref name="NEOC_R36"/><ref name="SBS_DEM"/> a rate of 14.3 deaths per 1000 infected) and 5,520 cases (2.75% of the population) of measles in Samoa.<ref name="rw" /><ref name="NEOC_R36"/><ref name="SBS_DEM"/> 61 out of the first 70 deaths were aged four and under and all but seven were aged under 15.<ref name=NEOC_R23/><ref name=reuters/>
+
+At least 20% of babies aged six to 11 months have contracted measles, and one in 150 babies have died.<ref name=HOW/>
+
+As of 20 December 94% of the population had been vaccinated.<ref name="HOW" /><ref name="94i" /> 95% is required to acquire [[herd immunity]] for measles.<ref name="HOW" /> Measles is much more contagious compared to other infectious diseases such as polio, which only requires an 80% vaccination rate for the population to attain herd immunity.<ref name="herd" />
+
+==Vaccine hesitancy==
+The outbreak has been attributed to a sharp drop in [[measles vaccination]] from the previous year.<ref name="10 months"/>
+
+In 2013, 90% of babies in Samoa received the [[MMR vaccine|measles-mumps-rubella vaccination]] at one year of age.<ref name="nyt"/>
+
+On 6 July 2018 on the east coast of [[Savai'i]], two 12-month-old children died after receiving MMR vaccinations.<ref name= "telegraph"/> The cause of death was incorrect preparation of the vaccine by two nurses who mixed vaccine powder with expired anaesthetic instead of the appropriate diluent.<ref name=nurse/> These two deaths were picked up by anti-vaccine groups and used to incite fear towards vaccination on social media, causing the government to suspend its measles vaccination programme for ten months, despite advice from the WHO.<ref name= "TheGuardian"/><ref name=" 10 months"/> The incident caused many Samoan residents to lose trust in the healthcare system.<ref name="under 15"/>
+
+After the outbreak started, anti-vaxxers credited the deaths to poverty and poor nutrition or even to the vaccine itself, but this has been discounted by the international emergency medical support that arrived in November and December.<ref name= "telegraph"/> There has been no evidence of acute malnutrition, clinical vitamin A deficiency or immune deficiency as claimed by various anti-vaxxers.<ref name="telegraph" />
+
+[[UNICEF]] and the [[World Health Organization]] estimate that the measles vaccination rate in Samoa fell from 74% in 2017 to 34% in 2018,<ref name="New sci" /><ref name="WHO_statistics" /> similar to some of the poorest countries in Africa.<ref name="nyt" /> Ideally, countries should have immunisation levels above 90%. Prior to the outbreak, vaccination rates had dropped to 31% in Samoa, compared to 99% in nearby [[Nauru]], [[Niue]], [[Cook Islands]],<ref name="wrong" /> and American Samoa.<ref name="US Samoa" />
+
+Before seeking proper medical treatment, some parents first took their children to 'traditional healers' who used machines purchased from Australia that are claimed to produce immune-protective water.<ref name="nyt" />
+
+Samoa, Tonga, and Fiji have all declared states of emergency to tackle their 2019 measles outbreaks. The high mortality rate in Samoa is attributed to the country's low vaccination rate (31%). In Tonga and Fiji, the lack of fatalities is explained by far higher vaccination rates.<ref name="wrong" />
+
+==Government response==
+Initially, schools remained open after the outbreak was declared. The Samoan government initially did not accept humanitarian support.<ref name="10 months"/>
+
+A [[state of emergency]] was declared on 17 November, ordering the closure of all schools, keeping children under 17 away from public events, and making vaccination mandatory.<ref name=emergency/> UNICEF has sent 110,500 vaccines to Samoa. Tonga and Fiji have also declared states of emergency.<ref name=bbc/> Tonga closed all schools for several days, while [[American Samoa]] required all travellers from Tonga and Samoa to present proof of vaccination.<ref name=deadly/> In Fiji, vaccines are being prioritised for young children and people travelling overseas.<ref name=authorities/>
+
+On 2 December 2019, the government imposed a [[curfew]] and cancelled all Christmas celebrations and public gatherings.<ref name=children/><ref name=police/> All unvaccinated families were ordered to display a red flag or red cloth in front of their homes to warn others and to aid mass vaccination efforts.<ref name=red/> As part of aid efforts, the [[Royal New Zealand Air Force]] has transported medical supplies and equipment to Samoa. Also, New Zealand, Australian, British, [[French Polynesia]]n, and French medical teams have been assisting Samoan medical authorities.<ref name=NZDF/>
+
+On 5 and 6 December, the government shut down everything other than public utilities to assign all available civil servants to the vaccination campaign efforts.<ref name=arrest/>
+
+Edwin Tamasese, an [[anti-vaccination]] activist with no medical training who is also the chair of a coconut farmers’ collective,<ref name="telegraph"/> was charged with "incitement against a government order".<ref name=arrest/> He had posted online comments like “Enjoy your killing spree.”<ref name="telegraph"/> He encouraged people to refuse immunisation, as he believed the vaccine caused measles,<ref name=hack/> and even discouraged life-saving antibiotics.<ref name="telegraph"/>  Tamasese faces up to two years in prison.<ref name="telegraph"/>
+
+The curfew was lifted on 7 December when the government estimated that 90% of the population had been reached by the vaccination program.<ref name=sat/> Parliament passed a bill on 19 December to make measles vaccinations mandatory in 2020.<ref name="78i"/>
+
+Nevertheless, as of 29 December, a public inquiry into the government's role in suspending vaccinations had not been announced. Deputy director of health Gaualofa Matalavea Saaga stated, "Having our case blasted out to the world is the last thing we want."<ref name= "telegraph"/> Samoa's political opposition called for the health minister to be removed from his position.<ref name="telegraph"/>
+
+On 31 December, [[Tuilaepa Sailele Malielegaoi]], the [[Prime Minister of Samoa]], addressed the nation to ring in the New Year; the measles outbreak was a focus of his speech. He acknowledged the support of the Samoan [[diaspora]] and 49 medical teams from the following countries and organisations: Australia, China, France/French Polynesia, Fiji through [[UNFPA]], Israel, United States/Hawaii, Japan, [[Papua New Guinea]], New Zealand, [[Norway]], United Nations Agencies, United Kingdom and UK Save the Children, [[Solomon Islands]] and [[Kiribati]] through the Pacific Community, American Samoa, [[Médecins Sans Frontières]], Blacktown Doctors Medical Centre, and Samoan Doctors Worldwide.<ref name= "address"/>
+
+==International response==
+The low vaccination rate of Samoa came as a surprise to New Zealand's government.<ref name=" n612"/> The Samoa Observer reported that New Zealand's Minister for Pacific People, [[William Sio]], was"  'of the impression' that Samoa had high immunisation rates. So to learn they were in fact {{Sic|fatality|}} low was a shock."<ref name="n612"/>
+
+Since the outbreak, several organisations and countries have responded:
+* Australian Medical Assistance Teams (AUSMAT) sent a team of nurses, doctors, and public health experts as well as medical equipment and supplies to Samoa and left on 3 January 2020 after eight weeks in Samoa in one of its longest-ever missions.<ref name="Aus"/><ref name="ausmat"/>
+* New Zealand sent three rotations of the New Zealand Medical Assistance Team (NZMAT) of doctors, nurses and logistics specialists who supported Leulumoega Hospital and Faleolo Clinic to the west of Apia for six weeks.  NZ also sent a team of nurse vaccinators, 3,000 vaccination doses and vaccine fridges to Samoa in mid-November,<ref name=NZ/> and a small number of Intensive Care Clinicians.  Residents of [[Rotorua, New Zealand]] sent two dozen infant-size coffins decorated with flowers and butterflies to Samoan families.<ref name="coffins"/> On 14 December 2019, New Zealand Foreign Minister [[Winston Peters]] announced $1 million in funds towards preventive efforts in the Pacific.<ref name="1m"/>
+* The United Kingdom EMT sent two rotations of doctors, nurses, physiotherapists, an anaesthetist, and an epidemiologist for four weeks of support from the end of November to December 2019.<ref name="UKRes"/>
+* French Polynesia sent a team of paediatric nurses
+* Israel sent Intensive Care teams to Samoa to help with relief efforts.<ref name="nz1"/>
+* Hawaii sent a medical mission of 75 doctors and nurses for two days at the beginning of December to assist with the mass vaccination campaign.
+* On 10 December, American Samoa declared a measles outbreak and closed public schools and park gatherings<ref name= "hawaii"/> and suspended all entry permits for those travelling through Samoa and Tonga to American Samoa.<ref name= "no entry"/>
+* [[UNICEF]] has sent 200,000 vaccines to Samoa.<ref name=bbc/><ref name=":0">{{Cite web|date=2019-12-05|title=UN team aids Samoa response to deadly measles epidemic|url=https://news.un.org/en/story/2019/12/1052881|access-date=2021-04-21|website=UN News|language=en}}</ref>
+* The UN [[World Health Organization]] deployed 128 medical teams to assist in vaccination efforts. The UN [[Central Emergency Response Fund]] (CERF) allocated $2.7 million to support the response in Samoa as well as [[Tonga]] and [[Fiji]].<ref name=":0" />
+* The [[World Bank]] gave a US$3.5 million grant to support the response to the outbreak and another US$9.3m grant over the next five years to improve the health system.<ref name="nz1"/>
+* Israel sent a team of two paediatricians, six nurses and one physiotherapist trained in disaster medicine from the Israel Center for Disaster Medicine and Humanitarian Response.<ref name= "israel"/>
+
+===Others===
+As of 24 December, the following agencies had sent Emergency Medical Team personnel to assist with the outbreak:<ref name= "christmas"/>
+{{columns-list|colwidth=30em|
+* Japan
+* PACMAT
+* Norway
+* Save the Children
+* UNFPA
+* Papua New Guinea
+* Samoa mo Samoa Doctors Worldwide
+* French Polynesia
+* Counties Manuka District Health Board
+* NZMAT
+* MSF
+* ADRA
+* Pacific Community (SPC)
+* World Health Organization
+}}
+
+== Aftermath ==
+Tuilaepa said he would propose legislation that would penalise parents who refused to vaccinate their children.<ref name="funds" /> The Samoan government allocated US$2.5 million for relief work.<ref name="funds" />
+
+Immunology experts are now questioning the role of social media, primarily Facebook, and how social media facilitated the spread of [[Vaccine hesitancy|vaccination hesitancy]] during the lethal outbreak. The Immunisation Advisory Centre in New Zealand sees the Samoan crisis as a sign that social media needs to deal with dangerous misinformation.<ref name= "facebook"/>
+
+As of 25 January 2020, Tuilaepa has so far resisted calls for an inquiry.<ref name= "No action"/> Opposition MP Olo Fiti Va'ai continues to call for an inquiry and was "apologising on behalf of Parliament and telling the people of Samoa that the government had failed miserably."<ref name="Ola"/><ref name="10 months"/>
+
+Following the ousting of the HRPP in the [[2021 Samoan general election]], new Health Minister [[Valasi Toogamaga Tafito]] announced he was considering establishing an inquiry into the epidemic.<ref>{{cite web |url=https://www.samoaobserver.ws/category/samoa/89588 |title=Government considers measles inquiry |publisher=Samoa Observer |author=Joyetter Feagaimaali'i |date=18 August 2021 |access-date=29 August 2021}}</ref>
+
+==See also==
+{{columns-list|colwidth=30em|
+* [[Taylor Winterstein]], Samoan anti-vaccination campaigner
+* [[Robert Kennedy Jr.]], American anti-vaccination campaigner
+* [[2019 Tonga measles outbreak]]
+* [[2019 New Zealand measles outbreak]]
+* [[2019 Philippines measles outbreak]]
+* [[Chemophobia]]
+* [[Measles resurgence in the United States]]
+* [[Vaccination]]
+* [[Vaccine hesitancy]]
+* [[2019 in Oceania]]
+}}
+
+== References ==
+{{Reflist|30em|refs=
+
+<ref name="HOW">{{Cite web|url=http://theconversation.com/measles-in-samoa-how-a-small-island-nation-found-itself-in-the-grips-of-an-outbreak-disaster-128467|title=Measles in Samoa: how a small island nation found itself in the grips of an outbreak disaster|last=Gibney|first=Katherine|date=12 December 2019|website=The Conversation|publisher=The Conversation Media Trust|location=Melbourne, Australia|language=en|url-status=live|archive-url=https://web.archive.org/web/20191212132304/https://theconversation.com/measles-in-samoa-how-a-small-island-nation-found-itself-in-the-grips-of-an-outbreak-disaster-128467|archive-date=12 December 2019}}</ref>
+
+<ref name="10 months">{{Cite news|url=https://www.theguardian.com/world/2019/dec/18/these-babies-should-not-have-died-how-the-measles-outbreak-took-hold-in-samoa|title='These babies should not have died': How the measles outbreak took hold in Samoa|last=Jackson|first=Lagipoiva Cherelle|date=17 December 2019|work=The Guardian|url-status=live|archive-url=https://web.archive.org/web/20191218030032/https://www.theguardian.com/world/2019/dec/18/these-babies-should-not-have-died-how-the-measles-outbreak-took-hold-in-samoa|archive-date=18 December 2019|last2=Lyons|first2=Kate|location=UK|language=en-GB|issn=0261-3077}}</ref>
+
+<ref name="rw">{{Cite web|url=https://reliefweb.int/report/samoa/samoa-fiji-and-tonga-measles-outbreak-dg-echo-who-unicef-and-media-echo-daily-flash-25|title=Samoa, Fiji and Tonga - Measles outbreak (DG ECHO, WHO, UNICEF and media) (ECHO Daily Flash of 25 November 2019) - Samoa|date=25 November 2019|website=ReliefWeb|publisher=UN Office for the Coordination of Humanitarian Affairs (OCHA)|language=en|url-status=live|archive-url=https://web.archive.org/web/20191202185745/https://reliefweb.int/report/samoa/samoa-fiji-and-tonga-measles-outbreak-dg-echo-who-unicef-and-media-echo-daily-flash-25|archive-date=2 December 2019}}</ref>
+
+<ref name="herd">{{cite news|url=https://www.vox.com/2019/12/18/21025920/measles-outbreak-2019-samoa|title=Tiny Samoa has had nearly 5,000 measles cases. Here's how it got so bad.|last=Belluz|first=Julia|date=18 December 2019|work=Vox|publisher=Vox Media LLC|location=US|url-status=live|archive-url=https://web.archive.org/web/20200108094524/https://www.vox.com/2019/12/18/21025920/measles-outbreak-2019-samoa|archive-date=8 January 2020}}</ref>
+
+<ref name="nyt">{{cite news|last=Kwai|first=Isabella|url=https://www.nytimes.com/2019/12/19/world/asia/samoa-measles.html|title='Why My Baby?' How Measles Robbed Samoa of Its Young|date=19 December 2019|work=The New York Times|url-status=live|archive-url=https://web.archive.org/web/20191231124421/https://www.nytimes.com/2019/12/19/world/asia/samoa-measles.html|archive-date=31 December 2019|location=US}}</ref>
+
+<ref name="old">{{cite journal |doi=10.1136/bmj.1.1742.1077 |pmid=20754822 |pmc=2404975 |title=Epidemic Measles at Samoa |journal=The British Medical Journal |volume=1 |issue=1742 |pages=1077 |year=1894 |last1=Davies |first1=Samuel H. }}</ref>
+
+<ref name="NZ">{{Cite web|url=https://www.dw.com/en/measles-outbreak-samoa-declares-state-of-emergency-after-6-fatalities/a-51290095|title=Measles outbreak: Samoa declares state of emergency after 6 fatalities|date=18 November 2019|website=Deutsche Welle|location=Germany|language=en-GB|url-status=live|archive-url=https://web.archive.org/web/20191119002641/https://www.dw.com/en/measles-outbreak-samoa-declares-state-of-emergency-after-6-fatalities/a-51290095|archive-date=19 November 2019}}</ref>
+
+<ref name="Aus">{{Cite web|url=https://reliefweb.int/report/samoa/statement-samoa-measles-outbreak|title=Statement on Samoa measles outbreak|date=21 November 2019|website=ReliefWeb|publisher=Government of Australia|language=en|url-status=live|archive-url=https://web.archive.org/web/20191122153910/https://reliefweb.int/report/samoa/statement-samoa-measles-outbreak|archive-date=22 November 2019}}</ref>
+
+<ref name="94i">{{cite news|last=Kerr|first=Florence|url=https://www.stuff.co.nz/world/south-pacific/118370207/samoa-measles-outbreak-death-toll-continues-to-rise-39-new-cases|title=Samoa measles outbreak: Death toll continues to rise, 39 new cases|date=20 December 2019|work=stuff.co.nz|url-status=live|archive-url=https://web.archive.org/web/20191220164208/https://www.stuff.co.nz/world/south-pacific/118370207/samoa-measles-outbreak-death-toll-continues-to-rise-39-new-cases|archive-date=20 December 2019|publisher=Stuff Ltd|location=NZ}}</ref>
+
+<ref name="funds">{{Cite news|url=https://www.rnz.co.nz/international/pacific-news/404533/samoa-govt-allocates-more-funds-for-measles-epidemic|title=Samoa govt allocates more funds for measles epidemic|date=30 November 2019|work=Radio New Zealand|language=en-nz|url-status=live|archive-url=https://web.archive.org/web/20191130180923/https://www.rnz.co.nz/international/pacific-news/404533/samoa-govt-allocates-more-funds-for-measles-epidemic|archive-date=30 November 2019}}</ref>
+
+<ref name="now 83">{{cite news|url=https://www.rnz.co.nz/international/pacific-news/406802/two-more-deaths-from-measles-in-samoa-over-new-year-period|title=Two more deaths from measles in samoa over new year period|date=7 January 2020|work=[[Radio New Zealand]]|url-status=live|archive-url=https://web.archive.org/web/20200107105921/https://www.rnz.co.nz/international/pacific-news/406802/two-more-deaths-from-measles-in-samoa-over-new-year-period|archive-date=7 January 2020}}</ref>
+
+<ref name="sat">{{cite news|url=https://www.aljazeera.com/news/2019/12/samoa-measles-vaccination-hits-target-cases-rising-191207054344647.html|title=Samoa measles vaccination hits target but new cases still rising|date=7 December 2019|work=Al Jazeera English|url-status=live|archive-url=https://web.archive.org/web/20191209130618/https://www.aljazeera.com/news/2019/12/samoa-measles-vaccination-hits-target-cases-rising-191207054344647.html|archive-date=9 December 2019|language=en}}</ref>
+
+<ref name="arrest">{{cite news|last=Kennedy|first=Merrit|url=https://www.npr.org/2019/12/06/785487606/samoa-arrests-anti-vaccination-activist-as-measles-death-toll-rises|title=Samoa Arrests Anti-Vaccination Activist As Measles Death Toll Rises|date=6 December 2019|work=NPR|url-status=live|archive-url=https://web.archive.org/web/20200131230400/https://www.npr.org/2019/12/06/785487606/samoa-arrests-anti-vaccination-activist-as-measles-death-toll-rises|archive-date=31 January 2020|location=US}}</ref>
+
+<ref name="NZDF">{{cite news|url=https://www.rnz.co.nz/international/pacific-news/404699/nzdf-supporting-samoa-measles-epidemic-response|title=NZDF supporting Samoa measles epidemic response|date=3 December 2019|work=Radio New Zealand|url-status=live|archive-url=https://web.archive.org/web/20191203111150/https://www.rnz.co.nz/international/pacific-news/404699/nzdf-supporting-samoa-measles-epidemic-response|archive-date=3 December 2019}}</ref>
+
+<ref name="red">{{Cite news|last=Silk|first=John|url=https://www.dw.com/en/samoan-measles-epidemic-unvaccinated-advised-to-display-red-flags-in-front-of-their-homes/a-51520869|title=Samoan measles epidemic: Unvaccinated advised to display red flags in front of their homes|date=4 December 2019|work=Deutsche Welle|url-status=live|archive-url=https://web.archive.org/web/20191205054707/https://www.dw.com/en/samoan-measles-epidemic-unvaccinated-advised-to-display-red-flags-in-front-of-their-homes/a-51520869|archive-date=5 December 2019|last2=AFP|location=Germany|language=en}}</ref>
+
+<ref name="police">{{cite news|url=https://www.rnz.co.nz/international/pacific-news/404651/samoa-measles-outbreak-police-urge-public-to-keep-to-curfew|title=Samoa measles outbreak: Police urge public to keep to curfew|date=2 December 2019|work=Radio New Zealand|url-status=live|archive-url=https://web.archive.org/web/20191221185627/https://www.rnz.co.nz/international/pacific-news/404651/samoa-measles-outbreak-police-urge-public-to-keep-to-curfew|archive-date=21 December 2019}}</ref>
+
+<ref name="children">{{cite news|url=https://www.rnz.co.nz/international/pacific-news/404589/children-stay-home-christmas-gatherings-cancelled-in-samoa|title=Children stay home, Christmas gatherings cancelled in Samoa|date=2 December 2019|work=Radio New Zealand|url-status=live|archive-url=https://web.archive.org/web/20200226033453/https://www.rnz.co.nz/international/pacific-news/404589/children-stay-home-christmas-gatherings-cancelled-in-samoa|archive-date=26 February 2020}}</ref>
+
+<ref name="authorities">{{Cite news|url=https://www.rnz.co.nz/international/pacific-news/404072/authorities-in-fiji-urge-public-to-respect-quarantine|title=Authorities in Fiji urge public to respect quarantine|date=25 November 2019|work=Radio New Zealand|language=en-nz|url-status=live|archive-url=https://web.archive.org/web/20191202185746/https://www.rnz.co.nz/international/pacific-news/404072/authorities-in-fiji-urge-public-to-respect-quarantine|archive-date=2 December 2019}}</ref>
+
+<ref name="deadly">{{Cite web|url=https://www.abc.net.au/news/2019-11-19/how-did-a-measles-outbreak-become-deadly-in-samoa/11713644|title='Deaths keep climbing': How did a measles outbreak become deadly in Samoa?|last=Wibawa|first=Tasha|date=19 November 2019|website=ABC News|language=en-AU|url-status=live|archive-url=https://web.archive.org/web/20191202211430/https://www.abc.net.au/news/2019-11-19/how-did-a-measles-outbreak-become-deadly-in-samoa/11713644|archive-date=2 December 2019}}</ref>
+
+<ref name="bbc">{{Cite news|url=https://www.bbc.com/news/world-asia-50528834|title=Samoa measles outbreak worsens|date=23 November 2019|work=BBC News|url-status=live|archive-url=https://web.archive.org/web/20191205143123/https://www.bbc.com/news/world-asia-50528834|archive-date=5 December 2019|location=UK|language=en-GB}}</ref>
+
+<ref name="emergency">{{Cite web|url=https://www.abc.net.au/news/2019-11-17/samoa-declares-state-of-emergency-over-measles-outbreak/11711576|title=Samoa declares state of emergency over deadly measles outbreak|date=17 November 2019|website=ABC News|publisher=Australian Broadcasting Corp.|language=en|url-status=live|archive-url=https://web.archive.org/web/20191202185745/https://www.abc.net.au/news/2019-11-17/samoa-declares-state-of-emergency-over-measles-outbreak/11711576|archive-date=2 December 2019}}</ref>
+
+<ref name="New sci">{{cite journal|last1=Whyte|first1=Chelsea|date=6 December 2019|title=Samoan government takes drastic measures to fight measles outbreak|url=https://www.newscientist.com/article/2226441-samoan-government-takes-drastic-measures-to-fight-measles-outbreak|journal=New Scientist|archive-url=https://web.archive.org/web/20191210033303/https://www.newscientist.com/article/2226441-samoan-government-takes-drastic-measures-to-fight-measles-outbreak/|archive-date=10 December 2019|access-date=8 December 2019|url-status=live}}</ref>
+
+<ref name="nurse">{{Cite web|url=https://www.abc.net.au/news/2019-08-02/samoa-nurses-sentenced-manslaughter-infant-vaccination-deaths/11378494|title=Samoan nurses jailed over deaths of two babies who were given incorrectly mixed vaccines|last=Pacific Beat|date=2 August 2019|website=ABC News|publisher=Australian Broadcasting Corp.|language=en-AU|url-status=live|archive-url=https://web.archive.org/web/20191214094850/https://www.abc.net.au/news/2019-08-02/samoa-nurses-sentenced-manslaughter-infant-vaccination-deaths/11378494|archive-date=14 December 2019}}</ref>
+
+<ref name="TheGuardian">{{cite news|url=https://www.theguardian.com/world/2019/nov/28/samoa-measles-outbreak-who-blames-anti-vaccine-scare-death-toll|title=Samoa measles outbreak: WHO blames anti-vaccine scare as death toll hits 39|last=Agence France-Presse|date=28 November 2019|work=The Guardian|url-status=live|archive-url=https://web.archive.org/web/20191129073521/https://www.theguardian.com/world/2019/nov/28/samoa-measles-outbreak-who-blames-anti-vaccine-scare-death-toll|archive-date=29 November 2019|location=UK}}</ref>
+
+<ref name="hack">{{Cite news|url=https://www.abc.net.au/triplej/programs/hack/samoan-measles-anti-vaxxer-edwin-tamasese-arrested/11751204|title=Samoan measles anti-vaxxer with links to Australia arrested after spreading conspiracy theories|last=Purtill|first=James|date=5 December 2019|website=triple j - Hack|publisher=Australian Broadcasting Corp.|language=en|url-status=live|archive-url=https://web.archive.org/web/20191207090617/https://www.abc.net.au/triplej/programs/hack/samoan-measles-anti-vaxxer-edwin-tamasese-arrested/11751204|archive-date=7 December 2019}}</ref>
+
+<ref name="ministry">{{Cite web|url=https://reliefweb.int/report/samoa/ministry-health-press-release-1-measles-epidemic|title=Ministry of Health Press Release 1 - Measles Epidemic - Samoa|date=16 November 2019|website=ReliefWeb|publisher=Government of Samoa|language=en|url-status=live|archive-url=https://web.archive.org/web/20191201145254/https://reliefweb.int/report/samoa/ministry-health-press-release-1-measles-epidemic|archive-date=1 December 2019}}</ref>
+
+<ref name="wrong">{{Cite news|url=https://www.bbc.com/news/world-asia-50625680|title=The wrong jab that helped cause a measles crisis|date=2 December 2019|work=BBC News|archive-url=https://web.archive.org/web/20191205041044/https://www.bbc.com/news/world-asia-50625680|archive-date=5 December 2019|location=UK|language=en-GB|url-status=live}}</ref>
+
+<ref name="US Samoa">{{Cite news|url=https://www.sbs.com.au/news/american-samoa-declares-measles-outbreak|title=American Samoa declares measles outbreak|date=8 December 2019|work=SBS News|location=Australia|language=en|url-status=live|archive-url=https://web.archive.org/web/20191209125314/https://www.sbs.com.au/news/american-samoa-declares-measles-outbreak|archive-date=9 December 2019}}</ref>
+
+<ref name="under 15">{{cite news|url=https://www.abc.net.au/news/2019-12-09/anatomy-of-an-epidemic:-how-measles-took-hold-of-samoa/11773018|title=Anatomy of an epidemic: How measles took hold of Samoa|last1=Clarke|first1=Melissa|date=8 December 2019|work=ABC News|url-status=live|archive-url=https://web.archive.org/web/20191210185008/https://www.abc.net.au/news/2019-12-09/anatomy-of-an-epidemic:-how-measles-took-hold-of-samoa/11773018|archive-date=10 December 2019|publisher=Australian Broadcasting Corp.}}</ref>
+
+<ref name="nz1">{{cite news|last=Meyer|first=Jenny|url=https://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=12292696|title=Jabs could knock out kid-killing measles epidemic in Samoa|date=10 December 2019|work=New Zealand Herald|url-status=live|archive-url=https://web.archive.org/web/20191210220435/https://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=12292696|archive-date=10 December 2019|publisher=NZME|last2=RNZ}}</ref>
+
+<ref name="hawaii">{{cite news|last=Hofschneider|first=Anita|url=https://www.civilbeat.org/2019/12/hawaii-lt-gov-says-samoa-medical-mission-wont-be-the-last/|title=Hawaii Lt Gov Says Samoa Medical Mission Won't Be The Last|date=9 December 2019|work=Honolulu Civil Beat|url-status=live|archive-url=https://web.archive.org/web/20191210220914/https://www.civilbeat.org/2019/12/hawaii-lt-gov-says-samoa-medical-mission-wont-be-the-last/|archive-date=10 December 2019|location=HI, US}}</ref>
+
+<ref name="no entry">{{Cite web|url=https://www.rnz.co.nz/international/pacific-news/405171/american-samoa-tightens-entry-as-measles-fears-grow|title=American Samoa tightens entry as measles fears grow|date=10 December 2019|website=Radio New Zealand|language=en-nz|url-status=live|archive-url=https://web.archive.org/web/20191210222500/https://www.rnz.co.nz/international/pacific-news/405171/american-samoa-tightens-entry-as-measles-fears-grow|archive-date=10 December 2019}}</ref>
+
+<ref name="coffins">{{cite news|last1=Gerson|first1=Michael|url=https://www.washingtonpost.com/opinions/samoa-has-become-a-case-study-for-anti-vax-success/2019/12/09/76848830-1ac8-11ea-b4c1-fd0d91b60d9e_story.html|title=Samoa has become a case study for 'anti-vax' success|date=10 December 2019|work=Washington Post|url-status=live|archive-url=https://web.archive.org/web/20191210130943/https://www.washingtonpost.com/opinions/samoa-has-become-a-case-study-for-anti-vax-success/2019/12/09/76848830-1ac8-11ea-b4c1-fd0d91b60d9e_story.html|archive-date=10 December 2019|agency=US|url-access=registration}}</ref>
+
+<ref name="reuters">{{cite news|last1=Barrett|first1=Jonathan|url=https://www.reuters.com/article/us-health-measles-samoa/decorated-with-butterflies-infant-sized-coffins-sent-to-measles-ravaged-samoa-idUSKBN1YD01J|title=Decorated with butterflies, infant-sized coffins sent to measles-ravaged Samoa|date=9 December 2019|work=Reuters|url-status=live|archive-url=https://web.archive.org/web/20191210121933/https://www.reuters.com/article/us-health-measles-samoa/decorated-with-butterflies-infant-sized-coffins-sent-to-measles-ravaged-samoa-idUSKBN1YD01J|archive-date=10 December 2019|location=New York, NY, US}}</ref>
+
+<ref name="WHO_statistics">{{Cite web|url=https://www.who.int/immunization/monitoring_surveillance/data/wsm.pdf|title=Samoa: WHO and UNICEF estimates of immunization coverage: 2018 revision|date=2018|website=World Health Organization|url-status=live|archive-url=https://web.archive.org/web/20191208230119/https://www.who.int/immunization/monitoring_surveillance/data/wsm.pdf|archive-date=8 December 2019}}</ref>
+
+<ref name="strain">{{cite web|url=https://www.who.int/docs/default-source/wpro---documents/dps/outbreaks-and-emergencies/measles-2019/measles-pacific-sitrep-20191122-docx.pdf?sfvrsn=d8166638_2|title=WHO/UNICEF Secretariat Supporting Measles Outbreak Preparedness And Response In The Pacific|date=22 November 2019|website=who.int|publisher=World Health Organization|url-status=live|archive-url=https://web.archive.org/web/20191213163924/https://www.who.int/docs/default-source/wpro---documents/dps/outbreaks-and-emergencies/measles-2019/measles-pacific-sitrep-20191122-docx.pdf?sfvrsn=d8166638_2|archive-date=13 December 2019}}</ref>
+
+<ref name="extended">{{Cite web|url=https://www.rnz.co.nz/international/pacific-news/405509/samoa-measles-state-of-emergency-extended|title=Samoa measles state of emergency extended|date=14 December 2019|website=Radio New Zealand|language=en-nz|url-status=live|archive-url=https://web.archive.org/web/20191214075739/https://www.rnz.co.nz/international/pacific-news/405509/samoa-measles-state-of-emergency-extended|archive-date=14 December 2019}}</ref>
+
+<ref name="1m">{{Cite web|url=https://www.stuff.co.nz/world/south-pacific/118198091/samoa-measles-outbreak-new-zealand-gives-1m-for-preventive-action-in-pacific|title=Samoa measles outbreak: New Zealand gives $1m for preventive action in Pacific|date=14 December 2019|website=Stuff|publisher=Stuff Limited|location=New Zealand|language=en|url-status=live|archive-url=https://web.archive.org/web/20191214010620/https://www.stuff.co.nz/world/south-pacific/118198091/samoa-measles-outbreak-new-zealand-gives-1m-for-preventive-action-in-pacific|archive-date=14 December 2019}}</ref>
+
+<ref name="facebook">{{Cite news|url=https://www1.racgp.org.au/newsgp/clinical/facebook-challenged-over-spread-of-anti-vaccine-co|title=Facebook challenged over spread of anti-vaccine content in measles-stricken Samoa|last=Hendrie|first=Doug|date=11 December 2019|work=newsGP|url-status=live|archive-url=https://web.archive.org/web/20191218220415/https://www1.racgp.org.au/newsgp/clinical/facebook-challenged-over-spread-of-anti-vaccine-co|archive-date=18 December 2019|publisher=The Royal Australian College of General Practitioners}}</ref>
+
+<ref name="78i">{{cite news|url=https://www.rnz.co.nz/international/pacific-news/405922/samoa-s-measles-death-toll-rises-to-78|title=Samoa's measles death toll rises to 78|date=20 December 2019|work=Radio New Zealand|url-status=live|archive-url=https://web.archive.org/web/20191220025722/https://www.rnz.co.nz/international/pacific-news/405922/samoa-s-measles-death-toll-rises-to-78|archive-date=20 December 2019}}</ref>
+
+<ref name="NEOC_R36">{{cite web|url=https://www.facebook.com/samoagovt/posts/2835748539789483|title=National Emergency Operation Centre, update on the measles outbreak: (press release 36) 22 December, 2019|last=Government of Samoa|date=22 December 2019|website=@samoagovt|url-status=live|archive-url=https://archive.today/20200316000531/https://www.facebook.com/samoagovt/posts/2835748539789483|archive-date=16 March 2020|access-date=22 December 2019}}</ref>
+
+<ref name="SBS_DEM">{{cite web|url=https://www.sbs.gov.ws/population|title=Population & Demography Indicator Summary|date=22 December 2019|website=Samoa Bureau of Statistics|url-status=live|archive-url=https://web.archive.org/web/20191208170000/https://www.sbs.gov.ws/population|archive-date=8 December 2019}}</ref>
+
+<ref name="NEOC_R23">{{cite web|url=https://www.facebook.com/samoagovt/posts/2806136062750731|title=National Emergency Operation Centre, update on the measles outbreak: (press release 23) 9 December|last=Government of Samoa|date=9 December 2019|website=@samoagovt|url-status=live|archive-url=https://archive.today/20200316000345/https://www.facebook.com/samoagovt/posts/2806136062750731|archive-date=16 March 2020|access-date=22 December 2019}}</ref>
+
+<ref name="telegraph">{{Cite news|last=Deer|first=Brian|url=https://www.telegraph.co.uk/news/measles-in-samoa/|title=Samoa's perfect storm: How a collapse in vaccination rates killed more than 70 children|date=20 December 2019|work=The Telegraph|url-status=live|archive-url=https://web.archive.org/web/20191221114349/https://www.telegraph.co.uk/news/measles-in-samoa/|archive-date=21 December 2019|publication-place=London, UK|language=en-GB|issn=0307-1235}}</ref>
+
+<ref name="address">{{cite news|url=https://www.samoaobserver.ws/category/samoa/55411|title=Prime Minister addresses nation at start of 2020|last=Feagaimaali'i|first=Joyetter|date=1 January 2020|work=Samoa Observer|url-status=live|archive-url=https://web.archive.org/web/20200101020649/https://www.samoaobserver.ws/category/samoa/55411|archive-date=1 January 2020}}</ref>
+
+<ref name="ausmat">{{Cite news|url=https://www.samoaobserver.ws/category/samoa/55552|title=Australia's emergency measles mission ends|last=Wilson|first=Soli|date=5 January 2020|work=Samoa Observer|url-status=live|archive-url=https://web.archive.org/web/20200316003401/https://www.samoaobserver.ws/category/samoa/55552|archive-date=16 March 2020}}</ref>
+
+<ref name="n612">{{cite news|last=Mayron|first=Sapeer|url=https://www.samoaobserver.ws/category/samoa/55544|title=It's okay to vaccinate, Minister Aupito spreads the message|date=5 January 2020|work=Samoa Observer|url-status=live|archive-url=https://web.archive.org/web/20200125170633/https://www.samoaobserver.ws/category/samoa/55544|archive-date=25 January 2020}}</ref>
+
+<ref name="israel">{{Cite web|url=http://www.israel21c.org/israeli-medical-experts-fly-to-help-samoan-measles-victims/|title=Israeli medical experts fly to help Samoan measles victims|last=Leichman|first=Abigail Klein|date=8 December 2019|website=Israel21c news|location=San Francisco, US|language=en-US|url-status=live|archive-url=https://web.archive.org/web/20200108080556/https://www.israel21c.org/israeli-medical-experts-fly-to-help-samoan-measles-victims/|archive-date=8 January 2020}}</ref>
+
+<ref name="christmas">{{Cite web|url=https://samoaglobalnews.com/emergency-medical-teams-work-through-christmas/|title=Emergency Medical Teams Work Through Christmas|last=Govt Press Release|date=25 December 2019|website=Samoa Global News|language=en-US|url-status=live|archive-url=https://web.archive.org/web/20200116115822/https://samoaglobalnews.com/emergency-medical-teams-work-through-christmas/|archive-date=16 January 2020}}</ref>
+
+<ref name="Jan25">{{Cite web|url=https://reliefweb.int/report/samoa/health-emergency-operation-centre-update-measles-outbreak-january-20-2020|title=Health Emergency Operation Centre: Update on the measles outbreak, January 20, 2020 - Samoa|date=20 January 2020|website=ReliefWeb|publisher=Government of Samoa|language=en|url-status=live|archive-url=https://web.archive.org/web/20200215135302/https://reliefweb.int/report/samoa/health-emergency-operation-centre-update-measles-outbreak-january-20-2020|archive-date=15 February 2020}}</ref>
+
+<ref name="No action">{{cite news|url=https://www.rnz.co.nz/international/pacific-news/408045/samoa-s-measles-crisis-wanes-but-questions-remain-unanswered|title=Samoa's measles crisis wanes, but questions remain unanswered|date=24 January 2020|work=Radio New Zealand|url-status=live|archive-url=https://web.archive.org/web/20200125183908/https://www.rnz.co.nz/international/pacific-news/408045/samoa-s-measles-crisis-wanes-but-questions-remain-unanswered|archive-date=25 January 2020}}</ref>
+
+<ref name="Ola">{{cite news|url=https://www.rnz.co.nz/international/pacific-news/407796/mp-calls-for-inquiry-into-samoa-s-measles-epidemic|title=MP calls for inquiry into Samoa's measles epidemic|date=21 January 2020|work=Radio New Zealand|url-status=live|archive-url=https://web.archive.org/web/20200125183423/https://www.rnz.co.nz/international/pacific-news/407796/mp-calls-for-inquiry-into-samoa-s-measles-epidemic|archive-date=25 January 2020}}</ref>
+
+<ref name="UKRes">{{cite web|url=https://www.gov.uk/government/news/uk-medics-fight-deadly-measles-outbreak-in-samoa|title=UK medics fight deadly measles outbreak in Samoa - Press release|last=Department for International Development|date=29 November 2019|website=UK Government|url-status=live|archive-url=https://web.archive.org/web/20191130151355/https://www.gov.uk/government/news/uk-medics-fight-deadly-measles-outbreak-in-samoa|archive-date=30 November 2019}}</ref>
+
+<ref name="warning">{{cite news|last=Duckor-Jones|first=Avi|url=https://www.noted.co.nz/currently/currently-world/samoa-measles-how-its-faring-after-the-epidemic|title=Tragedy in paradise: How Samoa is faring after the measles epidemic|date=5 February 2020|work=The Listener|url-status=live|archive-url=https://web.archive.org/web/20200223042330/https://www.noted.co.nz/currently/currently-world/samoa-measles-how-its-faring-after-the-epidemic|archive-date=23 February 2020|publisher=Bauer Media Pty Ltd|location=NZ}}</ref>
+
+<!----Unused references----
+
+<ref name="factbook">{{Cite web|url=https://www.cia.gov/the-world-factbook/countries/samoa/|title=Australia - Oceania :: Samoa — The World Factbook - Central Intelligence Agency (July 2018 est.)|website=www.cia.gov|access-date=6 December 2019}}</ref>
+
+<ref name="DeathToll">{{Cite web|url=https://www.rnz.co.nz/international/pacific-news/405090/measles-death-toll-rises-to-68-in-samoa|title=Measles death toll rises to 68 in Samoa|date=8 December 2019|website=Radio NZ|language=en-nz|url-status=live|archive-url=https://web.archive.org/web/20191208111109/https://www.rnz.co.nz/international/pacific-news/405090/measles-death-toll-rises-to-68-in-samoa|archive-date=8 December 2019}}</ref>
+
+<ref name="twitter">{{Cite web|url=https://twitter.com/samoagovt/status/1202707973048418304|title=Latest update: 4,357 measles cases have been reported since the outbreak with 140 recorded in the last 24 hours. To date, 63 measles related deaths have been recorded.|last=Samoa|first=Government of|date=5 December 2019|website=Twitter|language=en|access-date=6 December 2019}}</ref>
+
+<ref name="claims 32">{{Cite news|url=https://www.abc.net.au/news/2019-11-26/samoa-measles-emergency-claims-32-lives-as-death-toll-rises/11738138|title=Samoa makes measles vaccinations compulsory after outbreak kills 32|last=Pacific Beat|date=26 November 2019|work=ABC News|language=en-AU|url-status=live|archive-url=https://web.archive.org/web/20191202185746/https://www.abc.net.au/news/2019-11-26/samoa-measles-emergency-claims-32-lives-as-death-toll-rises/11738138|archive-date=2 December 2019}}</ref>
+
+<ref name="projected">{{Cite news|url=https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12289525|title=Samoan measles outbreak: 70 deaths projected and 6500 infected|last=Russell|first=Emma|date=29 November 2019|work=New Zealand Herald|archive-url=https://web.archive.org/web/20191203190413/https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12289525|archive-date=3 December 2019|language=en-NZ|issn=1170-0777}}</ref>
+
+<ref name="18 more">{{Cite web|url=https://reliefweb.int/report/samoa/further-support-samoan-measles-outbreak|title=Further support for Samoan measles outbreak - Samoa|date=18 November 2019|website=ReliefWeb|publisher=Government of New Zealand|language=en|url-status=live|archive-url=https://web.archive.org/web/20191118141546/https://reliefweb.int/report/samoa/further-support-samoan-measles-outbreak|archive-date=18 November 2019}}</ref>
+
+<ref name="kills 72">{{Cite web|url=https://www.cbsnews.com/news/samoa-extends-measles-state-of-emergency-as-death-toll-climbs-2019-12-14/|title=Measles outbreak in Samoa kills 72, most of them children|last=McNamara|first=Audrey|date=14 December 2019|website=CBS News|publisher=CBS Interactive Inc|location=US|language=en-US|url-status=live|archive-url=https://web.archive.org/web/20191215180550/https://www.cbsnews.com/news/samoa-extends-measles-state-of-emergency-as-death-toll-climbs-2019-12-14/|archive-date=15 December 2019}}</ref>
+
+----Unused references---->
+
+}}
+
+{{2019 measles outbreaks}}
+{{Epidemics}}
+
+{{DEFAULTSORT:Samoa measles outbreak, 2019}}
+[[Category:2019 in Samoa|Measles outbreak]]
+[[Category:2019 measles outbreaks]]
+[[Category:2010s disasters in Oceania]]
+[[Category:Health in Samoa|2019 measles outbreak]]
+[[Category:Disease outbreaks in Samoa]]
+[[Category:October 2019 events in Oceania]]
+[[Category:November 2019 events in Oceania]]
+[[Category:December 2019 events in Oceania]]

@@ -1,0 +1,77 @@
+{{Outdated as of | year = 2018 | month = 03 | day = 27 | last updated = February 20, 2015 }}
+{{Infobox event
+|title=2014 Odisha hepatitis
+ outbreak
+|image=
+
+{{Location map | India
+| width      =
+| float      =
+| caption    =
+| alt        = Location of Sambalpur in India
+| label      = Sambalpur
+| label_size = 100 <!--100% of normal size-->
+| position   = bottom
+| background = orange
+| mark       = Orange_pog.svg
+| marksize   = 8 <!--size in pixels-->
+| lat_deg    = 21.492042
+| lon_deg    = 83.984385
+}}
+
+|caption=Location of [[Sambalpur]] in [[India]] where the early cases were reported
+|date=2014-2015
+|place=[[Sambalpur]], [[Odisha]], [[India]]
+|casualties1=36 dead<ref name=Grapples/>
+|casualties2=3966+ infected<ref name=Grapples/>
+}}
+
+The '''2014 Odisha hepatitis outbreak''' (initially known as the ''2014 Sambalpur jaundice outbreak'', in relation to the predominant symptom and location) was an outbreak of mainly [[Hepatitis E]] and also [[Hepatitis A]] which began in the town of [[Sambalpur]] in [[Odisha]], [[India]].<ref name=2More>{{cite news|title=Jaundice Resurfaces, Claims 2 More|url=http://www.newindianexpress.com/states/odisha/Jaundice-Resurfaces-Claims-2-More/2015/01/03/article2601550.ece|access-date=7 January 2015|work=[[The New Indian Express]]|date=3 January 2014}}</ref> The cause of the outbreak was suspected to be the contamination to drinking water supplied by the Public Health Engineering Department (PHED).<ref name=HepinSBP>{{cite news|title=Hepatitis in Sambalpur|url=http://www.newindianexpress.com/states/odisha/Hepatitis-in-Sambalpur/2014/10/31/article2501156.ece|access-date=7 January 2015|work=[[The New Indian Express]]|date=31 October 2014}}</ref>
+
+By February 2015, it had spread and cases were being reported from [[Bolangir district]] near Sambalpur, and some coastal districts like [[Cuttack]], [[Khurda]] and [[Jajpur]]. The epidemic is still to be brought under control as of February 2015.<ref name=Grapples>{{cite news|title=Odisha grapples with jaundice outbreak|url=http://www.deccanherald.com/content/460129/odisha-grapples-jaundice-outbreak.html|access-date=17 February 2015|work=[[Deccan Herald]]|date=17 February 2015}}</ref>
+
+==Timeline==
+
+===September 2014===
+Following the monsoon floods, cases of [[jaundice]] and [[dengue]] were reported from Sambalpur. The increase in reported jaundice was attributed to broken water supply lines, into which drain water was seeping in.<ref name=Flood>{{cite news|title=Flood to Blame in Sambalpur|url=http://www.newindianexpress.com/states/odisha/Flood-to-Blame-in-Sambalpur/2014/09/19/article2438748.ece|access-date=7 January 2015|work=[[The New Indian Express]]|date=19 September 2014}}</ref>
+
+===November 2014===
+In late November 2014, water samples were sent to [[National Institute of Virology]], [[Pune]]. By this time, an average of 20 cases were being reported daily and 6 had died. A total of 677 cases had been reported.<ref name=Grips>{{cite news|title=Jaundice grips Sambalpur, water samples to be sent to Pune|url=http://zeenews.india.com/news/odisha/jaundice-grips-sambalpur-water-samples-to-be-sent-to-pune_1505695.html|access-date=7 January 2015|work=[[Zee News]]|date=27 November 2014}}</ref>
+
+===December 2014===
+A state government task force was formed to stop the outbreak. The 5 water samples sent to the [[National Institute of Virology]] were found negative. 50 more water samples were sent for testing. The PHED water supply to the worst affected areas was stopped. 818 persons had been infected by this time and 10 had died.<ref name=GripOf>{{cite news|title=Sambalpur in the Grip of Jaundice|url=http://www.newindianexpress.com/nation/Sambalpur-in-the-Grip-of-Jaundice/2014/12/08/article2560407.ece|access-date=7 January 2015|work=[[The New Indian Express]]|date=8 December 2014}}</ref>
+
+The Food Safety Officer of Sambalpur Municipality, Rudra Pratap, raided roadside food stalls on 3 December. He seized and destroyed more than 100&nbsp;kg of unhygienic food being sold. A meeting of 250 food stall owners was conducted on 5 December by the city administration. They were instructed to observe various cleanliness standards.<ref name=Raid>{{cite news|title=Jaundice Scare: Civic Body Raids Eateries|url=http://www.newindianexpress.com/states/odisha/Jaundice-Scare-Civic-Body-Raids-Eateries/2014/12/05/article2556061.ece|access-date=7 January 2015|work=[[The New Indian Express]]|date=5 December 2014}}</ref> On 11 December 2014, the collector Balwant Singh announced that the local cultural festival, Sambalpur Lok Mahotsav, which was to be held from 4 January will be cancelled.<ref name=LokMaho>{{cite news|title=Jaundice Scare: Lok Mahotsav Cancelled|url=http://www.newindianexpress.com/states/odisha/Jaundice-Scare-Lok-Mahotsav-Cancelled/2014/12/11/article2566020.ece|access-date=7 January 2015|work=[[The New Indian Express]]|date=11 December 2014}}</ref>
+
+By 24 December, the number of infected had risen to 1,547 and 17 had died. It was speculated that a poor drainage system and damaged water supply pipes were causing the infections.<ref name=CasesRise>{{cite news|title=Jaundice Cases Rise to 1,547 in Odisha's Sambalpur|url=http://www.ndtv.com/article/india/jaundice-cases-rise-to-1-547-in-odisha-s-sambalpur-639228|access-date=7 January 2015|work=[[NDTV]]|date=24 December 2014}}</ref>
+
+On 26 December, 88 blood samples were collected from admitted patients. 21 were found to contain the [[Hepatitis A]] virus and 4 [[Hepatitis E]] virus.<ref name=2More/> On the same day, the town was visited by a team from central government, consisting of P Verma of [[National Centre for Disease Control]] (NCDC); Vidya Arankalle of [[National Institute of Virology]], [[Pune]] and Manju of [[Indian Council of Medical Research]] (ICMR).<ref name=CentralH>{{cite news|title=Central Health team visits Sambalpur|url=http://www.business-standard.com/article/pti-stories/central-health-team-visits-sambalpur-114122600738_1.html|access-date=7 January 2015|work=[[Business Standard]]|date=26 December 2014}}</ref>
+
+===January 2015===
+The [[Odisha High Court]] on 12 January 2015 asked the state government to submit a report on the steps taken to check the outbreak.<ref name=JaundiceHC>{{cite news|title=HC issues notice to Odisha govt. on jaundice outbreak in Sambalpur|url=http://www.thehindu.com/news/national/other-states/hc-issues-notice-to-odisha-govt-on-jaundice-outbreak-in-sambalpur/article6782456.ece|access-date=13 January 2015|work=[[The Hindu]]|date=13 January 2015}}</ref> On 21 January, Sambalpur district administration, Public Health department and Sambalpur Municipality filed affidavits at the court detailing the steps taken to check the outbreak.<ref name=affidavit>{{cite news|title=Odisha govt agencies file affidavits in HC on jaundice situation in Sambalpur|url=http://odishasuntimes.com/109401/odisha-govt-agencies-file-affidavits-hc-jaundice-situation-sambalpur/|access-date=25 January 2015|work=Odisha Sun Times|date=21 January 2015}}</ref>
+
+On 17 January 2015, families of the dead and affected filed 450 [[First Information Report|police complaint]]s against various public officials. They demanded that {{currency|100,000|INR}} should given as compensation to the family of the dead and {{currency|50,000|INR}} to the infected.<ref name=FIRs>{{cite news|title=Families of Sambalpur jaundice victims lodge FIRs against Odisha govt agencies|url=http://odishasuntimes.com/108784/families-sambalpur-jaundice-victims-lodge-firs-odisha-govt-agencies/|access-date=25 January 2015|work=Odisha Sun Times|date=17 January 2015}}</ref>
+
+===February 2015===
+By 12 February 2015, responding to a [[Public Interest Litigation]] filed by a Corporator of Cuttack Municipal Corporation, Giribala Behera, the Odisha High Court directed the state government to form a high level committee to check the epidemic.<ref name=PanelJaundice>{{cite news|title=HC Asks Government to Form Panel to Check Jaundice|url=http://www.newindianexpress.com/states/odisha/HC-Asks-Government-to-Form-Panel-to-Check-Jaundice/2015/02/13/article2666821.ece|access-date=17 February 2015|work=[[The New Indian Express]]|date=13 February 2015}}</ref>
+
+By 16 February 2015, the state had declared the districts Sambalpur, Bolangir, Cuttack, Khurda, and Jajpur as jaundice affected. By now Sambalpur had reported 2,945 and Cuttack had reported 116 cases, with there being total 3,966 cases from the state. The official death toll was 36 but unofficially it was estimated to be 50. A separate ward was set up in [[Shri Ramachandra Bhanj Medical College]], Cuttack to treat the victims.<ref name=Grapples/>
+
+==See also==
+* [[List of epidemics]]
+
+==References==
+{{reflist|3}}
+
+{{Epidemics}}
+
+[[Category:Hepatitis outbreaks]]
+[[Category:2010s disease outbreaks]]
+[[Category:Disease outbreaks in India]]
+[[Category:21st-century epidemics]]
+[[Category:Health in Odisha]]
+[[Category:Disasters in Odisha]]
+[[Category:2010s in Odisha]]
+[[Category:2014 disasters in India]]
+[[Category:2014 health disasters]]
+[[Category:Hepatitis A]]

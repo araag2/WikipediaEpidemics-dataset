@@ -1,0 +1,97 @@
+{{Infobox pandemic
+| name            = 2017 dengue outbreak in Sri Lanka
+| disease         = [[Dengue fever]]
+| virus_strain    = ''[[Dengue virus]]''
+| dates           = May 2017 – September 2017
+| origin          = [[Sri Lanka]]
+| confirmed_cases = 186,101
+| deaths          = 440
+| fatality_rate   = {{Percentage|440|186101|2}}
+}}
+
+In the '''2017 dengue outbreak in Sri Lanka''', a rise in the number of [[dengue fever]] cases was reported on the island country of [[Sri Lanka]]. The outbreak began in the mid-year [[Monsoon|monsoon rain season]], when there was record of up to 40,000 cases in July. This figure was far beyond the historical highest number of cases per month in Sri Lanka. Year end total dengue cases rose to 186,101. This number being higher than the previous year. Most cases were recorded in [[Western Province, Sri Lanka|Western Province]] urban areas. There were 215 deaths reported in end of June. Approximately 43% cases report from Western Province. Highest cases reported in Colombo district<ref>{{Cite web|title=WHO {{!}} Dengue fever – Sri Lanka|url=http://www.who.int/csr/don/19-july-2017-dengue-sri-lanka/en/|archive-url=https://web.archive.org/web/20170721165901/http://www.who.int/csr/don/19-july-2017-dengue-sri-lanka/en/|url-status=dead|archive-date=July 21, 2017|access-date=2020-11-27|website=WHO}}</ref> Year end Sri Lanka total dengue related deaths beyond the 440. Most dengue infected by young and school children. Government of Sri Lanka spend more than US$12 million for control outbreak.<ref>{{Cite web|title=Sri Lanka: Dengue Outbreak - Jul 2017|url=https://reliefweb.int/disaster/ep-2017-000086-lka|access-date=2020-11-27|website=ReliefWeb|language=en}}</ref><ref>{{Cite journal|last1=Tissera|first1=Hasitha A.|last2=Jayamanne|first2=Bernard D.W.|last3=Raut|first3=Rajendra|last4=Janaki|first4=Sakunthala M.D.|last5=Tozan|first5=Yesim|last6=Samaraweera|first6=Preshila C.|last7=Liyanage|first7=Prasad|last8=Ghouse|first8=Azhar|last9=Rodrigo|first9=Chaturaka|last10=de Silva|first10=Aravinda M.|last11=Fernando|first11=Sumadhya D.|date=April 2020|title=Severe Dengue Epidemic, Sri Lanka, 2017|journal=Emerging Infectious Diseases|volume=26|issue=4|pages=682–691|doi=10.3201/eid2604.190435|issn=1080-6040|pmc=7101108|pmid=32186490}}</ref> [[International Red Cross and Red Crescent Movement|Red Cross]] would provide help to most dengue cases reported Colombo areas in fighting the outbreak.<ref>{{Cite web|title=Dengue Fever Outbreak in Sri Lanka Kills Nearly 300 People|url=https://time.com/4872034/sri-lanka-dengue-outbreak-deaths/|access-date=2020-11-27|website=Time}}</ref>
+
+== Status of outbreak ==
+{| class="wikitable"
+|+Dengue Cases by Districts<ref>{{Cite web|title=Trends|url=http://www.epid.gov.lk/web/index.php?option=com_casesanddeaths&Itemid=448&lang=en|access-date=2020-11-27|website=www.epid.gov.lk}}</ref>
+!District
+!January
+!February
+!March
+!April
+!May
+!June
+!July
+!August
+!September
+!October
+!November
+!December
+!Total
+|-
+|[[Colombo District|Colombo]]
+|2,734
+|1,900
+|2,467
+|2,570
+|3,333
+|5,372
+|7,471
+|3,620
+|1,251
+|823
+|1,131
+|1,602
+|34,274
+|-
+|[[Gampaha District|Gampaha]]
+|1,635
+|1,087
+|1,870
+|2,072
+|3,168
+|4,901
+|9,039
+|3,553
+|1,246
+|779
+|1,078
+|1,219
+|31,647
+|-
+|[[Kalutara District|Kalutara]]
+|581
+|448
+|836
+|739
+|946
+|1,248
+|2,612
+|1,477
+|663
+|337
+|528
+|546
+|10,961
+|}
+
+== See also ==
+* [[Dengue fever outbreaks]]
+* [[Tropical disease]]
+* [[Mosquito-borne disease]]
+
+== External links ==
+* [https://www.who.int/country/lka/en WHO: Sri Lanka]
+* [https://web.archive.org/web/20120710170830/http://www.health.gov.lk/HealthPolicy.htm Ministry of Health - Sri Lanka]
+* [https://www.epid.gov.lk/web/images/pdf/wer/2018/vol_45_no_03-english.pdf Epidemiology Unit]
+
+== References ==
+<references />
+
+{{2017 in Sri Lanka}}
+
+[[Category:2017 in Sri Lanka|Dengue]]
+[[Category:Dengue fever outbreaks|Sri Lanka 2017]]
+[[Category:Disease outbreaks in Sri Lanka]]
+
+{{epidemic-stub}}

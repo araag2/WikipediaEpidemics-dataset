@@ -1,0 +1,84 @@
+{{short description|2009 meningitis epidemic in Africa}}
+{{Use dmy dates|date=October 2016}}
+{{Infobox News event
+|image=[[File:2009 Africa epidemic.png]]
+|caption=Countries affected by the epidemic
+|date= January 2009–2010
+|place= [[Burkina Faso]], [[Mali]], [[Niger]], and [[Nigeria]]
+|casualties1= 1,100 dead
+|casualties2= 25,000 suspected cases
+|casualties3=
+|notes=
+}}
+
+The '''2009–2010 West African meningitis outbreak''' was an [[epidemic]] of bacterial [[meningitis]] which occurred in [[Burkina Faso]], [[Mali]], [[Niger]], and [[Nigeria]] since January 2009,<ref name="AFP">{{cite news|url=https://www.google.com/hostednews/afp/article/ALeqM5jnqZygqNJdnANb_ojvfZI38jb5vg|title=West African meningitis outbreak kills 931|date=2009-03-12|publisher=[[Agence France-Presse]]|access-date=2009-03-15}}</ref> an annual risk in the [[African meningitis belt]]. A total of 13,516 people have been infected with meningitis, and 931 have died.<ref name="AFP"/> Nigeria has been the most adversely affected, with over half of the total cases and deaths occurring in the nation.  The WHO reported on 27 March 2009 that 1,100 had died and there were 25,000 suspected cases.<ref name="reuter">[https://www.reuters.com/article/rbssHealthcareNews/idUSLR95915420090327 Reuters:UPDATE 1-Meningitis kills over 1,100 West Africans - WHO]</ref>  It is the worst outbreak in the region since 1996, and a third of the world's emergency vaccine stockpile for the bacterial form has been consumed{{when|date=October 2016}}.<ref name="reuter"/>  The [[GAVI Alliance]] has been trying to secure more vaccines.<ref name="reuter"/>
+
+==Background==
+[[File:Meningitis-Epidemics-World-Map.png|right|thumb|Demography of [[meningococcus|meningococcal]] meningitis.{{legend|#FF0000|meningitis belt}}{{legend|#E08040|epidemic zones}}{{legend|#C0C0C0|sporadic cases only}}]]
+
+West Africa is regularly struck by an annual meningitis epidemic, usually affecting between 25,000 and 200,000 inhabitants.<ref name="West African meningitis epidemics driven by the wind">{{cite news|url=http://www.medicalnewstoday.com/articles/22350.php|title=West African meningitis epidemics driven by the wind|date=2009-03-12|access-date=2009-03-15|work=[[Medical News Today]]|archive-date=4 January 2009|archive-url=https://web.archive.org/web/20090104200457/http://www.medicalnewstoday.com/articles/22350.php|url-status=dead}}</ref> However, this epidemic has been the deadliest outbreak since 1996.<ref>{{cite news|url=http://www.voanews.com/english/2009-03-04-voa28.cfm |title=Health Officials Say Meningitis Ravaging Northern Nigeria |last=de Costa |first=Gilbert |date=2009-03-04 |publisher=VOA |access-date=2009-03-15 |url-status=dead |archiveurl=https://web.archive.org/web/20090312054019/http://www.voanews.com/english/2009-03-04-voa28.cfm |archivedate=12 March 2009 }}</ref> That year meningitis infected over 100,000 people and killed 10,000 during a three-month period.<ref name="Wide Epidemic of Men Fatal to 10,000 in West Africa">{{cite news|url=https://www.nytimes.com/1996/05/08/world/wide-epidemic-of-meningitis-fatal-to-10000-in-west-africa.html?fta=y|title=Wide Epidemic of Men Fatal to 10,000 in West Africa|date=1996-05-08|access-date=2009-03-15|newspaper=[[The New York Times]] | first=Howard W. | last=French}}</ref>
+
+According to Doctors Without Borders, up to 400 vaccination teams of five people each immunized thousands of people every day in the region for a few weeks. In total, 2.8 million people were vaccinated in Zinder, Maradi, and [[Dosso, Niger|Dosso regions in Niger]], and 4.5 million people in Katsina, Jigawa, Bauchi, Kebbi, Sokoto, Niger, Zamfara, Kaduna, and Gombe States in Nigeria. Vaccination campaigns continued at some sites in Nigeria for a total of 255,000 people.<ref>{{cite news|url=https://www.doctorswithoutborders.org/what-we-do/news-stories/news/west-africa-major-meningitis-epidemic-nears-end|title=West Africa: Major Meningitis Epidemic Nears End|date=2009-05-14}}</ref>
+
+==Countries affected==
+
+===Burkina Faso===
+The outbreak has affected four departments in Burkina Faso: [[Batié Department]], [[Manni Department]], [[Solenzo Department]], and [[Toma Department]].<ref name="rw">{{cite news|url=http://www.reliefweb.int/rw/rwb.nsf/db900SID/LSGZ-7PLJ9P?OpenDocument|title=Burkina Faso: Meningitis and measles DREF operation n° MDRBF007|date=2009-02-25|publisher=IFRC|access-date=2009-03-15}}</ref> About 15% of those infected have died from meningitis. In addition, a small [[measles]] outbreak occurred at the same time as the meningitis epidemic.<ref name="rw"/>
+
+===Mali===
+In Mali, 54 people were infected with meningitis, six of whom died.<ref name="AFP"/>  At the time of the outbreak, several organizations were conducting clinical meningitis vaccine trials.<ref>{{cite news|url=https://www.who.int/mediacentre/news/releases/2008/pr31/en/index.html|archive-url=https://web.archive.org/web/20080905165154/http://www.who.int/mediacentre/news/releases/2008/pr31/en/index.html|url-status=dead|archive-date=5 September 2008|title=African countries to introduce new meningitis vaccine|date=2008-09-04|publisher=[[World Health Organization]]|access-date=2009-03-16}}</ref>
+{|class="wikitable" style="float: right; margin:0 1em 0.5em 1em;"
+|+ Infections and deaths by country<ref name="RTT"/>
+|-
+| '''Country''' || '''Infections''' || '''Deaths'''
+|-
+| [[Nigeria]] || 9,086 || 562
+|-
+| [[Niger]] || 2,620 || 113
+|-
+| [[Burkina Faso]] || 1,756 || 250
+|-
+| [[Mali]] || 54 || 6
+|-
+| Total || 13,516 || 931
+|}
+
+===Niger===
+The outbreak first began in late January with several cases reported in [[Zinder Region]], in southern [[Niger]].<ref name="aa">{{cite news|url=http://allafrica.com/stories/200903120120.html|title=Nigeria: Battling the Lassa, CSM Outbreaks|date=2009-03-11|publisher=All Africa|access-date=2009-03-15}}</ref> Compared to the meningitis epidemic in 2008, more cases have been reported, but with a lower fatality rate.<ref>{{cite news|url=http://www.irinnews.org/Report.aspx?ReportId=83384|title=In Brief: Meningitis infections climb in Niger |date=2009-03-09|publisher=IRIN News|access-date=2009-03-15}}</ref> Five districts in Niger have been seriously affected by the outbreak, and eight others are "on alert," according to the [[World Health Organization]].<ref>{{cite news|url=http://allafrica.com/stories/200903050913.html|title=West Africa: Meningitis Emergency Vaccine Stock Tapped Early|date=2009-03-05|publisher=All Africa|access-date=2009-03-16}}</ref>  A 1 May report from the remote towns of northern Niger described an increasing number of cases blamed on migrant workers from [[Nigeria]] and [[Ghana]] who travel through the region hoping to gain access to Algeria and Libya, and from there Europe. The [[Agadez Region]] directorate of public health report reported 189 cases with 16 death is the Region, 99 cases with 4 deaths in [[Agadez]] alone. In the even more remote areas further east, officials in [[Bilma]] and [[Dirkou]] reported 36 cases but with 10 of them resulting in death.<ref>[http://nigerdiaspora.info/index.php/sant%C3%A9/sant%C3%A9/agadez-:-des-migrants-vecteurs-de-la-m%C3%A9ningite/ Agadez : des migrants vecteurs de la méningite]{{dead link|date=June 2017 |bot=InternetArchiveBot |fix-attempted=yes }}. Ibrahim Manzo DIALLO, Aïr Info. 1 May 2009.  Accessed 2009-06-04.</ref>
+
+===Nigeria===
+Nigeria was struck especially hard, with 562 deaths in 9,086 cases.<ref name="RTT">{{cite news|url=http://www.rttnews.com/Content/GeneralNews.aspx?Node=B1&Id=881558 |title=931 Killed In West African Meningitis Outbreak: UNICEF |date=2009-03-12 |publisher=RTT News |access-date=2009-03-15 |url-status=dead |archiveurl=https://web.archive.org/web/20090322130653/http://www.rttnews.com/Content/GeneralNews.aspx?Node=B1&Id=881558 |archivedate=22 March 2009 }}</ref> 333 deaths occurred in the country over a three-month period in twenty-two out of thirty-six states.<ref name="Nigeria: Meningitis Kills 333">{{cite news|url=https://www.nytimes.com/2009/03/05/world/africa/05briefs-MENINGITISKI_BRF.html?partner=rss&emc=rss|title=Nigeria: Meningitis Kills 333|date=2009-03-05|access-date=2009-03-15|newspaper=[[The New York Times]]}}</ref> 217 [[Local Government Area]]s also reported cases.<ref name="aa"/> Several states mounted large meningitis vaccination and information campaigns after the outbreak.<ref>{{cite news|url=http://allafrica.com/stories/200903091133.html|title=Nigeria: Jigawa Begins Meningitis Vaccination|last=a Ibrahim|first=Yusha'u |date=2009-03-09|publisher=All Africa|access-date=2009-03-15}}</ref> [[Babatunde Osotimehin]], the Nigerian Minister of Health said that his nation was prepared for the expected epidemic: "On 3rd September 2008, we alerted all the States in the meningitis belt to intensify surveillance, preposition drugs and laboratory materials and sensitise the public on preventive measures. Indeed, right from August 2008, the Ministry had prepositioned all the states in the meningitis belt with [[oily chloramphenicol]] as well as laboratory reagents and materials for confirmation of cases."<ref>{{cite news|url=http://allafrica.com/stories/200903100451.html|title=Nigeria: We Anticipated CSM Epidemic And Prepared for It - Osotimehin|last=Ogundipe|first=Sola|date=2009-03-10|publisher=All Africa|access-date=2009-03-15}}</ref>
+
+==See also==
+* [[2009 Bolivian dengue fever epidemic]]
+* [[2009 Gujarat hepatitis outbreak]]
+* [[Zamfara State lead poisoning epidemic|2010 Zamfara State lead poisoning epidemic]]
+* [[Ebola virus epidemic in West Africa]]
+** [[Ebola virus epidemic in Guinea]]
+** [[Ebola virus epidemic in Sierra Leone]]
+** [[Ebola virus epidemic in Liberia]]
+** [[Ebola virus disease in Mali]]
+
+==References==
+{{reflist}}
+{{Epidemics}}
+
+{{DEFAULTSORT:West African meningitis outbreak, 2009}}
+[[Category:2000s disease outbreaks|2009]]
+[[Category:2009 in Africa]]
+[[Category:2009 in Burkina Faso]]
+[[Category:2009 in Mali]]
+[[Category:2009 in Niger]]
+[[Category:2009 in Nigeria]]
+[[Category:2010 in Africa]]
+[[Category:2010 in Burkina Faso]]
+[[Category:2010 in Mali]]
+[[Category:2010 in Niger]]
+[[Category:2010 in Nigeria]]
+[[Category:Meningitis]]
+[[Category:2009 health disasters]]
+[[Category:2010 health disasters]]
+[[Category:Disease outbreaks in Burkina Faso]]
+[[Category:Disease outbreaks in Mali]]
+[[Category:Disease outbreaks in Niger]]
+[[Category:Disease outbreaks in Nigeria]]

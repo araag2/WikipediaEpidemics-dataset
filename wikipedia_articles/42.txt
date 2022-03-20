@@ -1,0 +1,343 @@
+{{short description|Epidemic of Middle East respiratory syndrome coronavirus}}
+{{Lead too short|date=March 2020}}
+{{Use dmy dates|date=October 2020}}
+{| class="toccolours" style="font-size:88%;float: right; margin: 0.5em 0 0.5em 1em; width:25em"
+|+ '''MERS confirmed cases and deaths<br>{{small|From May 2013 to January 2020}}'''
+|-
+| colspan="4" style="background:lavender" | [[File:World MERS outbreak.svg|350px]]
+|- style="background:lavender"
+!
+! Cases
+! Deaths
+! {{nowrap|[[Case fatality|Fatality]]}}
+|-
+| style="background:lavender;" align="left" | '''WHO total''' as of January 2021<ref name=":0">{{Cite web|date=January 2021|title=MERS situation update|url=http://www.emro.who.int/health-topics/mers-cov/mers-outbreaks.html|access-date=28 February 2021|website=WHO Regional Office for the Eastern Mediterranean}}</ref>
+
+| style="background:lavender;text-align:center" | 2566
+| style="background:lavender;text-align:center" | 882
+| style="background:lavender;text-align:center" | 34%
+|-
+| style="background:lavender;" align="left" | '''ECDC total''' as of March 2021<ref name=":1">{{Cite web|date=1 March 2021|title=Geographical distribution of confirmed MERS-CoV cases by country of infection and year|url=https://www.ecdc.europa.eu/en/publications-data/geographical-distribution-confirmed-mers-cov-cases-country-infection-and-year|access-date=1 April 2021|website=European Centre for Disease Prevention and Control}}</ref>
+| style="background:lavender;text-align:center" | 2586
+| style="background:lavender;text-align:center" | 939
+| style="background:lavender;text-align:center" | 36%
+|-
+! colspan="4" | Reported confirmed cases per country
+|-
+| align="left" | [[Saudi Arabia]]<ref name=":0" />
+| 2167
+| 804
+| 37%
+|-
+| align="left" | [[2015 Middle East respiratory syndrome outbreak in South Korea|South Korea]]<ref name=":2">{{Cite web|date=29 August 2018|title=Severe respiratory disease associated with Middle East respiratory syndrome coronavirus, 22nd update|url=https://www.ecdc.europa.eu/sites/default/files/documents/RRA-Severe-respiratory-disease-associated-MERS-CoV-22nd%20update-29-aug-2018.pdf|access-date=28 February 2021|website=European Centre for Disease Prevention and Control}}</ref>
+| 185
+| 38
+| 20%
+|-
+| align="left" | {{nowrap|[[United Arab Emirates]]}}<ref name=":2" />
+| 92
+| 13
+| 14%
+|-
+| align="left" | [[Jordan]]<ref name=":2" />
+| 19
+| 6
+| 32%
+|-
+| align="left" | [[Qatar]]<ref name=":2" />
+| 19
+| 5
+| 26%
+|-
+| align="left" | [[Oman]]<ref name=":2" />
+| 11
+| 3
+| 27%
+|-
+| align="left" | [[Iran]]<ref name="ECDC tally">{{cite web|date=11 June 2015|title=Rapid Risk Assessment: Middle East respiratory syndrome coronavirus (MERS-CoV) — Seventeenth update, 11 June 2015|url=https://www.ecdc.europa.eu/sites/default/files/media/en/publications/Publications/middle-east-respiratory-syndrome-coronavirus-rapid-risk-assessment-11-June-2015.pdf|access-date=12 June 2015|publisher=[[European Centre for Disease Prevention and Control]]}}</ref>
+| 6
+| 2
+| 33%
+|-
+| align="left" | [[United Kingdom]]<ref name=":2" />
+| 5
+| 3
+| 60%
+|-
+| align="left" | [[Kuwait]]<ref name=":2" />
+| 4
+| 2
+| 50%
+|-
+| align="left" | [[Germany]]<ref name=":2" />
+| 3
+| 2
+| 66%
+|-
+| align="left" | [[Tunisia]]<ref name="ECDC tally" />
+| 3
+| 1
+| 33%
+|-
+| align="left" | [[Philippines]]<ref name=":2" />
+| 3
+| 0
+| 0%
+|-
+| align="left" | [[Thailand]]<ref name=":2" />
+| 3
+| 0
+| 0%
+|-
+| align="left" | [[Algeria]]<ref name="ECDC tally"/>
+| 2
+| 1
+| 50%
+|-
+| align="left" | [[France]]<ref name="ECDC tally"/>
+| 2
+| 1
+| 50%
+|-
+| align="left" | [[Malaysia]]<ref name=":2" />
+| 2
+| 1
+| 50%
+|-
+| align="left" | [[Austria]]<ref name=":2" />
+| 2
+| 1
+| 50%
+|-
+| align="left" | [[Spain]]<ref>{{cite web | url=https://www.who.int/csr/disease/coronavirus_infections/MERS_CoV_Update_20_Jan_2014.pdf | title=Middle East respiratory syndrome coronavirus (MERS-CoV) summary and literature update–as of 20 January 2014 | publisher=[[World Health Organization]] | date=20 January 2014 | access-date=13 May 2014}}</ref><ref>{{cite web | url=http://www.cidrap.umn.edu/news-perspective/2014/01/who-2-probable-mers-cases-spain-never-confirmed | title=US detects 2nd MERS case; Saudi Arabia has 18 more | publisher=[[Center for Infectious Disease Research and Policy]] | date=21 January 2014 | access-date=13 May 2014 | author=Lisa Schnirring}}</ref>
+| 2
+| 0
+| 0%
+|-
+| align="left" | [[Netherlands]]<ref name="ECDC tally"/><ref>{{cite news | url=http://www.nrc.nl/nieuws/2014/05/15/tweede-nederlander-besmet-met-longvirus-mers/ | title=Second Dutchman infected with lung virus MERS | newspaper=[[NRC Handelsblad]] | date=15 May 2014 | access-date=17 May 2014}}</ref>
+| 2
+| 0
+| 0%
+|-
+| align="left" | [[United States]]<ref name="ECDC tally"/>
+| 2
+| 0
+| 0%
+|-
+| align="left" | [[Lebanon]]<ref name=":2" />
+| 2
+| 0
+| 0%
+|-
+| align="left" | [[Greece]]<ref name="ECDC tally"/>
+| 1
+| 1
+| 100%
+|-
+| align="left" | [[Turkey]]<ref name="ECDC tally"/>
+| 1
+| 1
+| 100%
+|-
+| align="left" | [[Yemen]]<ref name="ECDC tally"/>
+| 1
+| 1
+| 100%
+|-
+| align="left" | [[Egypt]]<ref name="ECDC tally"/>
+| 1
+| 0
+| 0%
+|-
+| align="left" | [[Italy]]<ref name="ECDC tally"/>
+| 1
+| 0
+| 0%
+|-
+| align="left" | [[Bahrain]]<ref name=":2" />
+| 1
+| 0
+| 0%
+|-
+| align="left" | [[China]]<ref name=":2" />
+| 1
+| 0
+| 0%
+|-
+| style="background:lavender;" align="left" | '''Reported total'''
+| style="background:lavender;text-align:center" | '''2543'''
+| style="background:lavender;text-align:center" | '''886'''
+| style="background:lavender;text-align:center" | '''32%'''
+|-
+|}
+{{Coronavirus}}
+Since 2012, an outbreak of [[Middle East respiratory syndrome coronavirus]] has affected several countries, primarily in its namesake, the [[Middle East]]. The virus, which causes [[Middle East respiratory syndrome]] (MERS), is a [[novel coronavirus]] that was first identified in a patient from [[Jeddah]], [[Saudi Arabia]] on June 6, 2012.
+
+Sporadic cases, small clusters, and large outbreaks have been reported in 24 countries, with over 2,500 cases of the virus and over 900 deaths, as of 2021.<ref name=":1" />
+
+==Coronavirus==
+Most infections with human [[coronavirus]]es are mild and associated with common colds. The seven coronaviruses known to infect humans are in the alpha and beta [[genera]]. Both [[Middle East respiratory syndrome coronavirus|MERS-CoV]] and [[SARS coronavirus|SARS-CoV]] (severe acute respiratory syndrome) are betacoronaviruses.<ref name="zaki8nov2012"/><ref>{{cite magazine | url=http://www.sciencenews.org/view/generic/id/348643/description/Scientists_race_to_understand_deadly_new_virus | title=Scientists race to understand deadly new virus: SARS-like infection causes severe illness, but may not spread quickly | magazine=[[Science News]] | date=27 February 2013 | last=Saey | first=Tina Hesman | number=6 | volume=183 | page=5}}</ref>
+
+Global surveillance of potential epidemics and preparation has improved since and because of the [[Timeline of the SARS outbreak|SARS epidemic]], and MERS is being closely monitored.<ref name="Economist">{{cite news | url=https://www.economist.com/news/science-and-technology/21576375-new-viruses-emerge-china-and-middle-east-world-poorly-prepared | title=An ounce of prevention: As new viruses emerge in China and the Middle East, the world is poorly prepared for a global pandemic | newspaper=[[The Economist]]| date=20 April 2013 | access-date=20 April 2013 | location=Bangkok and New York}}</ref><ref group=notes>As noted in the article published in ''The Economist'' on 20 April 2013, ProMED is an online reporting programme at the International Society for Infectious Diseases, part of improved surveillance systems that "use a range of sources to provide quick information on emerging threats" that were not available at the time of the [[SARS]] outbreak (in 2003), [[H5N1]] bird flu (in 2005) and [[H1N1]] swine flu (in 2009).</ref>
+
+The Fourth Meeting of the [[International Health Regulations]] Emergency Committee concerning MERS-CoV was held on 4 December 2013. The committee decided that the conditions for a [[Public health emergency of international concern|Public Health Emergency of International Concern (PHEIC)]] had not at present been met.<ref>{{cite web | url=https://www.who.int/mediacentre/news/statements/2013/mers_cov_20131204/en/ | archive-url=https://web.archive.org/web/20140414080010/http://www.who.int/mediacentre/news/statements/2013/mers_cov_20131204/en/ | url-status=dead | archive-date=14 April 2014 | title=WHO Statement on the Fourth Meeting of the IHR Emergency Committee concerning MERS-CoV | publisher=[[World Health Organization]] | date=4 December 2014 | access-date=24 April 2014 | last=Härtl | first=Gregory}}</ref>
+
+==Epidemiology==
+[[File:MERS-CoV map.png|350px|thumbnail|MERS-CoV cases worldwide:
+{{legend|#8c0000|100+ confirmed cases}}
+{{legend|#d40000|50+ confirmed cases}}
+{{legend|#ff6666|1+ confirmed cases}}]]
+In November 2012, Egyptian virologist Dr. Ali Mohamed Zaki sent a virus sample from the first confirmed case in Saudi Arabia to virologist Ron Fouchier, a leading coronavirus researcher at the [[Erasmus Medical Center]] (EMC) in [[Rotterdam]], The Netherlands.<ref name="sampledisputeCTV23May2013">{{cite news | url=http://www.ctvnews.ca/health/who-probe-into-deadly-coronavirus-delayed-by-sample-dispute-1.1293405 | title=WHO: Probe into deadly coronavirus delayed by sample dispute | publisher=[[CTV News]] | date=23 May 2013 | last=Heilprin | first=John | editor=The Associated Press (AP) | location=Geneva}}</ref> The second laboratory-proven case was in London, confirmed by the UK [[Health Protection Agency]] (HPA).<ref name="batLu">{{cite journal |doi=10.1007/s13238-012-2811-1 |pmid=23143870 |pmc=4875465 |title=SARS-like virus in the Middle East: A truly bat-related coronavirus causing human diseases |journal=Protein & Cell |volume=3 |issue=11 |pages=803–805 |year=2012 |last1=Lu |first1=Guangwen |last2=Liu |first2=Di }}</ref><ref name="UK23sept2012">{{cite report|url=http://www.hpa.org.uk/NewsCentre/NationalPressReleases/2012PressReleases/120923acuterespiratoryillnessidentified |title=Acute respiratory illness associated with a new virus identified in the UK |publisher=[[Health Protection Agency]] |date=23 September 2012 |url-status=dead|archive-url=https://web.archive.org/web/20140201164125/http://www.hpa.org.uk/NewsCentre/NationalPressReleases/2012PressReleases/120923acuterespiratoryillnessidentified |archive-date=1 February 2014 }}</ref> The HPA named the virus the London1_novel CoV 2012.<ref name="UKHPA">{{cite report | url=http://www.cidrap.umn.edu/cidrap/content/other/sars/news/sep2512corona.html | title=UK agency picks name for new coronavirus isolate | publisher=[[Center for Infectious Disease Research and Policy]] | date=25 September 2013 | last=Roos | first=Robert | location=University of Minnesota, Minneapolis, MN}}</ref>
+
+On 8 November 2012, in an article published in the [[New England Journal of Medicine]], Dr. Zaki and co-authors from the Erasmus Medical Center published more details, including a scientific name, Human Coronavirus-Erasmus Medical Center ([[MERS coronavirus EMC/2012|HCoV-EMC]]), which was then used in scientific literature.<ref name="zaki8nov2012">{{cite journal |doi=10.1056/NEJMoa1211721 |pmid=23075143 |title=Isolation of a Novel Coronavirus from a Man with Pneumonia in Saudi Arabia |journal=New England Journal of Medicine |volume=367 |issue=19 |pages=1814–1820 |year=2012 |last1=Zaki |first1=Ali M |last2=Van Boheemen |first2=Sander |last3=Bestebroer |first3=Theo M |last4=Osterhaus |first4=Albert D.M.E |last5=Fouchier |first5=Ron A.M |doi-access=free }}</ref> In the article, they noted four respiratory human coronaviruses (HCoV) known to be endemic: 229E, OC43, NL63, and HKU1.<ref name=zaki8nov2012 />
+
+In May 2013, the Coronavirus Study Group of the International Committee on Taxonomy of Viruses adopted the official designation, the Middle East Respiratory Syndrome Coronavirus (MERS-CoV).<ref name="deGroot">{{cite journal |doi=10.1128/JVI.01244-13 |pmid=23678167 |pmc=3700179 |title=Middle East Respiratory Syndrome Coronavirus (MERS-CoV): Announcement of the Coronavirus Study Group |journal=Journal of Virology |volume=87 |issue=14 |pages=7790–7792 |year=2013 |last1=De Groot |first1=R. J |last2=Baker |first2=S. C |last3=Baric |first3=R. S |last4=Brown |first4=C. S |last5=Drosten |first5=C |last6=Enjuanes |first6=L |last7=Fouchier |first7=R. A. M |last8=Galiano |first8=M |last9=Gorbalenya |first9=A. E |last10=Memish |first10=Z. A |last11=Perlman |first11=S |last12=Poon |first12=L. L. M |last13=Snijder |first13=E. J |last14=Stephens |first14=G. M |last15=Woo |first15=P. C. Y |last16=Zaki |first16=A. M |last17=Zambon |first17=M |last18=Ziebuhr |first18=J }}</ref> which was adopted by the [[World Health Organization]] to "provide uniformity and facilitate communication about the disease"<ref name="WHOMay2013">{{cite report | url=https://www.who.int/csr/don/2013_05_23_ncov/en/index.html | archive-url=https://web.archive.org/web/20130527165624/http://www.who.int/csr/don/2013_05_23_ncov/en/index.html | url-status=dead | archive-date=27 May 2013 | title=Novel coronavirus infection – update (Middle East respiratory syndrome- coronavirus) | publisher=[[World Health Organization]] | date=23 May 2013}}</ref>
+
+By May 2013, 10 of the 22 people who died and 22 of 44 cases reported were in Saudi Arabia and over 80% were male.<ref name="coronavirus_patent23may2013">{{cite news | url=https://www.bbc.co.uk/news/health-22649922 | title=WHO urges information sharing over novel coronavirus | work=[[BBC News]] | date=23 May 2013}}</ref> This gender disparity is thought to be because most women in Saudi Arabia wear veils that cover the mouth and nose, decreasing their chances of being exposed to the virus.<ref name="faceveil">{{cite news | url=https://www.theatlantic.com/international/archive/2013/06/face-veils-and-the-saudi-arabian-plague/277112/ | title=Face Veils and the Saudi Arabian Plague | date=21 June 2013 | access-date=25 June 2013 | author=Khazan, O. | newspaper=[[The Atlantic]]}}</ref> By 19 June 2013, MERS had infected at least 60 people with cases reported in [[Jordan]], [[Qatar]], [[Saudi Arabia]], the [[United Arab Emirates]] (UAE), [[Tunisia]], Germany, the United Kingdom (UK), France and Italy,<ref name=hospitaltransmit >{{cite journal |doi=10.1056/NEJMoa1306742 |pmid=23782161 |pmc=4029105 |title=Hospital Outbreak of Middle East Respiratory Syndrome Coronavirus |journal=New England Journal of Medicine |volume=369 |issue=5 |pages=407–416 |year=2013 |last1=Assiri |first1=Abdullah |last2=McGeer |first2=Allison |author-link2=Allison McGeer |last3=Perl |first3=Trish M |last4=Price |first4=Connie S |last5=Al Rabeeah |first5=Abdullah A |last6=Cummings |first6=Derek A.T |last7=Alabdullatif |first7=Zaki N |last8=Assad |first8=Maher |last9=Almulhim |first9=Abdulmohsen |last10=Makhdoom |first10=Hatem |last11=Madani |first11=Hossam |last12=Alhakeem |first12=Rafat |last13=Al-Tawfiq |first13=Jaffar A |last14=Cotten |first14=Matthew |last15=Watson |first15=Simon J |last16=Kellam |first16=Paul |last17=Zumla |first17=Alimuddin I |last18=Memish |first18=Ziad A }}</ref> with a death toll of 38.<ref name=faceveil/> Saudi officials expressed great concern that millions of [[Muslim]]s from around the world would potentially be exposed to the virus during the [[Hajj]], or pilgrimage to [[Mecca]] and [[Medina]].<ref name="pilgrims">{{cite news | url=http://www.cfr.org/public-health-threats-and-pandemics/middle-east-plague-goes-global/p31031 | title=The Middle East Plague Goes Global | date=28 June 2013 | access-date=29 June 2013 |author1=Garrett, L. |author2=Builder, M. | newspaper=[[Council on Foreign Relations|Foreign Policy]]}}</ref>
+
+In May 2014, the WHO said it was monitoring the situation as global cases of MERS appeared to be on the rise, but said the situation did not yet constitute a health emergency.  On 3 June 2014, Saudi Arabia revised the country's total cases of MERS to date to 688 cases after re-examining the data as part of an effort to better understand the disease.  A total of 282 people had died from MERS.  The numbers represented a jump of 113 cases and 92 deaths.  Despite the jump in reported cases, the number of new cases was on the decline according to Tariq Madany, head of the medical advisory council.  At the same time, the Saudi deputy health minister was fired, the second high level health official fired within two months.<ref>{{cite web | url=http://www.huffingtonpost.com/2014/06/03/saudi-arabia-mers_n_5438745.html | title=Saudi Arabia Review Finds Higher Number Of MERS Cases | work=[[The Huffington Post]] | date=3 June 2014 | agency=[[Associated Press]] | access-date=5 June 2014}}</ref>
+
+On 4 June 2014, a study published in ''[[The New England Journal of Medicine]]'' indicated that camel-to-human transmission of the virus was possible.  In November 2013, a man became ill with MERS after tending to a sick camel.  Viral samples taken from the man, who eventually died of the virus, and the sick animal were virtually identical. This provided very strong evidence that the man had gotten the virus from the camel.<ref>{{cite news | url=https://www.nytimes.com/2014/06/06/science/dna-test-indicates-camel-to-human-transmission-of-mers.html | title=DNA Test Indicates Camel-to-Human Transmission of MERS | work=[[The New York Times]] | date=5 June 2014 | access-date=5 June 2014 | author=Donald G. McNeil Jr.}}</ref> As of June 2015, there were 1,227 confirmed human cases of MERS, resulting in 449 deaths (37% mortality).<ref>{{cite journal|doi=10.1146/annurev-virology-100114-055029|title=Coronavirus Host Range Expansion and Middle East Respiratory Syndrome Coronavirus Emergence: Biochemical Mechanisms and Evolutionary Perspectives|year=2015|last1=Peck|first1=Kayla M.|last2=Burch|first2=Christina L.|last3=Heise|first3=Mark T.|last4=Baric|first4=Ralph S.|journal=Annual Review of Virology|volume=2|issue=1|pages=95–117|pmid=26958908|doi-access=free}}</ref>
+
+==Reported cases==
+
+===Africa===
+
+====Tunisia====
+On 20 May 2013, the novel coronavirus reached Tunisia killing one man and infecting two of his relatives. Tunisia was the eighth country to be affected by MERS-CoV after Jordan, Saudi Arabia, Qatar, the United Kingdom, France, Germany, and the United Arab Emirates.<ref>{{cite web | url=http://www.cidrap.umn.edu/cidrap/content/other/sars/news/may2013corona.html | title=Coronavirus cases, deaths reported in Tunisia, Saudi Arabia | publisher=[[Center for Infectious Disease Research and Policy]] | date=20 May 2013 | access-date=22 May 2013 | author=Roos, R.}}</ref>
+
+According to a European Centre for Disease Prevention and Control (ECDC) publication, in April 2014, Tunisia had a total of 3 cases with 1 fatality.<ref name="ECDC tally"/>
+
+====Algeria====
+Algeria experienced 2 cases and 1 fatality.<ref name="ECDC tally"/>
+
+====Egypt====
+One case occurred in Egypt.<ref name="ECDC tally"/>
+
+===Asia===
+
+==== South Korea ====
+{{main|2015 Middle East respiratory syndrome outbreak in South Korea}}
+In May 2015, the first case in South Korea was confirmed in a man who had visited several Middle Eastern countries.<ref name=USAToday2jun2015/> As of 16 June 2015, a total of 150 cases had been infected, including 18 deaths, according to the World Health Organization (WHO).<ref>{{cite journal |doi=10.1136/bmj.h3403 |pmid=26108610 |title=Why the panic? South Korea's MERS response questioned |journal=BMJ |volume=350 |pages=h3403 |year=2015 |last1=Jack |first1=A |s2cid=38833740 }}</ref> As of 29 June 2015, 32 people in South Korea had died from [[2015 Middle East respiratory syndrome coronavirus outbreak in South Korea|this outbreak]], with 182 confirmed cases of infection.<ref>{{cite news |url=http://koreajoongangdaily.joins.com/news/article/article.aspx?aid=3005306 | title=MERS forces total sealing off of two hospitals | date=12 June 2015}}</ref> At least 3800 were quarantined.<ref>{{cite news | url=https://www.reuters.com/article/health-mers-southkorea-idUSL3N0YU5TT20150609 | title=REFILE-UPDATE 2-Hong Kong to issue "red travel alert" to South Korea as MERS spreads | work=Reuters | first1=Ju-min | last1=Park | first2=James | last2=Pomfret | date=8 June 2015}} (Article published in Eastern Daylight Time)</ref>
+
+====Malaysia====
+On 16 April 2014, Malaysia reported its first MERS-COV related death.<ref name="ABC PH and MY">{{cite web | url=https://abcnews.go.com/Health/wireStory/filipino-positive-mers-virus-home-uae-23342679 | title=Filipino Positive for MERS Virus Home From UAE | work=[[ABC News]] | date=16 April 2014 | access-date=17 April 2014}}</ref> The person was a 54-year-old man who had traveled to Jeddah, Saudi Arabia, together with pilgrimage group composed of 18 people, from 15 to 28 March 2014. He became ill by 4 April, and sought remedy at a clinic in [[Johor]] on 7 April. He was hospitalized by 9 April and died on 13 April.<ref name="April 17 update">{{cite web | url=https://www.who.int/csr/don/2014_04_17_mers/en/ | archive-url=https://web.archive.org/web/20140418220453/http://www.who.int/csr/don/2014_04_17_mers/en/ | url-status=dead | archive-date=18 April 2014 | title=Middle East respiratory syndrome coronavirus (MERS-CoV) – April 17 update | publisher=[[World Health Organization]] | date=17 April 2014 | access-date=18 April 2014}}</ref>
+
+====Indonesia====
+On 11 May 2014, two people in Medan were suspected infected by MERS-Cov (Middle Eastern Respiratory Syndrome-Corona Virus).<ref name="Virus MERS : Seorang lagi korban suspect dirujuk ke M djamil">{{cite web | url=http://www.kliksiar.com/index.php/berita-nasional-daerah/645-virus-mers-seorang-lagi-korban-suspect-dirujuk-ke-m-djamil | title=Virus MERS : Seorang lagi korban suspect dirujuk ke M djamil | publisher=Kliksiar | date=8 May 2014 | access-date=8 May 2014 | author=Kusrisep | language=id | archive-url=https://web.archive.org/web/20140512214125/http://www.kliksiar.com/index.php/berita-nasional-daerah/645-virus-mers-seorang-lagi-korban-suspect-dirujuk-ke-m-djamil | archive-date=12 May 2014 | url-status=dead}}</ref>
+
+====Philippines====
+On 16 April 2014, an [[Overseas Filipino|Overseas Filipino Worker (OFW)]] who returned from [[Al Ain City]], United Arab Emirates was found positive for MERS-CoV at the [[Ninoy Aquino International Airport]]. The OFW was tested for the virus in the United Arab Emirates (UAE) but immediately travelled to [[Manila]]. Doctors from UAE later contacted the [[Department of Health (Philippines)|Philippines Department of Health]] (DOH) confirming the condition of the OFW. The OFW, who was working as a nurse in the UAE, had contact with a Filipino paramedic who had died recently in the said country. The OFW together with four of his family members who fetched him at the airport were quarantined.<ref>{{cite news | url=http://newsinfo.inquirer.net/594740/ofw-who-returned-home-from-uae-tests-positive-for-mers-cov-doh-chief | title=OFW brings MERS virus to Philippines | newspaper=[[The Philippine Daily Inquirer]] | date=16 April 2014 | access-date=17 April 2014 |author1=Bong Lozada |author2=Jerome Aning }}</ref><ref>{{cite web | url=http://www.abs-cbnnews.com/nation/04/16/14/ofw-uae-tests-positive-mers-cov | title=OFW from UAE tests positive for MERS-CoV | publisher=[[ABS-CBN News]] | date=16 April 2014 | access-date=17 April 2014}}</ref> In a press release on 19 April, DOH announced that the OFW who UAE doctors found positive for MERS-CoV was found negative for the virus in an subsequent test by [[Research Institute for Tropical Medicine]] (RITM). Explaining further regarding the test, [[Secretary of Health (Philippines)|Secretary]] [[Enrique Ona]] explained, "Since ten days had lapsed from the reported testing date at the UAE, our task force right away got in touch with him and decided to perform a test on him, and fortunately, as well for the comfort of everybody, the findings of our Research Institute for Tropical Medicine, he tested negative."<ref name="MERS CoV OFW press">{{cite web | url=http://www.abs-cbnnews.com/nation/04/19/14/new-tests-ofw-negative-mers-cov | title=New tests on OFW negative for MERS-CoV | publisher=[[ABS-CBN News]] | date=19 April 2014 | access-date=23 April 2014 | author=Patrick Quintos}}</ref> In the same press release, DOH also announced that they were tracking all other 414 passengers of [[Etihad Airways]] Flight 424 (the flight the OFW took from [[Abu Dhabi]], UAE to Manila) in order that they should be tested.<ref name="MERS CoV OFW press"/><ref>{{cite web | url=http://www.gmanetwork.com/news/story/357866/news/nation/aquino-wants-all-etihad-flight-passengers-contacted-by-tuesday-doh | title=Aquino wants all Etihad flight passengers contacted by Tuesday - DOH | publisher=[[GMA News]] | date=22 April 2014 | access-date=23 April 2014}}</ref>
+
+On 11 February 2015, a 32-year-old [[Philippines|Filipino]] [[nurse]] from [[Saudi Arabia]], who was also 1 month pregnant, was the country's first MERS-CoV case, DOH confirmed after the test for the virus turned out to be positive.<ref>{{cite web | url=http://www.abs-cbnnews.com/video/global-filipino/02/11/15/nurse-saudi-tests-positive-mers-cov | title=Nurse from Saudi tests positive for MERS-COV | publisher=[[ABS-CBN News]] | date=12 February 2015 | access-date=12 February 2015}}</ref> The Evangelista Medical Hospital in [[San Pedro, Laguna]], the facility where the patient was first admitted, was temporarily closed by DOH for fourteen days. On 17 February 2015, all those who had exposure or had contact with the said nurse were tested negative for the virus.<ref>{{cite news | url=http://newsinfo.inquirer.net/673535/all-persons-exposed-to-nurse-with-mers-cov-test-negative-for-virus-doh | title=All persons exposed to nurse with MERS-CoV test negative for virus – DOH | newspaper=[[Philippine Daily Inquirer]] | date=17 February 2015 | access-date=19 February 2015 | author=Jocelyn R. Uy}}</ref> On 6 March 2015, The [[Department of Foreign Affairs (Philippines)|Department of Foreign Affairs]] confirmed that three Filipino female healthcare workers in [[Saudi Arabia]] were infected with MERS-CoV.<ref>{{cite web | url=http://www.gmanetwork.com/news/story/447777/pinoyabroad/news/3-pinoys-infected-with-mers-cov-in-saudi-dfa | title=3 Pinoys infected with MERS-CoV in Saudi –DFA | publisher=[[GMA News]] | date=6 March 2015 | access-date=6 March 2015}}</ref>
+
+On 6 July 2015, DOH confirmed the second detected case of MERS-CoV in the country.<ref>{{cite web | url=http://www.gmanetwork.com/news/story/516642/news/nation/doh-reports-new-mers-cov-case-in-phl | title=DOH reports new MERS-CoV case in PHL | publisher=[[GMA News]] | date=6 July 2015 | access-date=6 July 2015}}</ref> The patient who had contracted the virus was from the Middle East and was referred to the RITM on 4 July 2015. Another person, who was also showing symptoms, was placed in isolation after he had close contact with the said patient;<ref>{{cite web | url=http://cnnphilippines.com/news/2015/07/06/merscov-philippines-doh.html | title=DOH confirms first MERS-CoV case in the PH | publisher=[[CNN Philippines]] | date=6 July 2015 | access-date=6 July 2015}}</ref> eight others, who also had had contact with the patient, were identified. DOH took steps to track all the people with whom the patient had had contact.<ref>{{cite news | url=http://www.rappler.com/nation/98494-doh-foreigner-tests-positive-for-mers | title=DOH: Foreigner in PH tests positive for MERS | work=[[Rappler]] | date=6 July 2015 | access-date=6 July 2015}}</ref>
+
+====Saudi Arabia====
+The first known case of a previously unknown coronavirus was identified in a 60-year-old Saudi Arabian man with acute pneumonia, who died of [[kidney failure]] in [[Jeddah]] on June 20, 2012.<ref name=zaki8nov2012 /><ref name="NPR">{{cite news | url=https://www.npr.org/blogs/health/2012/09/25/161770135/scientists-go-deep-on-genes-of-sars-like-virus | title=Scientists Go Deep on Genes of SARS-Like Virus | publisher=[[NPR]] | date=26 September 2012 | access-date=27 September 2012 | last=Doucleef | first=Michaeleen | agency=[[Associated Press]]}}</ref><ref name="genome">{{cite journal | author1=Sander van Boheemena | author10=Eric J. Snijderb | author11=Ron A. M. Fouchiera | title=Genomic Characterization of a Newly Discovered Coronavirus Associated with Acute Respiratory Distress Syndrome in Humans | date=20 November 2012 | author2=Miranda de Graafa | author3=Chris Lauberb | author4=Theo M. Bestebroera | author5=V. Stalin Raja | author6=Ali Moh Zakic | author7=Albert D. M. E. Osterhausa | author8=Bart L. Haagmansa | author9=Alexander E. Gorbalenyabd | journal=[[American Society for Microbiology]]| volume=3 | issue=6 | doi=10.1128/mBio.00473-12 | pmid=23170002 | pmc=3509437 }}</ref> As of 12 May 2013, two more deaths had been reported in the al-Ahsa region of Saudi Arabia. In the latest cluster of infections, 15 cases had been confirmed, and nine of those patients had died.<ref>{{cite news |last=McDowall |first=Angus |title=Two more people die of novel coronavirus in Saudi Arabia |url=https://www.reuters.com/article/us-coronavirus-saudi-deaths-idUSBRE94B05E20130512 |access-date=12 May 2013 |date=12 May 2013|work=[[Reuters]]}}</ref> Ten of the 22 people who died and 22 of 44 cases reported were in Saudi Arabia.<ref name=coronavirus_patent23may2013/> An unconfirmed case in another Saudi citizen, for which no clinical information was available, was also reported around this time. On 22 September 2012, the Saudi Ministry of Health (MOH) announced that the two cases involving Saudi citizens, caused by what they termed a "rare pattern of coronavirus," had both proven fatal.{{cn|date=June 2021}}
+
+Two of the Saudi Arabia cases were from the same family and from that family at least one additional person presented similar symptoms but tested negative for the novel coronavirus.<ref>{{cite web| url=https://www.who.int/csr/don/2012_11_23/en/index.html | archive-url=https://web.archive.org/web/20121127223346/http://www.who.int/csr/don/2012_11_23/en/index.html | url-status=dead | archive-date=27 November 2012 | title=Novel coronavirus infection – update | publisher=[[World Health Organization]] | date=23 November 2012}}</ref>
+
+On 21 February 2013, WHO stated that there had been 13 laboratory-confirmed cases, 6 cases (4 fatal) from Saudi Arabia, 2 cases (both fatal) from Jordan, 2 cases from Qatar, and 3 from the UK.<ref>{{cite web | url=http://www.cidrap.umn.edu/cidrap/content/other/sars/news/feb2113corona.html | title=WHO confirms 13th novel coronavirus case | date=21 February 2013 | access-date=6 March 2013 | last=Wappes | first=J. | publisher=[[Center for Infectious Disease Research and Policy]] }}</ref>
+
+In March 2013, the [[Ministry of Health (Saudi Arabia)|Saudi Arabia Ministry of Health]] reported the death of a 39-year-old man, the 15th case and 9th death reported to WHO.<ref name="cnn130313">{{cite news | url=http://www.cnn.com/2013/03/13/health/new-coronavirus-case/ | title=Death toll from new SARS-like virus climbs to 9 | publisher=[[CNN]] | date=13 March 2013 | access-date=13 March 2013 | last=Abedine | first=Saad}}</ref> On 2 May 2013, the Saudi Ministry of Health announced five people died and two other people were in critical condition with confirmed cases of a SARS-like virus.<ref name="SARS in AP release">{{cite news | title=Saudi Arabia: 7 Cases of SARS-like Virus Seen | date=3 May 2013 | agency=[[Associated Press]] | page=4}}</ref> The delays in obtaining data and absence of basic information (which would usefully include: sex, age, other medical conditions and smoking status) were noted and decried by Dr. Margaret Chan and in Pro-Med comments on numerous briefings.  At the annual meeting of the world's health ministers, Dr. Chan, director-general of the World Health Organization, said the virus was now her "greatest concern."<ref>{{cite news | url=https://www.nytimes.com/2013/05/28/health/new-tools-to-hunt-new-viruses.html | title=New Tools to Hunt New Viruses | newspaper=[[The New York Times]] | date=27 May 2013}}</ref>
+
+On 28 May 2013, the [[Ministry of Health (Saudi Arabia)|Saudi Ministry of Health]] reported five more cases of MERS-CoV. The cases had been "recorded among citizens in the Eastern Region, ranging in age from 73 to 85 years, but they have all chronic diseases." With this announcement, the unofficial global case count reached 49 while the death toll stood at 24 according to the [[Centers for Disease Control and Prevention|CDC]].<ref>{{cite web | url=http://www.cidrap.umn.edu/cidrap/content/other/sars/news/may2813corona.html | title=Saudi Arabia reports 5 more MERS-CoV cases | date=28 May 2013 | last=Roos | first=Robert | publisher=[[Center for Infectious Disease Research and Policy]] | access-date= 24 April 2014}}</ref> As of 26 June 34 deaths have been recorded in the kingdom.<ref name=pilgrims />
+
+On 1 August 2013, the [[World Health Organization]] announced three new MERS-CoV cases in that Saudi Arabia, all of them in women, two of whom were healthcare workers. "With the three new cases, Saudi Arabia's posted MERS tally increases to 74 cases with 39 deaths. The cases raise the WHO's MERS count to 94 cases and 46 deaths."<ref>{{cite news | url=http://www.cidrap.umn.edu/news-perspective/2013/08/saudi-arabia-announces-three-new-mers-cases | title=Saudi Arabia announces three new MERS cases | date=1 August 2013 | last=Roos | first=Robert | newspaper=[[Center for Infectious Disease Research and Policy]] | access-date= 24 April 2014}}</ref>
+
+On 31 October 2013, the WHO announced that three patients in Saudi Arabia died of MERS.<ref name="WHO confirms four more cases of Middle East virus 31 Oct 2013"/> The patients were one woman and two men and "all had underlying medical conditions but all reported having had no contact with animals before falling ill".<ref name="WHO confirms four more cases of Middle East virus 31 Oct 2013"/>
+
+Early on 23 April 2014, 11 new cases including a first case for [[Mecca]] were reported by the Health Ministry.<ref name="Mecca cases">{{cite news | url=http://www.themalaymailonline.com/world/article/saudi-arabia-reports-11-new-cases-of-mers-virus-first-in-mecca | title=Saudi Arabia reports 11 new cases of MERS virus, first in Mecca | newspaper=[[The Malay Mail]] | date=23 April 2014 | access-date=24 April 2014}}</ref> An additional 13 cases were reported on the same day. With the additional reported cases, there were now a total of 285 cases with 83 deaths in the Kingdom.<ref name="23 cases April 23">{{cite web | url=http://www.cidrap.umn.edu/news-perspective/2014/04/who-office-sounds-alarm-mers-cases-push-higher | title=WHO office sounds alarm as MERS cases push higher | publisher=[[Center for Infectious Disease Research and Policy]] | date=23 April 2014 | access-date=24 April 2014}}</ref>
+
+A hospital-related outbreak in Riyadh brought the total in Saudi Arabia to 1,115 cases and 480 fatalities as of 18 August 2015.<ref>{{cite web|title=Hospital emerges as epicenter of Riyadh MERS outbreak|url=http://www.cidrap.umn.edu/news-perspective/2015/08/hospital-emerges-epicenter-riyadh-mers-outbreak|website=CIDRAP News and Perspective|publisher=University of Minnesota|access-date=19 August 2015}}</ref> Since May 2015, most of the cases had occurred at the [[King Abdulaziz Medical City]], a large national guard hospital.{{cn|date=June 2021}}
+
+=====Hajj=====
+Due to fears of the MERS virus, attendance in the hajj in 2013 was lower than the previous year.<ref name="2 million 2012">{{cite web | url=http://www.afp.com/en/node/1119289 | title=Two million Muslim pilgrims begin annual hajj | publisher=[[Agence France-Presse]] | date=13 October 2013 | access-date=17 October 2013 | archive-url=https://web.archive.org/web/20131018022214/http://www.afp.com/en/node/1119289 | archive-date=18 October 2013 | url-status=dead}}</ref><ref name="hj 2013">{{cite web | url=http://www.afp.com/en/node/1120742 | title=Muslim pilgrims urged to heal rifts at hajj zenith | publisher=[[Agence France-Presse]] | date=14 October 2013 | access-date=17 October 2013 | archive-url=https://web.archive.org/web/20131018020357/http://www.afp.com/en/node/1120742 | archive-date=18 October 2013 | url-status=dead}}</ref> The Saudi government asked "elderly and chronically ill Muslims to avoid the [[hajj]] this year" and restricted the number of people allowed "to perform the pilgrimage".<ref>{{cite web | url=https://news.yahoo.com/qatar-announces-second-mers-virus-death-150003242.html | title=MERS virus claims three more lives in Saudi Arabia | publisher=[[Yahoo! News]] | website=[[Agence France-Presse]] | date=7 September 2013 | access-date=8 September 2013 | quote=Authorities have urged the elderly and chronically ill Muslims to avoid the hajj this year and have cut back on the numbers of people they will allow to perform the pilgrimage.}}</ref><ref name="time 2013">{{cite magazine | url=http://science.time.com/2013/10/16/as-the-hajj-unfolds-in-saudi-arabia-a-deep-look-inside-the-battle-against-mers/ | title=As the Hajj Unfolds in Saudi Arabia, A Deep Look Inside the Battle Against MERS | magazine=[[Time (magazine)|Time]] | date=16 October 2013 | access-date=17 October 2013 | author=Katz, Andrew}}</ref>
+
+Saudi Health Minister [[Abdullah Al-Rabia]] said "that authorities had so far detected no cases among the pilgrims" of MERS.<ref name="2 million 2012"/> However, the Spanish government, in November 2013, reported a woman in Spain, who had recently traveled to [[Saudi Arabia]] for the Islamic pilgrimage, contracted the disease.<ref name="Spain reports its first MERS case; woman travelled to Saudi Arabia for Hajj">{{cite news | url=https://vancouversun.com/health/Spain+reports+first+MERS+case+woman+travelled+Saudi+Arabia+Hajj/9133754/story.html | title=Spain reports its first MERS case; woman travelled to Saudi Arabia for Hajj | newspaper=[[The Vancouver Sun]] | date=7 November 2013 | access-date=12 November 2013 | author=Branswell, Helen}}</ref>
+
+====Jordan====
+In April 2012, six hospital workers were diagnosed with acute respiratory failure of unknown origin. Of the six, two died. All the cases were reported to the European Centre for Disease Prevention and Control (ECDC). After the September identification of a novel CoV strain, a retroactive analysis of the hospital workers was performed. Epidemiologists discovered the Jordan cases. Using stored laboratory samples for all six, it was found that samples from the two patients who had died tested positive for nCoV.<ref name="incubate">{{cite journal | doi=10.1016/S0140-6736(13)60982-4 | first1=B. | first10=V. | first11=V. | first12=A. | first13=D. | first14=J. C. | first15=D. | first16=A. | first17=S. | last18=Mers-Cov Study | first18=Group | first2=J. | first3=L. | first4=C. | first5=N. | first6=X. | first7=F. | first8=A. | first9=S. | journal=Lancet | issue=9885| last1=Guery | last10=Enouf | last11=Caro | last12=Mailles | last13=Che | last14=Manuguerra | last15=Mathieu | last16=Fontanet | last17=van der Werf | title=Clinical features and viral diagnosis of two cases of infection with Middle East Respiratory Syndrome coronavirus: a report of nosocomial transmission | last2=Poissy | last3=El Mansouf | last4=Séjourné | last5=Ettahar | last6=Lemaire | last7=Vuotto | last8=Goffard | last9=Behillil | year=2013 | volume=381 | pages=2265–72 | pmid=23727167| pmc=7159298 | url=https://zenodo.org/record/3423608 | doi-access=free }}</ref><ref>{{cite web | url=http://www.ecdc.europa.eu/en/publications/Publications/20121207-Novel-coronavirus-rapid-risk-assessment.pdf | title=Update: Severe respiratory disease associated with a novel coronavirus | publisher=[[European Centre for Disease Prevention and Control]] | date=7 December 2012 | access-date=19 April 2014 | type=PDF | archive-url=https://web.archive.org/web/20130928060610/http://www.ecdc.europa.eu/en/publications/Publications/20121207-Novel-coronavirus-rapid-risk-assessment.pdf | archive-date=28 September 2013 | url-status=dead }}</ref>
+
+On 24 April 2014, a 25-year-old male was found positive for the coronavirus. He had history of exposure to camels and had consumed camel milk.<ref name="WHO report April 24">{{cite web | url=https://www.who.int/csr/don/2014_04_24_mers/en/ | archive-url=https://web.archive.org/web/20140424192305/http://www.who.int/csr/don/2014_04_24_mers/en/ | url-status=dead | archive-date=24 April 2014 | title=Alert & Response Operations Diseases Global Outbreak Alert & Response Network Biorisk Reduction Middle East respiratory syndrome coronavirus (MERS-CoV) – April 24 update | publisher=[[World Health Organization]] | date=24 April 2014 | access-date=24 April 2014}}</ref>
+
+====Oman====
+On 31 October 2013, the World Health Organization (WHO) confirmed that one person in Oman had MERS.<ref name="WHO confirms four more cases of Middle East virus 31 Oct 2013">{{cite news | url=https://www.reuters.com/article/health-mers-coronavirus-idUSL5N0IL4D520131031 | title=WHO confirms four more cases of Middle East virus | work=[[Reuters]] | date=31 October 2013 | access-date=31 October 2013 | author=Kate Kelland}}</ref> The WHO said "the patient in Oman is a 68-year-old man from Al Dahkliya region who became ill" on 26 October 2013.<ref name="WHO confirms four more cases of Middle East virus 31 Oct 2013"/>
+
+====United Arab Emirates====
+On 14 April 2014, one Filipino paramedic died in the United Arab Emirates, with six other reported to be infected with the virus.<ref name="ABC PH and MY"/><ref>{{cite web | url=http://www.abs-cbnnews.com/nation/04/14/14/dfa-confirms-ofw-death-uae-due-mers-cov | title=DFA confirms OFW death in UAE due to MERS-CoV | publisher=[[ABS-CBN News]] | date=14 April 2014 | access-date=17 April 2014 | author=Ira Pedrasa}}</ref> On 17 April, the UAE Ministry of Health reported another fatality and four additional cases, including the Filipino medical worker who travelled to the Philippines on 16 April.<ref name="April 17 update"/>
+
+On 21 April 2014, the Health Ministry of UAE reported an additional 9 cases.<ref name="WHO report April 23">{{cite web | url=https://www.who.int/csr/don/2014_04_23_mers/en/ | archive-url=https://web.archive.org/web/20140424132159/http://www.who.int/csr/don/2014_04_23_mers/en/ | url-status=dead | archive-date=24 April 2014 | title=Middle East respiratory syndrome coronavirus (MERS-CoV) – update | publisher=[[World Health Organization]] | date=23 April 2014 | access-date=23 April 2014}}</ref>
+
+====Iran====
+The [[Ministry of Health and Medical Education]] of Iran reported that two women had been diagnosed with MERS<ref name="New York Times">{{cite news | url=https://www.nytimes.com/2014/05/29/world/middleeast/iran-mers-virus-reaches-its-20th-country.html?partner=rss&emc=rss&_r=0 | title=Iran: MERS Virus Reaches Its 20th Country | newspaper=[[The New York Times]] | date=29 May 2014 | access-date=29 May 2014}}</ref> and on 29 May 2014 one of the women died of the disease in the city of [[Kerman]]. According to Dr. Mohammad Mehdi Gooya, Chief of the Center for Management of Contagious Diseases of Iran, the patient had been diagnosed with high blood pressure and her immune system, therefore, wasn't strong enough to fend off the disease.<ref name="The Straits Times">{{cite news | url=http://www.straitstimes.com/news/world/middle-east/story/iran-announces-first-mers-death-20140530 | title=Iran announces first Mers death | newspaper=[[The Straits Times]] | date=30 May 2014 | access-date=30 May 2014}}</ref> The second patient is said to be in a good condition.<ref name="BBC Persian 1">{{cite web | url=http://www.bbc.co.uk/persian/iran/2014/05/140530_corona_viruse_infection.shtml | script-title=fa:مرگ نخستین بیمار مبتلا به بیماری تنفسی 'کرونا' در ایران | publisher=[[BBC Persian]] | date=30 May 2014 | access-date=30 May 2014 | language=fa}}</ref>
+
+Four days later, on 4 June 2014, the Ministry of Health reported that 3 more people including a doctor and a nurse who came in contact with the deceased patient were suspected to have contracted the disease. The victim's son-in-law is also reported to have been infected.
+According to Dr. Gooya, the infection of 1 out of the 3 suspected patients was confirmed and more tests were under way to determine the situation of the other two patients.<ref name="BBC Persian 2">{{cite web | url=http://www.bbc.co.uk/persian/science/2014/06/140604_corona_virus_infection.shtml | script-title=fa:شناسایی سه مورد تازه مشکوک به بیماری کرونا در کرمان | publisher=[[BBC Persian]] | date=4 June 2014 | access-date=4 June 2014 | language=fa}}</ref>
+
+===Europe===
+
+====The Netherlands====
+
+On 13 May 2014, the first case was confirmed. On 15 May, the second case was tested positive on MERS-CoV.
+
+====France====
+On 7 May 2013, a case was confirmed in [[Nord (French department)|Nord departement]] of France in a man who had previously traveled to [[Dubai]], United Arab Emirates.<ref>{{cite web | url=https://www.who.int/csr/don/2013_05_08_ncov/en/index.html | archive-url=https://web.archive.org/web/20130606190108/http://www.who.int/csr/don/2013_05_08_ncov/en/index.html | url-status=dead | archive-date=6 June 2013 | title=The Ministry of Social Affairs and Health in France has informed WHO of one confirmed case with infection of the novel coronavirus | publisher=[[World Health Organization]] | date=8 May 2013}}</ref>
+
+On 12 May 2013, in a case of human to human transmission, a man previously hospitalized in the same room as the first patient was confirmed by French Ministry of Social Affairs and Health.<ref>{{cite web | url=http://www.social-sante.gouv.fr/actualite-presse,42/communiques,2322/nouveau-coronavirus-point-de,15820.html | title=Nouveau coronavirus – Point de situation : Un nouveau cas d'infection confirmé | publisher=[[Minister of Social Affairs (France)|Minister of Social Affairs of France]] | date=12 May 2013 | language=fr | access-date=19 January 2014 | archive-date=8 June 2013 | archive-url=https://web.archive.org/web/20130608140519/http://www.social-sante.gouv.fr/actualite-presse,42/communiques,2322/nouveau-coronavirus-point-de,15820.html | url-status=dead }}</ref>
+
+France reported its first death from MERS near the end of May 2013.<ref>{{cite news | url=http://uk.reuters.com/article/uk-coronavirus-france-idUKBRE94R0Y320130529 | title=First coronavirus sufferer in France dies in hospital &#124; Reuters | agency=[[Reuters]] | access-date=31 May 2013 | last=Savary | first=Pierre| newspaper=Reuters | date=29 May 2013 }}</ref>
+On 28 May 2013, a report by the [[Associated Press]] said a French patient died of the novel coronavirus related to SARS.<ref name="ReferenceA">{{cite news | title=New SARS-Linked Virus Kills Man in France | work=[[Daily Express|Express]] | date=29 May 2013 | agency=[[Associated Press]]}}</ref> Fifty percent of those infected have died.<ref name="ReferenceA"/>
+
+====Greece====
+On 20 April 2014, Greece reported its first MERS-CoV case. The infected individual was a 69-year-old Greek male who had returned to Greece on 17 April from Saudi Arabia. People with close contact with the infected man were identified and were being followed up.<ref name="Greece first case">{{cite web | url=https://www.who.int/csr/don/2014_04_20_mers/en/ | archive-url=https://web.archive.org/web/20140422183349/http://www.who.int/csr/don/2014_04_20_mers/en/ | url-status=dead | archive-date=22 April 2014 | title=Middle East respiratory syndrome coronavirus (MERS-CoV) – April 20 update | publisher=[[World Health Organization]] | date=20 April 2014 | access-date=24 April 2014}}</ref><ref>{{cite web | url=http://ecdc.europa.eu/en/press/news/_layouts/forms/News_DispForm.aspx?List=8db7286c-fe2d-476c-9133-18ff4cb1b568&ID=989 | title=Epidemiological update: First imported case of MERS-CoV in Greece | publisher=[[European Centre for Disease Prevention and Control]] | date=23 April 2014 | access-date=24 April 2014}}</ref>
+
+====Italy====
+On 31 May 2013, the Italian health ministry announced its first case of MERS-CoV in a 45-year-old man who had traveled to Jordan. The patient was being treated in a hospital in [[Tuscany]] and his condition was reported as not life-threatening.<ref>{{cite news | url=https://www.reuters.com/article/us-coronavirus-italy-idUSBRE94U15M20130531 | title=Italy announces first case of SARS-like coronavirus | agency=[[Reuters]] | access-date=1 June 2013| newspaper=Reuters | date=31 May 2013 }}</ref><ref>{{cite web | url=http://www.cidrap.umn.edu/cidrap/content/other/sars/news/may3113mers.html | title=CIDRAP Italy resident has MERS after trip to Jordan | publisher=[[Center for Infectious Disease Research and Policy]] | access-date=1 June 2013}}</ref>
+
+====Spain====
+On 1 November 2013, a woman who had recently traveled to [[Saudi Arabia]] for the Hajj, contracted the disease. She was stated to be in stable condition, and investigators from the [[World Health Organization]] are investigating whom she came in contact with.<ref name="Spain reports its first MERS case; woman travelled to Saudi Arabia for Hajj"/>
+
+====United Kingdom====
+In February 2013, the first UK case of the novel coronavirus was confirmed in [[Manchester]] in an elderly man who had recently visited the Middle East and Pakistan; it was the 10th case globally.<ref>{{cite web | url=https://www.who.int/csr/don/2013_02_11b/en/index.html | archive-url=https://web.archive.org/web/20130213213457/http://www.who.int/csr/don/2013_02_11b/en/index.html | url-status=dead | archive-date=13 February 2013 | title=WHO: Novel coronavirus infection&nbsp;–update | publisher=[[World Health Organization]] | date=11 February 2013| access-date= 13 February 2013}}</ref> The man's son, whom he visited in the hospital in Birmingham, was immuno-suppressed because of a brain tumour, and contracted the virus, providing the first clear evidence for person-to-person transmission.<ref name="WHO(13Feb2013)">{{cite web | url=https://www.who.int/csr/don/2013_02_13/en/index.html | archive-url=https://web.archive.org/web/20130216065327/http://www.who.int/csr/don/2013_02_13/en/index.html | url-status=dead | archive-date=16 February 2013 | title=WHO: Novel coronavirus infection&nbsp;– update | publisher=[[World Health Organization]] | date=13 February 2013 | access-date=13 February 2013}}</ref><ref>{{cite news | url=https://www.bbc.co.uk/news/health-21442519 | title=Coronavirus: Signs the new Sars-like virus can spread between people | work=[[BBC News]] | date=13 February 2013 | access-date=13 February 2013 | author=James Gallagher}}</ref> He died on 19 February 2013.<ref name="r 19 Feb 2013">{{cite news | url=https://news.yahoo.com/patient-dies-contracting-sars-virus-154804484.html;_ylt=A2KJ2UiDtyNRiVgA2R3QtDMD | title=Britain dies after contracting new SARS-like virus | agency=[[Reuters]] | date=19 February 2013 | access-date=19 February 2013 | last=Kelland | first=Kate}}</ref>
+
+The second patient was a 49-year-old [[Qatari]] man who had visited [[Saudi Arabia]] before falling ill. He was flown privately by air ambulance from Doha to London on 11 September where he was admitted to St Mary's Hospital and later was transferred to St Thomas's Hospital.<ref>{{cite web | url=http://www.promedmail.org/direct.php?id=20120923.1305982 | title=Novel coronavirus - Saudi Arabia (03): UK HPA, WHO, Qatar | publisher=[[ProMED-mail]] | date=23 September 2013 | access-date=19 April 2014}}</ref> As a result of Dr Zaki's post on Pro-MED, the novel coronavirus was quickly identified.<ref name="in.reuters">{{cite news | url=http://in.reuters.com/article/health-virus-idINL5E8KQ9GL20120926 | title=WHO issues guidance on new virus, gears up for haj | date=26 September 2012 | access-date=27 September 2012 | last=Nebehay | first=Stephanie | newspaper=[[Reuters]]}}</ref><ref name="sciencenews">{{cite magazine | url=https://www.sciencenews.org/article/scientists-race-understand-deadly-new-virus | title=Scientists race to understand deadly new virus | magazine=[[Science News]] | date=23 March 2013 | access-date=19 April 2014 | volume=183 | number=6}}</ref> He was treated for [[respiratory disease]] and, like the first patient in Saudi Arabia, died of [[kidney failure]] in October 2012.<ref name="in.reuters" /><ref name="sciencenews" /><ref name="Bermingham-2012">{{cite journal | display-authors=8 | first1=A. | first10=R | first11=R. G. | first12=H. K. | first13=N. L. | first14=R | first15=N | first16=W | first17=C | first18=R. A. | first19=M | last1=Bermingham | last10=Myers | last11=Pebody | last12=Green | last13=Boddington | last14=Gopal | last15=Price | last16=Newsholme | last17=Drosten | last18=Fouchier | last19=Zambon | url=http://www.eurosurveillance.org/images/dynamic/EE/V17N40/art20290.pdf | title=Severe respiratory illness caused by a novel coronavirus, in a patient transferred to the United Kingdom from the Middle East, September 2012 | date=27 September 2012 | last2=Chand | first2=MA. | last3=Brown | first3=CS. | last4=Aarons | first4=E. | last5=Tong | first5=C. | last6=Langrish | first6=C. | last7=Hoschler | first7=K. | last8=Brown | first8=K. | last9=Galiano | first9=M. | journal=[[Eurosurveillance]] | volume=17 | issue=40 | page=20290 | doi=10.2807/ese.17.40.20290-en | pmid=23078800| doi-access=free }}</ref><ref name="thechart.blogs">{{cite news | url=http://thechart.blogs.cnn.com/2012/09/24/new-sars-like-virus-poses-medical-mystery/ | title=New SARS-like virus poses medical mystery | publisher=[[CNN]] | date=24 September 2012 | access-date=27 September 2012 | last=Falco | first=Miriam}}</ref><ref name="Al-Ahdal-2012">{{cite journal | date=Oct 2012 | first2=AA. | first3=S. | journal=J Infect Dev Ctries | issue=10 | doi=10.3855/jidc.3084 | first1=MN. | last1=Al-Ahdal | title=Coronavirus respiratory illness in Saudi Arabia | last2=Al-Qahtani | last3=Rubino | volume=6 | pages=692–4 | pmid=23103889| doi-access=free }}</ref>
+
+Another patient who had been in [[Guy's and St Thomas' NHS Foundation Trust|Guys and St Thomas]] hospital in the UK since September 2012 after visiting the Middle East died on 28 June 2013. A spokesperson for the hospital stated that "Guys and St Thomas can confirm that the patient with severe respiratory illness due to novel coronavirus (MERS-COV) died on Friday 28 June, after his condition deteriorated despite every effort and full supportive treatment."<ref>{{cite news | url=http://www.huffingtonpost.co.uk/2013/07/04/man-sars-dies-st-thomas-hospital-london_n_3545349.html | title=Britain records new death from MERS virus |agency=[[Associated Press]] | date=4 July 2013 | access-date=18 July 2013 |work=[[The Huffington Post]]}}</ref>
+
+As of April 2014, the [[European Centre for Disease Prevention and Control]] reported a total of 4 cases in the United Kingdom, 3 of which were fatalities.<ref name="ECDC tally"/>
+
+===North America===
+
+====United States====
+On 2 May 2014, the United States Centers for Disease Control (CDC) confirmed the first diagnosis of MERS-CoV in the United States in Indiana. The man diagnosed was a healthcare worker who had been in Saudi Arabia a week earlier, and was reported to be in good condition.<ref>{{cite web | url=https://abcnews.go.com/Health/wireStory/cdc-confirms-case-mers-infection-us-23568103 | title=CDC Confirms First Case of MERS in US | work=[[ABC News]] | date=2 May 2014 | access-date=4 May 2014 | author=Mike Stobbe}}</ref><ref>{{cite news | title=American Returns from Mideast With MERS Virus | date=3–4 May 2014 | work=[[The Wall Street Journal]]| author=McKay, Betsy | pages=A3}}</ref> Another case, a Florida man from the Orlando area, was reported, and a third Illinois man was at that point asymptomatic but had tested positive for a past infection with the healthcare worker from Indiana. The latter case was the first human-to-human transmission in the United States.<ref name="Third US case">{{cite web | url=http://www.nbcnews.com/storyline/mers-mystery/illinois-man-third-u-s-mers-infection-cdc-says-n108066 | title=Illinois Man is Third U.S. MERS Infection, CDC Says | work=[[NBC News]] | date=18 May 2014 | access-date=18 May 2014 | author=Jonel Aleccia}}</ref> On 28 May 2014, the CDC announced that the third person who was found positive for the virus was not infected. The announcement came after a further laboratory analysis by CDC indicating that the person was never infected with the virus.<ref>{{cite web | url=http://www.chicagotribune.com/news/local/breaking/chi-illinois-mers-patient-20140528,0,4936046.story | title=CDC: Illinois man who met with U.S. MERS patient was not infected after all | website=[[Los Angeles Times]] | date=28 May 2014 | access-date=8 June 2014 | author=Kaplan, Karen}}</ref>
+
+==Notes==
+{{reflist|group=notes}}
+
+==References==
+{{reflist|refs=
+<ref name=USAToday2jun2015>{{cite news | url=https://www.usatoday.com/story/news/2015/06/02/mers-spreads-south-korea/28373087/ | title=South Korean MERS outbreak likely to spread, health officials say | date=2 June 2015 | first=Liz | last=Szabo | work=[[USA Today]]}}</ref>
+}}
+
+==External links==
+* [https://web.archive.org/web/20130227034125/http://www.who.int/csr/don/archive/disease/coronavirus_infections/en/ Coronavirus infections - Global Alert and Response (GAR)] information – [[World Health Organization]]
+* [https://www.cdc.gov/coronavirus/mers/ Middle East Respiratory Syndrome (MERS)] information – [[Center for Disease Control]]
+* [https://web.archive.org/web/20140504020907/http://coronamap.com/ MERS CoronaMap - Realtime tracking of MERS cases]
+
+{{Zoonotic viral diseases |state=collapsed}}
+{{Epidemics}}
+
+[[Category:2010s disease outbreaks]]
+[[Category:Middle East respiratory syndrome]]
+[[Category:2012 health disasters]]
+[[Category:2012 in Asia]]
+[[Category:2012 in Jordan]]
+[[Category:2012 in Qatar]]
+[[Category:2012 in Saudi Arabia]]
+[[Category:2012 in the United Arab Emirates]]
+[[Category:Disease outbreaks in Jordan]]
+[[Category:Disease outbreaks in Qatar]]
+[[Category:Disease outbreaks in Saudi Arabia]]
+[[Category:Disease outbreaks in the United Arab Emirates]]

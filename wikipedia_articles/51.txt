@@ -1,0 +1,135 @@
+{{short description|Outbreak of the 2009 pandemic H1N1 virus in India}}
+{{Infobox event
+|title=Outbreak Of Swine Flu In India (2015)
+|image=File:H1N1 influenza virus.jpg
+|caption=[[Electron microscope]] image of the [[reassortment|reassorted]] H1N1 influenza virus photographed at the CDC Influenza Laboratory.
+|date=1 January 2015 – May 2015
+|place=[[India]]
+|casualties1=2,035 dead <small>(as of 30 March 2015)</small>
+|casualties2=33,761 infected <small>(as of 30 March 2015)</small>
+}}
+
+'''2015 Indian swine flu outbreak''' refers to an outbreak of the [[Influenza A virus subtype H1N1|H1N1 virus]]<ref name=NotSwineFlu>{{cite news|title='It's H1N1 pandemic influenza 2009, not swine flu'|url=http://timesofindia.indiatimes.com/city/bhopal/Its-H1N1-pandemic-influenza-2009-not-swine-flu/articleshow/46306847.cms|access-date=22 February 2015|work=[[The Times of India]]|date=20 February 2015}}</ref> in India, during early 2015. The states of [[Gujarat]] and [[Rajasthan]] were the worst affected.<ref name="THE2">{{cite web|url=http://indianexpress.com/article/india/india-others/swine-flu-deaths-at-1895-cases-near-32k-mark/|title=Swine flu deaths at 1,895; number of cases near 32K mark|author=Press Trust of India|publisher=[[The Indian Express]]|date=March 21, 2015|access-date=March 21, 2015}}</ref><ref name=DeadlySwineFlu>{{cite news|title=India struggles with deadly swine flu outbreak|url=https://www.bbc.com/news/world-asia-india-31547455|access-date=21 February 2015|work=[[BBC News]]|date=20 February 2015}}</ref><ref name=GJDeadlySwineFlu>{{cite news|title=Death toll Gujarat|url=http://www.business-standard.com/article/pti-stories/swine-flu-claims-5-more-lives-toll-mounts-to-387-in-gujarat-115031500609_1.html|access-date=15 March 2015|work=[[Business Standard]]|date=15 March 2015}}</ref>
+
+India had reported 937 cases and 218 deaths from swine flu in the year 2014. By mid-February 2015, the reported cases and deaths in 2015 had surpassed the previous numbers.<ref name=RingingBells/> The total number of laboratory confirmed cases crossed 33,000 mark with death of more than 2,000 people.
+
+==Background==
+The [[Influenza A virus subtype H1N1|H1N1]] virus outbreak had previously occurred in India during the [[2009 flu pandemic]]. The virus killed 981 people in 2009 and 1,763 in 2010. The mortality decreased in 2011 to 75. It claimed 405 lives in 2012 and 699 lives in 2013. In 2014, a total of 218 people died from the H1N1 flu, India recorded 837 laboratory confirmed cases in the year.<ref name=RingingBells>{{cite news|title=Swine flu outbreak: 743 deaths, 12,000 cases set alarm bells ringing|url=http://www.hindustantimes.com/india-news/swine-flu-outbreak-743-deaths-12000-positive-cases-set-alarm-bells-ringing-across-india/article1-1319158.aspx|archive-url=https://web.archive.org/web/20150221092434/http://www.hindustantimes.com/india-news/swine-flu-outbreak-743-deaths-12000-positive-cases-set-alarm-bells-ringing-across-india/article1-1319158.aspx|url-status=dead|archive-date=February 21, 2015|access-date=21 February 2015|work=[[Hindustan Times]]|date=21 February 2015}}</ref>
+
+Every year, there was a rise in number of cases and deaths during winter as temperature affects virus. During 2014–15 winter, there was a spurt in cases at the end 2014. In 2015, the outbreak became widespread through India. On 12 February 2015, Rajasthan declared an [[epidemic]].<ref name=SwineFlueEpidemic>{{cite news|title=Rajasthan declares swine flu epidemic|url=http://www.business-standard.com/article/current-affairs/rajasthan-declares-swine-flu-epidemic-115021201672_1.html|access-date=22 February 2015|work=[[Business Standard]]|date=13 February 2015}}</ref>
+
+==Reported cases by states==
+By 20 March, according to the data released by the [[Ministry of Health and Family Welfare|Health Ministry]], 31,974 cases had been reported and 1,895 person had died to the disease.<ref name="THE">{{cite web|url=http://m.thehindu.com/sci-tech/health/swine-flu-toll-inches-towards-1900-no-of-cases-crosses-31000/article7011912.ece/|title=Swine flu toll inches towards 1,900|author=PTI|work=[[The Hindu]]|date=March 19, 2015|access-date=March 20, 2015|archive-url=https://archive.today/20150320080119/http://m.thehindu.com/sci-tech/health/swine-flu-toll-inches-towards-1900-no-of-cases-crosses-31000/article7011912.ece/|archive-date=2015-03-20|url-status=dead}}</ref>
+
+{| class="wikitable sortable"
+|-
+! State !! data-sort-type="number" | Reported cases !! data-sort-type="number" | Number of deaths
+!Death rate!! Notes
+|-
+| [[Rajasthan]] || 6,559 || 418
+|6.33%||<small>As of 30 March 2015</small>
+|-
+| [[Gujarat]] ||  6,500 || 428
+|6.59%||<small>As of 30 March 2015</small>
+|-
+| [[Delhi]] || 4,137 || 13
+|0.29%||<small>As of 20 March 2015</small><ref name="THE2"/>
+|-
+| [[Maharashtra]] || 4,000+ || 394
+|9.85%||<small>As of 30 March 2015</small>
+|-
+| [[Madhya Pradesh]] || 2,185 || 299
+|13.68%||<small>As of 30 March 2015</small>
+|-
+| [[Telangana]] || 2,140+ || 75
+|3.50%||<small>As of 30 March 2015</small><ref name="TELL">{{cite news|title=75 Swine Flu Deaths in Telangana; 32 Fresh Cases Reported|url=http://m.ndtv.com/telangana-news/75-swine-flu-deaths-in-telangana-32-fresh-cases-reported-748391|author=Press Trust of India|access-date=21 March 2015|work=[[NDTV]]|date=21 March 2015}}</ref>
+|-
+| [[Tamil Nadu]] || 320 || 14
+|4.38%||<small>As of 20 March 2015</small><ref name="THE2"/><ref name=Toll9March>{{cite news|title=Swine flu toll climbs to 1,482|url=http://www.thehindu.com/news/national/swine-flu-toll-climbs-to-1482/article6979611.ece|access-date=13 March 2015|work=[[The Hindu]]|date=11 March 2015}}</ref><ref name=TamilNadu6March>{{cite news|title=Egmore Woman Latest Victim of Swine Flu, Tamil Nadu Swine Flu Toll Rises to 12|url=http://www.newindianexpress.com/cities/chennai/Egmore-Woman-Latest-Victim-of-Swine-Flu-Tamil-Nadu-Swine-Flu-Toll-Rises-to-12/2015/03/06/article2700228.ece|access-date=13 March 2015|work=[[The New Indian Express]]|date=6 March 2015}}</ref>
+|-
+| [[Karnataka]] || 2,733 || 82
+|3.00%||<small>As of 30 March 2015</small>
+|-
+| [[Punjab, India|Punjab]] || 227 || 53
+|23.35%||<small>As of 30 March 2015</small>
+|-
+| [[Andhra Pradesh]] || 72 || 22
+|30.56%||<small>As of 20 March 2015</small><ref name="THE2"/>
+|-
+| [[Uttar Pradesh]] || 165 || 36
+|21.82%||<small>As of 19 March 2015</small><ref name="THE2"/>
+|-
+| [[Chhattisgarh]] || || 17
+| ||<small>As of 20 March 2015</small><ref name="THE2"/>
+|-
+| [[Goa]] || 7 || 1
+|14.29%||
+|-
+| [[Jammu and Kashmir (state)|Jammu and Kashmir]] || 109 || 16
+|14.68%||<small>As of 20 March 2015</small><ref name="THE2"/>
+|-
+| [[Himachal Pradesh]] || || 20
+| ||<small>As of 20 March 2015</small><ref name="THE2"/>
+|-
+| [[Kerala]] || 25 || 12
+|48.00%||<small>As of 20 March 2015</small><ref name="THE2"/>
+|-
+| [[Uttarakhand]] || || 11
+| ||<small>As of 20 March 2015</small><ref name="THE2"/>
+|-
+|  [[Odisha]] || 22 || 5
+|22.73%||<small>As of 11 March 2015</small><ref name=Odisha9March>{{cite news|title=22 swine flu cases in Odisha|url=http://zeenews.india.com/news/health/health-news/22-swine-flu-cases-in-odisha_1558566.html|access-date=13 March 2015|work=[[Zee News]]|date=9 March 2015}}</ref>
+|-
+| [[West Bengal]] || 58 || 24
+|41.38%||<small>As of 20 March 2015</small><ref name="THE2"/>
+|-
+| [[Assam]] || 10 || 1
+|10.00%||<small>As of 9 March 2015</small><ref name=Assam9March>{{cite news|title=As swine flu toll crosses 1400, Assam reports first death|url=http://www.hindustantimes.com/india-news/swine-flu-toll-crosses-1-400-mark-assam-reports-first-death/article1-1324463.aspx|archive-url=https://web.archive.org/web/20150309232810/http://www.hindustantimes.com/india-news/swine-flu-toll-crosses-1-400-mark-assam-reports-first-death/article1-1324463.aspx|url-status=dead|archive-date=March 9, 2015|access-date=13 March 2015|work=[[Hindustan Times]]|date=9 March 2015}}</ref>
+|-
+| [[Manipur]] || 5 || 2
+|40.00%||<small>As of 12 March 2015</small><ref>{{cite web | url=http://www.telegraphindia.com/1150312/jsp/northeast/story_8118.jsp|title=Manipur swine flu patient dies - Assam brakes on tests|publisher=The Telegraph|date=March 12, 2015|access-date=March 20, 2015}}</ref>
+|-
+| [[Mizoram]] || 4 ||
+|0.00%||<small>As of 20 March  2015</small><ref>{{cite web|url=http://m.timesofindia.com/city/guwahati/Swine-flu-2-more-test-positive-in-Mizoram/articleshow/46626658.cms|title=Swine flu: 2 more test positive in Mizoram|author=The Times of India|work=[[The Times of India]]|date=March 20, 2015|access-date=March 20, 2015}}</ref>
+|-
+| [[Nagaland]] || 1 ||
+|0.00%||<small>As of 18 February 2015</small><ref>{{cite web|url=http://m.thehindu.com/news/national/first-swine-flu-case-reported-in-nagaland/article6907880.ece/|title=First swine flu case in Northeast|author=Iboyaima Laithangbam|work=[[The Hindu]]|date=February 18, 2015|access-date=March 20, 2015|archive-url=https://archive.today/20150320091216/http://m.thehindu.com/news/national/first-swine-flu-case-reported-in-nagaland/article6907880.ece/|archive-date=March 20, 2015|url-status=dead|df=mdy-all}}</ref>
+|-
+| '''Total''' || '''33,761''' || '''2,035'''
+|'''6.03%'''||<small>As of 30 March 2015</small>
+|}
+
+Although Delhi, Karnataka, Telangana reported a large number of cases, the death toll was lower due to better awareness and a better developed health care sector.<ref name=Nears600>{{cite news|title=Swine flu death toll nears 600 in India|url=http://timesofindia.indiatimes.com/india/Swine-flu-death-nears-600-in-India/articleshow/46271578.cms|access-date=21 February 2015|work=[[The Times of India]]|date=17 February 2015}}</ref>
+
+==Timeline==
+
+On 13 February 2015, the [[Ministry of Health and Family Welfare|Health Ministry]]  began the procurement process of 60,000 units of [[Oseltamivir]] (Tamiflu) and 10,000 units of N-95 masks. A tender for 10,000 diagnostic kits was floated.<ref name=FluDrug>{{cite news|title=Facing shortage, Govt expedites procurement of swine flu drug|url=http://timesofindia.indiatimes.com/india/Facing-shortage-Govt-expedites-procurement-of-swine-flu-drug/articleshow/46223851.cms|access-date=21 February 2015|work=[[The Times of India]]|date=13 February 2015}}</ref> The Health Ministry on 18 February 2015 said in a press release that there was no shortage of drugs or [[logistics]] problems.<ref name=UrgesCalm>{{cite news|title=Indian health officials urge calm as swine flu outbreak spreads|url=http://america.aljazeera.com/articles/2015/2/20/indian-health-officials-urge-calm-as-swine-flu-outbreak-spreads.html|access-date=21 February 2015|work=[[Al Jazeera]]|date=20 February 2015}}</ref> By 22 February 2015, more than 13,688 had been infected and death toll was reported to be 812 in the year 2015.<ref name=800DeathToll>{{cite news|title=Swine flu claims 38 more lives, death toll crosses 800|url=http://www.business-standard.com/article/pti-stories/swine-flu-claims-38-more-lives-death-toll-crosses-800-115022200396_1.html|access-date=22 February 2015|work=[[Business Standard]]|date=22 February 2015}}</ref>
+
+The President of the North West Chemist Association, Hakim Kapasi said in mid-February 2015 that, private pharmacies were facing a shortage because Oseltamivir was a controlled [[Schedule X]] drug and very few pharmacies had the license to sell it.<ref name=FluDrug/>
+
+[[Aligarh Muslim University]] and [[National Law University]] in [[Jodhpur]] suspended classes in mid-February after some of their students tested positive.<ref name=StudyRise>{{cite news|title=India Deploys Expert Teams to Study Rise in Flu Cases|url=https://www.nytimes.com/2015/02/20/world/asia/india-deploys-expert-teams-to-study-rise-in-flu-cases.html|access-date=21 February 2015|work=[[The New York Times]]|date=19 February 2015}}</ref>
+
+In mid-February, the [[Government of Delhi]] fixed the price of swine flu diagnostics tests at {{currency|4,500|INR}} and the labs charging more that were issued [[show cause]] notices subject to cancellation of license.<ref name=Overcharging>{{cite news|title=Delhi: Show cause notice to 2 labs for overcharging for swine flu test|url=http://ibnlive.in.com/news/delhi-show-cause-notice-to-2-labs-for-overcharging-for-swine-flu-test/529827-17.html|archive-url=https://web.archive.org/web/20150225195227/http://ibnlive.in.com/news/delhi-show-cause-notice-to-2-labs-for-overcharging-for-swine-flu-test/529827-17.html|url-status=dead|archive-date=25 February 2015|access-date=22 February 2015|work=[[IBNLive]]|date=21 February 2015}}</ref> On 24 February, the [[District Collector]] of [[Ahmedabad]], [[Gujarat]], prohibited [[unlawful assembly]] under Section 144 of the [[CrPC]] to prevent spread of the disease.<ref name=Gujarat114>{{cite news|title=Section 144 imposed in Ahmedabad to prevent swine flu as toll mounts to 231 in Gujarat|url=http://timesofindia.indiatimes.com/india/Section-144-imposed-in-Ahmedabad-to-prevent-swine-flu-as-toll-mounts-to-231-in-Gujarat/articleshow/46359843.cms|access-date=13 March 2015|work=[[The Times of India]]|date=24 February 2015}}</ref>
+
+===March===
+A paper published in ''[[Cell (journal)|Cell]] Host and Microbe''<ref>{{cite journal|url=http://www.cell.com/cell-host-microbe/fulltext/S1931-3128(15)00076-1|title=Influenza Surveillance: 2014–2015 H1N1 "Swine"-Derived Influenza Viruses from India|author1=Kannan Tharakaraman|author2=Ram Sasisekharan|doi=10.1016/j.chom.2015.02.019|volume=17|issue=3|journal=Cell Host & Microbe|pages=279–282|year=2015|pmid=25766285|doi-access=free}}</ref> stated that the virus had acquired a mutation which made it easier to infect humans, and called for [[Disease surveillance|real time surveillance]] with genetic and phenotypic analysis made available quickly, noting "Given the global reach of influenza, there is an urgent need to develop a comprehensive and at least somewhat standardized response to influenza epidemic outbreaks." This is contrary to the Indian government's claim that no mutations had been found.<ref name=Mutations>{{cite news|title=Indian swine-flu virus reveals dangerous new mutation|url=http://www.business-standard.com/article/current-affairs/indian-swine-flu-virus-reveals-dangerous-new-mutation-115031200209_1.html|access-date=13 March 2015|work=[[Business Standard]]|date=12 March 2015}}</ref>
+
+On 2 March, [[Maharashtra]] government announced that the cost of treatment of swine-flu patients in the state will be paid by the state government.<ref name=MahaFree>{{cite news|title=Maharashtra to Provide Free Swine Flu Treatment After 150 Deaths|url=http://www.newindianexpress.com/nation/Maharashtra-to-Provide-Free-Swine-Flu-Treatment-After-150-Deaths/2015/03/02/article2694662.ece|access-date=13 March 2015|work=[[The New Indian Express]]|date=2 March 2015}}</ref>
+
+==See also==
+* [[List of epidemics]]
+
+==References==
+{{Reflist|3}}
+
+==External links==
+* {{cite web|title=Swine Flu-H1N1 (Seasonal Influenza)|url=http://mohfw.gov.in/index4.php?lang=1&level=0&linkid=372&lid=3066|publisher=[[Ministry of Health and Family Welfare]]|access-date=7 March 2015}}
+
+{{Disasters in India in 2015}}
+{{Epidemics}}
+
+[[Category:2010s disease outbreaks]]
+[[Category:Disease outbreaks in India]]
+[[Category:2015 disasters in India]]
+[[Category:Influenza outbreaks]]
+[[Category:2015 health disasters]]

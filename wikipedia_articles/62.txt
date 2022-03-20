@@ -1,0 +1,121 @@
+{{Short description|Measles epidemic affecting New Zealand}}
+{{Use dmy dates|date=March 2021}}
+{{Use New Zealand English|date=April 2020}}
+{{Infobox event
+|title       = 2019–2020 New Zealand measles outbreak
+|image       = 2019–2020 Measles Outbreak Cases in New Zealand (DHB Totals).svg
+|caption     = Map of confirmed measles cases in New Zealand during the 2019–2020 outbreak by district health board (DHB)
+|date        = 1 August 2019 – 21 February 2020<ref name="lastcase">{{Cite web |date=24 February 2020 |title=Measles weekly report |url=https://surv.esr.cri.nz/PDF_surveillance/MeaslesRpt/2020/measlesReport20200210.pdf |access-date=4 March 2021 |website=Public Health Surveillance}}</ref>
+* Christchurch
+16 February – 16 May 2019<ref>{{Cite news |title=Canterbury measles outbreak declared officially over |language=en-NZ |work=TVNZ |url=https://www.tvnz.co.nz/one-news/new-zealand/canterbury-measles-outbreak-declared-officially-over |access-date=4 March 2021 |via=TVNZ}}</ref>
+* Auckland
+28 February 2019 – 7 February 2020<ref>{{Cite web |date=10 February 2020 |title=Measles weekly report |url=https://surv.esr.cri.nz/PDF_surveillance/MeaslesRpt/2020/measlesReport20200210.pdf |access-date=4 March 2021 |website=Public Health Surveillance}}</ref>
+| casualties1 = {{aligned table|class=wikitable|fullwidth=y|cols=4
+| row1header = yes|col2style=text-align:right|col3style=text-align:right
+| Country | Cases (conf) | Deaths | Last update
+| <!--New Zealand-->{{flagicon|NZ}} [[New Zealand]]
+| 2,194
+| 2* |<ref name="lastcase" />
+| <!--Australia-->{{flagicon|AUS}} [[Australia]]
+| 74
+| 0 |<ref>{{Cite news |date=4 September 2019 |title=Three cases of Measles in Australia |work=[[9 news]] |url=https://www.9news.com.au/national/measles-outbreak-third-person-diagnosed-in-two-days-news-update-health/4af09237-7dca-4f64-841c-5efee7d46f64 |access-date=6 September 2019}}</ref><ref>{{Cite web |date=18 October 2019 |title=2019 measles outbreak WA Information |url=https://ww2.health.wa.gov.au/Media-releases/2019/Measles-cluster-in-Perth-metropolitan-area-update-7-adults-reminded-to-get-measles-booster |access-date=8 November 2019 |website=[[WA Health]]}}</ref><ref>{{Cite news |date=5 November 2019 |title=Measles outbreak hits Queensland |work=[[7 news]] |url=https://7news.com.au/news/qld/measles-outbreak-hits-queenslands-south-east-amid-vaccination-concerns-c-541415 |access-date=8 November 2019}}</ref>
+| <!--Fiji-->{{flagicon|Fiji}} [[Fiji]]
+| 24
+| 0 |<ref>{{Cite news |date=7 November 2019 |title=Measles Outbreak declared in Fiji |work=[[fijisun]] |url=https://fijisun.com.fj/2019/11/07/health-ministry-declares-measles-outbreak-in-seruanamosi-subdivision/ |access-date=8 November 2019}}</ref>
+| row5style=font-weight:bold; background-color:#f0f0f0
+| Total | '''2,093'' <br />(see note 1) | '''2*''}} {{As of|2020|02|24}}
+}}
+
+The '''2019–2020 New Zealand measles outbreak''' was an [[epidemic]] that affected [[New Zealand]], primarily the [[Auckland Region|Auckland region]].<ref>{{Cite web |title=2019 measles outbreak information |url=https://www.health.govt.nz/your-health/conditions-and-treatments/diseases-and-illnesses/measles/2019-measles-outbreak-information |access-date=2 October 2019 |website=Ministry of Health NZ |language=en |archive-date=2 October 2019 |archive-url=https://web.archive.org/web/20191002054354/https://www.health.govt.nz/your-health/conditions-and-treatments/diseases-and-illnesses/measles/2019-measles-outbreak-information |url-status=dead }}</ref> The outbreak was the worst epidemic in New Zealand since an influenza epidemic in 1999, and is the worst [[measles]] epidemic since 1938.<ref>{{Cite web |title=A timeline of epidemics in New Zealand |url=https://teara.govt.nz/files/27772-enz.pdf}}</ref><ref>{{Cite news |date=9 February 2021 |title=Vaccines mean opening our borders to Covid |language=en-AU |url=https://www.newsroom.co.nz/page/covid-19-when-elimination-ends |access-date=4 March 2021}}</ref>
+
+The D8 strain was confirmed to be the main strain of the epidemic,<ref>{{Cite web |last=Iannelli |first=Vincent |last2=MD |date=13 May 2017 |title=Measles Vaccines vs Measles Strains |url=https://vaxopedia.org/2017/05/12/measles-vaccines-vs-measles-strains/ |access-date=4 February 2021 |website=Vaxopedia |language=en-US}}</ref><ref>{{Cite web |title=National Measles Response and Recovery Appeal, 6 December 2019 - Samoa |url=https://reliefweb.int/report/samoa/national-measles-response-and-recovery-appeal-6-december-2019 |access-date=5 February 2021 |website=ReliefWeb |language=en}}</ref> but the B3 strain has also been identified<ref>{{Cite web |title=2019 Canterbury Measles Outbreak – A summary of cases |url=https://www.cph.co.nz/wp-content/uploads/cantymeaslesoutbreaksummary.pdf |url-status=live |access-date=5 February 2021 |website=New Zealand Community and Public Health|archive-url=https://web.archive.org/web/20200216224221/https://www.cph.co.nz/wp-content/uploads/cantymeaslesoutbreaksummary.pdf |archive-date=16 February 2020 }}</ref> and the epidemic has spread to several other countries. In [[Samoa]] more than 72 people have died.{{R|strain}} Cases in [[Tonga]] and [[Fiji]] have also been recorded, and an outbreak in [[Perth, Australia|Perth]] began in October 2019 after a New Zealander visited while infectious.<ref>{{Cite news |last=Bell |first=Frances |date=2 October 2019 |title=Fears over growing and 'unprecedented' Perth measles outbreak linked to much bigger NZ one |language=en-AU |work=ABC News |url=https://www.abc.net.au/news/2019-10-02/wa-measles-outbreak-spreads-as-infected-new-zealand-man-blamed/11567056 |access-date=4 March 2021}}</ref> In New Zealand, two unborn fetuses in second trimester have died as a result of the outbreak.<ref>{{Cite news |title=Amid Auckland's measles outbreak, two second-trimester unborn babies die |language=en-NZ |work=TVNZ |url=https://www.tvnz.co.nz/one-news/new-zealand/amid-auckland-s-measles-outbreak-two-second-trimester-unborn-babies-die |access-date=2 October 2019}}</ref>
+
+== Policy Response ==
+The New Zealand Government has been criticised for its response to the epidemic, particularly due to shortages in the supply of vaccines.<ref>{{Cite news| url= https://www.newshub.co.nz/home/politics/2019/10/simon-bridges-hits-out-at-government-over-measles-outbreak-handling.html|title=Simon Bridges hits out at Government over measles outbreak handling|last=Fitzgerald|first=Katie|work=Newshub|access-date=2 October 2019|language=en}}</ref><ref>{{Cite news|url=https://www.nzherald.co.nz/northern-advocate/news/article.cfm?c_id=1503450&objectid=12269504|title=47 measles cases in North, MP says not enough action|work=Northern Advocate|last=Laird|first=Lindy|date=20 September 2019|access-date=2 October 2019|language=en-NZ|issn=1170-0777}}</ref> Scientists have also criticised the [[Ministry of Health (New Zealand)|Ministry of Health]] for not acting on previous recommendations to conduct national 'catch-up' campaigns with the [[MMR vaccine]] prior to the outbreak.<ref>{{Cite web|url=https://www.stuff.co.nz/national/health/116221847/shameful-measles-outbreak-predicted|title='Shameful' measles outbreak predicted|last=Hancock|first=Farah|website=Stuff|language=en|access-date=2 October 2019}}</ref>
+
+In 2017 the New Zealand [[Ministry of Health (New Zealand)|Health Ministry]] produced documents that showed an urgent need to increase measles immunisation among young people and that a "systematic, programmatic approach" was needed to address an immunity gap. <ref>{{Cite web|date=July 18, 2019|title=Measles outbreak: Call for national approach |url=https://www.scoop.co.nz/stories/HL1907/S00102/measles-outbreak-call-for-national-approach.htm|access-date=2021-02-05|website=www.scoop.co.nz}}</ref> Dr [[Nikki Turner (academic general practitioner)|Nikki Turner]], Chair of the National Measles Verification Committee, met in 2018 to discuss the immunisation gap. It was noted damage was historical and immunisation rates had improved but by 2019 the gap had not been fully addressed. Many young people did not know if they had been vaccinated which indicated that poor record keeping contributed to ineffective delivery.<ref name=turner>{{Cite web|title=A measles epidemic in New Zealand: Why did this occur and how can we prevent it occurring again?|url=https://www.nzma.org.nz/journal-articles/a-measles-epidemic-in-new-zealand-why-did-this-occur-and-how-can-we-prevent-it-occurring-again|access-date=2021-02-05|website=www.nzma.org.nz}}</ref> David Haymen and Turner concluded that the best way to close the immunity gap was to undertake a formal catch-up programme.<ref>{{Cite web|date=2019-05-25|title=Joining the dots: What’s really causing New Zealand’s measles epidemics|url=https://www.rnz.co.nz/news/in-depth/390561/joining-the-dots-what-s-really-causing-new-zealand-s-measles-epidemics|access-date=2021-02-05|website=RNZ|language=en-nz}}</ref>
+
+Research into the 2019 epidemic traced its history and showed it was young infants who were most at risk, followed by teenagers and adults under the age of 30.<ref name=turner/> Analysis by the [[Immunisation Advisory Centre, New Zealand|Immunisation Advisory Centre]] found that a generation born between 1982 and 2007 had low immunization rates, and vaccination records are incomplete for that period as the National Immunisation Register was introduced in 2005.<ref name="Newton_2019">{{cite news |last1=Newton |first1=Kate |title=Joining the dots: What’s really causing New Zealand’s measles epidemics |url=https://www.rnz.co.nz/news/in-depth/390561/joining-the-dots-what-s-really-causing-new-zealand-s-measles-epidemics |access-date=27 March 2021 |work=RNZ |date=25 May 2019 |language=en-nz}}</ref> Research also suggested management strategies such as a national campaign targeting the at-risk age groups; establishment of systems to ensure adequate supplies of vaccines; provision of support for their delivery at the practice level; and creative use of community facilities to improve accessibility.{{cn|date=June 2021}}
+
+During the [[COVID-19 pandemic in New Zealand]], it became apparent that in the drive to obtain a vaccine for that outbreak, there was a stall in getting measles vaccination programmes rolled out effectively. Turner warned that because of this, it was possible that there would be "bigger problems with children dying from measles, and the damage from measles, than Covid."<ref>{{Cite web|title=Nikki Turner: Let's keep our eyes on the ball - The University of Auckland|url=https://www.auckland.ac.nz/en/news/2020/11/02/immunisation-expert-nikki-turner-vaccine-awareness.html|access-date=2021-02-05|website=www.auckland.ac.nz}}</ref>
+
+Although New Zealand has had a high demand for the MMR vaccine, resulting in a shortage, there has also been an increase in the number of people who have declined the vaccine since 2017.<ref name=":0">{{Cite journal|last=Patel|first=Manisha|last2=Lee|first2=Adria D.|last3=Clemmons|first3=Nakia S.|last4=Redd|first4=Susan B.|last5=Poser|first5=Sarah|last6=Blog|first6=Debra|last7=Zucker|first7=Jane R.|last8=Leung|first8=Jessica|last9=Link-Gelles|author9-link=Ruth Link-Gelles|first9=Ruth|last10=Pham|first10=Huong|last11=Arciuolo|first11=Robert J.|date=11 October 2019|title=National Update on Measles Cases and Outbreaks — United States, January 1 – October 1, 2019|journal=Morbidity and Mortality Weekly Report|volume=68|issue=40|pages=893–896|doi=10.15585/mmwr.mm6840e2|issn=0149-2195|pmc=6788396|pmid=31600181}}</ref>
+
+== Cases ==
+As of 24 February 2020, there had been 2,194 cases of measles reported throughout New Zealand since 1 January 2019.<ref name="lastcase" /> Auckland had been the worst-hit region, with 1,736 cases alone.<ref name="lastcase" /> The New Zealand government activated the National Health Coordination Center in August 2019 to respond to the outbreak.<ref>{{Cite web|last1 = Small | first1 = Zane | last2 = Lynch | first2 = Jenna | url=https://www.newshub.co.nz/home/politics/2019/08/this-is-serious-national-health-coordination-centre-activated-over-measles-outbreak.html |title='This is serious': National Health Coordination Centre activated over measles outbreak |website = [[Newshub]]}}</ref>
+
+{| class="wikitable sortable mw-collapsible" style="text-align:center; font-size:90%;"
+|+ class="nowrap" | Confirmed cases by District Health Board (24 February 2020)<ref name="lastcase" />
+! Region
+! Cases
+! Hospitalised
+|-
+| [[Northland District Health Board|Northland]] || 133 || 23
+|-
+| [[Waitematā District Health Board|Waitematā]] || 306 || 129
+|-
+| [[Auckland District Health Board|Auckland]] || 274 || 108
+|-
+| [[Counties Manukau District Health Board|Counties Manukau]] || 1,157 || 435
+|-
+| [[Waikato District Health Board|Waikato]] || 51 || 12
+|-
+| [[Lakes District Health Board|Lakes]] || 30 || 6
+|-
+| [[Bay of Plenty District Health Board|Bay of Plenty]] || 45 || 19
+|-
+| [[Tairāwhiti District Health Board|Tairāwhiti]] || 0 || 0
+|-
+| [[Taranaki District Health Board|Taranaki]] || 8 || 3
+|-
+| [[Hawke's Bay District Health Board|Hawke's Bay]] || 26 || 8
+|-
+| [[Whanganui District Health Board|Whanganui]] || 0 || 0
+|-
+| [[MidCentral District Health Board|MidCentral]] || 10 || 0
+|-
+| [[Hutt Valley District Health Board|Hutt Valley]] || 9 || 1
+|-
+| [[Capital and Coast District Health Board|Capital and Coast]] || 24 || 7
+|-
+| [[Wairarapa District Health Board|Wairarapa]] || 1 || 0
+|-
+| [[Nelson Marlborough District Health Board|Nelson Marlborough]] || 1 || 0
+|-
+| [[West Coast District Health Board|West Coast]] || 0 || 0
+|-
+| [[Canterbury District Health Board|Canterbury]] || 44 || 17
+|-
+| [[South Canterbury District Health Board|South Canterbury]] || 2 || 0
+|-
+| [[Southern District Health Board|Southern]] || 73 || 6
+|-
+! Total (nationwide)
+! 2,194
+! 774
+|}
+
+==See also==
+* [[Taylor Winterstein]], Samoan anti-vaccination campaigner
+* [[2019 Samoa measles outbreak]]
+* [[2019 Tonga measles outbreak]]
+* [[2019 Philippines measles outbreak]]
+* [[Chemophobia]]
+* [[Measles resurgence in the United States]]
+* [[Vaccination]]
+* [[Vaccine hesitancy]]
+
+== References ==
+{{Reflist|30em|refs=
+<ref name="strain">{{cite web |title=WHO/UNICEF Secretariat Supporting Measles Outbreak Preparedness and Response in the Pacific |url=https://www.who.int/docs/default-source/wpro---documents/dps/outbreaks-and-emergencies/measles-2019/measles-pacific-sitrep-20191122-docx.pdf?sfvrsn=d8166638_2 |website=WHO |access-date=16 December 2019}}</ref>
+}}
+
+{{2019 measles outbreaks}}
+{{Epidemics}}
+
+{{DEFAULTSORT:2019-2020 New Zealand measles outbreak}}
+[[Category:2019 measles outbreaks|New Zealand]]
+[[Category:2019 in New Zealand|measles]]
+[[Category:2020 measles outbreaks|New Zealand]]
+[[Category:2020 in New Zealand|measles]]
+[[Category:Disease outbreaks in New Zealand]]

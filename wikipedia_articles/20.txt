@@ -1,0 +1,35 @@
+A lack of clean drinking water in [[Iraq]] in 2007 led to an outbreak  of [[cholera]].<ref>{{cite news |title=U.N. reports cholera outbreak in northern Iraq |url=http://www.cnn.com/2007/WORLD/meast/08/29/iraq.cholera/index.html |publisher=CNN |date= 2007-08-30|access-date=2007-08-30 }}</ref> A total of approximately 7,000 people were infected, with 10 deaths reported.<ref>{{cite web|url=https://www.who.int/csr/don/2008_09_10a/en/|archive-url=https://web.archive.org/web/20141003031604/http://www.who.int/csr/don/2008_09_10a/en/|url-status=dead|archive-date=October 3, 2014|title=Cholera in Iraq|publisher=WHO|date=10 September 2008|access-date=22 October 2017}}</ref>
+
+According to Ryadh Abdul Ameer, the director of the Basra health ministry, basic water sterilization became impossible in some places due to restrictions on the availability of [[chlorine]] for water sterilization.<ref>{{cite news
+|url=https://www.nytimes.com/2007/09/21/world/middleeast/21iraq.html?ref=middleeast
+|title=Cases of Cholera Reach Baghdad
+|work=New York Times
+|date=2007-09-21
+|access-date=2007-09-26
+| first=Andrew E.
+| last=Kramer
+}}</ref>
+
+A shipment of 100,000 tons of chlorine was held up at the Jordanian border because of government restrictions on chlorine based on concerns that the chemical could be used in explosives.<ref>{{cite news
+|url= http://www.nctimes.com/articles/2007/09/22/news/nation/18_25_079_21_07.txt
+|title=Cholera spreads to Iraq's southernmost city, officials concerned about shortage of chlorine
+|publisher=Associated Press, via North County Times
+|date=2007-09-21
+|access-date=2007-09-26}}</ref>
+
+== See also ==
+* [[Chlorine bombings in Iraq]]
+
+== References ==
+<references />
+
+{{cholera}}
+
+{{Epidemics}}
+
+{{DEFAULTSORT:Iraq Cholera Outbreak}}
+[[Category:2007 in Iraq]]
+[[Category:2000s disease outbreaks]]
+[[Category:Cholera outbreaks|2007]]
+[[Category:2007 health disasters]]
+[[Category:Disease outbreaks in Iraq]]
