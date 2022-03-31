@@ -4,8 +4,9 @@ This dataset was built based on a segment of the collection of surveys/articles 
 
 The dataset is split in two directories:
 
+  * `wikipedia-articles`: base wikipedia articles for each epidemic in raw .txt format
   * `references`: reference key-phrases for evaluation purposes
-  * `test`: test set of articles in raw .txt format
+  * `test`: test set of articles belonging to each epidemic in raw .txt format
 
 In order to build the test set, surveys were extracted in pdf form and converted in .txt format using https://pypi.org/project/pdfminer/.
 
