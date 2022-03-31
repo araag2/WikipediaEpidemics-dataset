@@ -11,7 +11,7 @@ In order to build the test set, surveys were extracted in pdf form and converted
 
 As for reference key-phrases, they're in the JSON (https://www.json.org/json-en.html) format and are named accordingly:
 
-    test[-stem]?.json
+    test[-stem|-lem]?.json
 
 All key-phrases were provided by the source surveys. Stemming was done using the nltk PorterStemmer https://www.nltk.org/_modules/nltk/stem/porter.html.
 
